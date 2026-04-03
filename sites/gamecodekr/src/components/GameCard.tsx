@@ -8,23 +8,30 @@ export function GameCard({ game }: GameCardProps) {
   return (
     <a
       href={`/${game.slug}`}
-      className="block rounded-lg border border-gray-200 p-4 hover:border-blue-300 hover:shadow-sm transition-all"
+      className="block overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition-all hover:shadow-md hover:border-slate-300"
     >
-      <div className="flex items-center gap-3">
-        <span className="text-3xl">{game.icon}</span>
-        <div>
-          <h2 className="font-bold text-lg">{game.title}</h2>
-          <p className="text-sm text-gray-500">{game.titleEn}</p>
-        </div>
+      <div className="flex h-[72px] items-center justify-center bg-gradient-to-br from-slate-100 to-slate-50">
+        <img
+          src={game.imageUrl}
+          alt={game.title}
+          className="h-14 w-14 rounded-lg border-2 border-white object-cover shadow-sm"
+        />
       </div>
-      <p className="mt-2 text-sm text-gray-600">{game.description}</p>
-      <div className="mt-3 flex gap-2">
-        {game.hasCode && (
-          <span className="rounded bg-blue-50 px-2 py-0.5 text-xs text-blue-700">코드</span>
-        )}
-        {game.hasTier && (
-          <span className="rounded bg-purple-50 px-2 py-0.5 text-xs text-purple-700">티어표</span>
-        )}
+      <div className="p-3">
+        <h2 className="text-sm font-bold text-slate-900">{game.title}</h2>
+        <p className="text-xs text-slate-400">{game.titleEn}</p>
+        <div className="mt-2 flex gap-1.5">
+          {game.hasCode && (
+            <span className="rounded bg-green-50 px-1.5 py-0.5 text-[10px] font-medium text-green-700">
+              코드
+            </span>
+          )}
+          {game.hasTier && (
+            <span className="rounded bg-blue-50 px-1.5 py-0.5 text-[10px] font-medium text-blue-700">
+              티어표
+            </span>
+          )}
+        </div>
       </div>
     </a>
   );
