@@ -1,0 +1,159 @@
+{
+  "game": "all-star-tower-defense",
+  "gameTitle": "올스타 타워 디펜스",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-03T10:00:00Z",
+  "category": "유닛",
+  "tiers": {
+    "S+": [
+      {
+        "name": "Goku (Ultra Instinct)",
+        "nameKo": "고쿠 (극의)",
+        "rank": "S+",
+        "description": "극의(울트라 인스팅트) 상태의 고쿠! 싱글 타겟 DPS(초당 피해량)가 게임 내 최상위권이야. 어떤 스테이지에서도 꼭 들어가는 필수 유닛이야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Madara (6★)",
+        "nameKo": "마다라 (6성)",
+        "rank": "S+",
+        "description": "6성으로 진화한 마다라! 광역 공격(여러 적 동시 공격) 능력이 압도적이야. 여러 적이 몰려오는 웨이브(파도처럼 적이 오는 것) 처리에 최강이야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "S": [
+      {
+        "name": "Naruto (Sage Mode)",
+        "nameKo": "나루토 (선인 모드)",
+        "rank": "S",
+        "description": "선인 모드 나루토! 범위 공격과 버프(아군 강화) 능력이 뛰어나. 팀 전체를 강하게 만들어줘서 어떤 팀에도 잘 어울려.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Ichigo (Final Getsuga)",
+        "nameKo": "이치고 (최종 월아천충)",
+        "rank": "S",
+        "description": "최종 월아천충을 사용하는 이치고! 강력한 단일 공격으로 보스(강한 적 한 명)를 빠르게 처리할 수 있어.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Vegeta (Super Saiyan Blue)",
+        "nameKo": "베지터 (초사이어인 블루)",
+        "rank": "S",
+        "description": "초사이어인 블루 베지터! 꾸준한 고화력(높은 공격력)으로 어떤 상황에서도 안정적으로 활약해. 6성 마다라와 세트로 쓰면 더욱 강해.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "A": [
+      {
+        "name": "Sasuke (Rinnegan)",
+        "nameKo": "사스케 (윤회안)",
+        "rank": "A",
+        "description": "윤회안을 가진 사스케! 다양한 공격 기술로 범용성(여러 상황에서 활용 가능한 정도)이 높아. 상급 스테이지에서도 충분히 쓸 수 있어.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Luffy (Gear 5)",
+        "nameKo": "루피 (기어 5)",
+        "rank": "A",
+        "description": "기어 5 루피! 재미있는 공격 패턴과 준수한 데미지로 인기가 많아. S급에는 못 미치지만 팀 구성할 때 좋은 선택이야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Saitama",
+        "nameKo": "사이타마",
+        "rank": "A",
+        "description": "원펀맨 사이타마! 강한 한 방 공격으로 단일 보스 처리에 특화되어 있어. 쿨타임(기술 사용 후 대기 시간)이 길지만 기술 한 방 데미지는 최고야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "B": [
+      {
+        "name": "Kakashi (Susanoo)",
+        "nameKo": "카카시 (스사노오)",
+        "rank": "B",
+        "description": "스사노오 상태의 카카시! 범위 공격과 단일 공격을 모두 할 수 있어. A급 유닛들보다는 약하지만 초중반 스테이지에서는 충분해.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Zoro (Enma)",
+        "nameKo": "조로 (엔마)",
+        "rank": "B",
+        "description": "엔마 검을 사용하는 조로! 강력한 베기 공격이 특기야. 중간 난이도 스테이지까지는 충분히 활약할 수 있어.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Erza (Nakagami Armor)",
+        "nameKo": "에르자 (나카가미 아머)",
+        "rank": "B",
+        "description": "나카가미 갑옷을 입은 에르자! 안정적인 공격과 방어 능력이 있어. 팀에 탱커(체력이 높은 방어 담당)가 필요할 때 좋아.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "C": [
+      {
+        "name": "Gon (Adult)",
+        "nameKo": "곤 (성인)",
+        "rank": "C",
+        "description": "성인이 된 곤! 강한 순간 폭발력이 있지만 현재 메타에서는 더 강한 유닛들에게 밀리는 상황이야.",
+        "changeFromLast": "down",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Killua (Godspeed)",
+        "nameKo": "킬루아 (갓스피드)",
+        "rank": "C",
+        "description": "갓스피드 모드 킬루아! 번개 공격이 빠르지만 전체적인 데미지가 상위 유닛들에 비해 아쉬워.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "D": []
+  },
+  "editorial": {
+    "summary": "2026년 4월 올스타 타워 디펜스는 극의 고쿠와 6성 마다라가 S+를 확고히 유지하고 있어. 루피 기어 5가 A급으로 새로 등장하며 많은 플레이어들이 주목하고 있어. 곤(성인)은 최근 업데이트 이후 C급으로 내려온 상태야.",
+    "recommendation": "초보자라면 나루토(선인 모드)부터 키워봐! 팀 버프 능력이 있어서 다른 유닛들을 더 강하게 만들어주고, 혼자서도 꽤 강해. 목표는 극의 고쿠나 6성 마다라야!"
+  },
+  "meta": {
+    "title": "올스타 타워 디펜스 유닛 티어표 (2026년 4월) | GameCodeKR",
+    "description": "올스타 타워 디펜스 2026년 4월 최신 유닛 티어표. 극의 고쿠, 6성 마다라, 선인 나루토 등 커뮤니티 합의 등급 정리. 초보자 추천 유닛 포함.",
+    "keywords": ["올스타 타워 디펜스", "all star tower defense", "ASTD 티어표", "ASTD 유닛", "극의 고쿠", "6성 마다라", "최강 유닛 2026"]
+  }
+}
