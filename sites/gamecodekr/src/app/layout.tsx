@@ -24,7 +24,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko">
-      <body className="bg-white text-gray-900 antialiased">{children}</body>
+      <body className="bg-slate-50 text-slate-800 antialiased">{children}</body>
     </html>
   );
 }
