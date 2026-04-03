@@ -86,7 +86,7 @@ export default function MonthlyTierPage({
       )}
 
       <div className="mt-6">
-        <TierList tiers={data.tiers} gameIcon={game.icon} />
+        <TierList tiers={data.tiers} />
       </div>
 
       {data.editorial?.recommendation && (
