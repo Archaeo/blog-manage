@@ -1,0 +1,149 @@
+{
+  "game": "tower-defense-simulator",
+  "gameTitle": "타워 디펜스 시뮬레이터",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-03T10:00:00Z",
+  "category": "타워",
+  "tiers": {
+    "S+": [
+      {
+        "name": "Accelerator",
+        "nameKo": "액셀러레이터",
+        "rank": "S+",
+        "description": "타워 디펜스 시뮬레이터 최강 타워! 주변 타워들의 공격 속도를 엄청나게 올려줘(버프). 혼자서도 강하지만 다른 타워와 조합하면 더욱 강해져.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Commander",
+        "nameKo": "커맨더",
+        "rank": "S+",
+        "description": "지휘관 타워! 주변 타워들을 더 강하게 만들어주는 버프(강화) 능력이 핵심이야. 모든 팀 구성에 필수적으로 들어가는 타워야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "S": [
+      {
+        "name": "Ranger",
+        "nameKo": "레인저",
+        "rank": "S",
+        "description": "원거리 저격 타워! 긴 사거리(공격이 닿는 거리)와 높은 단일 데미지가 특기야. 빠른 적(스피드가 높은 몹)을 처리하는 데 특히 좋아.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Golden Minigunner",
+        "nameKo": "황금 미니거너",
+        "rank": "S",
+        "description": "황금 기관총 타워! 엄청난 발사 속도로 다수의 적을 빠르게 제거해. DPS(초당 피해량)가 매우 높아서 어떤 웨이브에서도 활약해.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "A": [
+      {
+        "name": "Turret",
+        "nameKo": "터릿",
+        "rank": "A",
+        "description": "강력한 포대 타워! 높은 공격력과 빠른 공격 속도가 장점이야. 중후반 웨이브(적이 몰려오는 파도)에서 특히 빛을 발해.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Pursuit",
+        "nameKo": "퍼슈트",
+        "rank": "A",
+        "description": "전투기 타워! 공중에서 적에게 폭격을 가해. 범위 공격(여러 적 동시 타격)이 뛰어나서 다수의 적 처리에 유용해.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Militant",
+        "nameKo": "밀리턴트",
+        "rank": "A",
+        "description": "강화 병사 타워! 일반 솔저보다 훨씬 강해. 저렴한 비용 대비 높은 성능을 자랑해서 초중반 방어에 꼭 필요해.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "B": [
+      {
+        "name": "Farm",
+        "nameKo": "팜",
+        "rank": "B",
+        "description": "돈 생산 타워! 직접 공격은 못하지만 돈을 꾸준히 생성해줘. 강한 타워를 빨리 업그레이드(강화)하려면 팜이 필수야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Freezer",
+        "nameKo": "프리저",
+        "rank": "B",
+        "description": "얼리는 타워! 적들을 느리게 만들거나 일시적으로 멈추게 해. 빠른 적이 많이 나올 때 다른 타워들이 공격할 시간을 벌어줘.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Military Base",
+        "nameKo": "군사 기지",
+        "rank": "B",
+        "description": "군사 기지 타워! 주기적으로 병사들을 소환해서 적을 막아. 은근히 괜찮은 성능을 가지고 있어.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "C": [
+      {
+        "name": "Sniper",
+        "nameKo": "스나이퍼",
+        "rank": "C",
+        "description": "저격수 타워! 긴 사거리가 있지만 공격 속도가 느려. 레인저가 있으면 스나이퍼는 잘 쓰지 않게 돼.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Shotgunner",
+        "nameKo": "샷거너",
+        "rank": "C",
+        "description": "산탄총 타워! 가까운 거리에서 여러 적에게 피해를 줄 수 있어. 하지만 사거리가 짧아서 배치에 제한이 있어.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "D": []
+  },
+  "editorial": {
+    "summary": "2026년 4월 타워 디펜스 시뮬레이터에서 액셀러레이터와 커맨더의 S+ 지위는 변함없어. 황금 미니거너는 꾸준히 S급을 유지하며 필수 타워로 자리 잡고 있어. 팜은 전략적으로 매우 중요한 타워야.",
+    "recommendation": "처음 시작한다면 밀리턴트(Militant)와 팜(Farm)을 먼저 업그레이드해봐! 팜으로 돈을 모으고 밀리턴트로 방어하는 게 기본 전략이야. 커맨더는 최우선 목표로 삼아봐!"
+  },
+  "meta": {
+    "title": "타워 디펜스 시뮬레이터 타워 티어표 (2026년 4월) | GameCodeKR",
+    "description": "타워 디펜스 시뮬레이터 2026년 4월 최신 타워 티어표. 액셀러레이터, 커맨더, 레인저 등 커뮤니티 합의 등급 정리. 초보자 추천 타워 포함.",
+    "keywords": ["타워 디펜스 시뮬레이터", "tower defense simulator", "TDS 티어표", "TDS 타워", "액셀러레이터", "커맨더", "최강 타워 2026"]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "game": "shindo-life",
+  "gameTitle": "신도 라이프",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-03T10:00:00Z",
+  "category": "혈계",
+  "tiers": {
+    "S+": [
+      {
+        "name": "Shindai-Akuma",
+        "nameKo": "신다이-아쿠마",
+        "rank": "S+",
+        "description": "신도 라이프 최강 혈계! 엄청난 데미지와 이동기(빠르게 이동하는 기술)를 모두 갖추고 있어. PvP(플레이어 대결)에서 최강 자리를 지키고 있어.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Bankai-Akuma",
+        "nameKo": "반카이-아쿠마",
+        "rank": "S+",
+        "description": "블리치 느낌의 악마 혈계! 강력한 검기 공격과 범위 기술이 뛰어나. 신다이-아쿠마와 함께 메타 최강으로 불리는 혈계야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "S": [
+      {
+        "name": "Rengoku",
+        "nameKo": "렝고쿠",
+        "rank": "S",
+        "description": "불꽃 혈계! 강력한 화염 공격이 특기야. 렝고쿠 특유의 화려한 불꽃 스킬이 멋있어. PvP와 보스 파밍 모두 좋아.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Sengoku",
+        "nameKo": "센고쿠",
+        "rank": "S",
+        "description": "전국 시대 느낌의 혈계! 다양한 공격 기술과 이동기를 갖추고 있어. 범용성(여러 상황에서 쓸 수 있는 정도)이 매우 높은 혈계야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "A": [
+      {
+        "name": "Raion-Akuma",
+        "nameKo": "라이온-아쿠마",
+        "rank": "A",
+        "description": "사자 악마 혈계! 강력한 근접 공격과 함께 좋은 이동기를 갖추고 있어. PvP에서 꽤 강한 모습을 보여주는 혈계야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Akuma",
+        "nameKo": "아쿠마",
+        "rank": "A",
+        "description": "기본 악마 혈계! 신다이-아쿠마의 하위 버전이지만 여전히 강력해. 얻기 비교적 쉬워서 초중반 플레이어들에게 추천해.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Shindai-Rengoku",
+        "nameKo": "신다이-렝고쿠",
+        "rank": "A",
+        "description": "신다이와 렝고쿠가 합쳐진 혈계! 두 혈계의 장점을 조합해서 만들어졌어. 꽤 강력하지만 S급까지는 아직 아쉬워.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "B": [
+      {
+        "name": "Doku",
+        "nameKo": "도쿠",
+        "rank": "B",
+        "description": "독 혈계! 지속 피해(도트 데미지)로 상대를 서서히 약하게 만들어. A급 혈계들보다는 약하지만 독특한 플레이 스타일이 있어.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Tengoku",
+        "nameKo": "텐고쿠",
+        "rank": "B",
+        "description": "천국 혈계! 빛나는 스킬들이 화려해. 공격력은 중상급이지만 어떤 상황에서든 안정적으로 쓸 수 있어.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "C": [
+      {
+        "name": "Minakaze",
+        "nameKo": "미나카제",
+        "rank": "C",
+        "description": "바람 혈계! 기본적인 바람 공격을 활용해. 현재 메타에서는 다른 혈계들에 비해 약한 편이야. 초반 혈계로는 나쁘지 않아.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Borumaki",
+        "nameKo": "보루마키",
+        "rank": "C",
+        "description": "다양한 기술이 있지만 현재 메타에서 상위 혈계들에게 밀리는 상황이야. 스핀(회전) 공격이 특기야.",
+        "changeFromLast": "down",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "D": []
+  },
+  "editorial": {
+    "summary": "2026년 4월 신도 라이프 메타는 신다이-아쿠마와 반카이-아쿠마가 S+를 굳건히 지키고 있어. 렝고쿠와 센고쿠는 꾸준히 S급을 유지 중이야. 최근 업데이트로 일부 혈계가 재조정됐어.",
+    "recommendation": "처음 시작한다면 아쿠마(Akuma) 혈계를 추천해! 얻기 비교적 쉽고 PvP에서도 충분히 싸울 수 있어. 익숙해지면 신다이-아쿠마나 렝고쿠를 목표로 해봐!"
+  },
+  "meta": {
+    "title": "신도 라이프 혈계 티어표 (2026년 4월) | GameCodeKR",
+    "description": "신도 라이프 2026년 4월 최신 혈계 티어표. 신다이-아쿠마, 반카이-아쿠마, 렝고쿠 등 커뮤니티 합의 등급 정리. 초보자 추천 혈계 포함.",
+    "keywords": ["신도 라이프", "shindo life", "신도 라이프 혈계", "신도 라이프 티어표", "신다이 아쿠마", "반카이 아쿠마", "최강 혈계 2026"]
+  }
+}
