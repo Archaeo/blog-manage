@@ -1,12 +1,34 @@
 {
+  "extends": "../../tsconfig.base.json",
   "compilerOptions": {
-    "target": "ES2020",
-    "module": "ESNext",
-    "moduleResolution": "bundler",
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "types": ["node"]
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@blog-manage/shared-seo": [
+        "../../packages/shared-seo/src"
+      ],
+      "@blog-manage/shared-ui": [
+        "../../packages/shared-ui/src"
+      ],
+      "@blog-manage/shared-adsense": [
+        "../../packages/shared-adsense/src"
+      ]
+    },
+    "jsx": "preserve"
   },
-  "include": ["src"]
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }
