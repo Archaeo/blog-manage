@@ -1,0 +1,35 @@
+name: 티어 수집
+
+on:
+  # schedule:
+  #   - cron: '0 0 * * 1'  # 매주 월요일 UTC 00:00 (활성화 시 주석 해제)
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Playwright 설치
+        run: |
+          pip install playwright
+          playwright install chromium
+
+      - name: 의존성 설치
+        run: pip install -r pipelines/gamecodekr/requirements.txt
+
+      - name: 티어 수집 및 생성
+        run: python -m pipelines.gamecodekr.run tiers --skip-push
+
+      - name: 변경사항 커밋 및 Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sites/gamecodekr/content/tiers/
+          git diff --cached --quiet || git commit -m "[자동] 티어 업데이트 ($(date +%Y-%m-%d))"
+          git push

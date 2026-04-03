@@ -1,0 +1,27 @@
+name: 월초 페이지 생성
+
+on:
+  # schedule:
+  #   - cron: '0 15 1 * *'  # 매월 1일 UTC 15:00 = KST 00:00 (활성화 시 주석 해제)
+  workflow_dispatch:
+
+jobs:
+  monthly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 월초 페이지 생성
+        run: python -m pipelines.gamecodekr.run monthly --skip-push
+
+      - name: 변경사항 커밋 및 Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sites/gamecodekr/content/
+          git diff --cached --quiet || git commit -m "[자동] $(date +%Y-%m) 월초 페이지 생성"
+          git push
