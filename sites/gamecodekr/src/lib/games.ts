@@ -49,7 +49,7 @@ export const GAMES: GameConfig[] = [
     imageUrl: "/images/games/murder-mystery-2.png",
     description: "범인을 찾아내는 추리 게임",
     hasCode: true,
-    hasTier: false,
+    hasTier: true,
   },
   {
     slug: "pet-simulator-99",
@@ -99,7 +99,7 @@ export const GAMES: GameConfig[] = [
     imageUrl: "/images/games/bee-swarm-simulator.png",
     description: "벌떼를 모아 꿀을 수집하는 시뮬레이터",
     hasCode: true,
-    hasTier: false,
+    hasTier: true,
   },
 ];
 
