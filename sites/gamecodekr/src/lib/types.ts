@@ -52,6 +52,24 @@ export interface TierItem {
 export interface TierEditorial {
   summary: string;
   recommendation: string;
+  tierSummaries?: Partial<Record<TierRank, string>>;
+  analysis?: string;
+  analysisSources?: string[];
+  analysisDate?: string;
+}
+
+/** 카테고리 라벨 */
+export interface CategoryLabel {
+  name: string;
+  icon: string;
+}
+
+/** 카테고리별 티어 데이터 (멀티 카테고리 페이지용) */
+export interface CategoryTierData {
+  category: string;
+  categoryLabel: CategoryLabel;
+  tiers: Record<TierRank, TierItem[]>;
+  editorial?: TierEditorial;
 }
 
 /** 월단위 티어 페이지 데이터 */
