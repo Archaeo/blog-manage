@@ -23,6 +23,7 @@ from pipelines.gamecodekr.config import (
     TIER_GAMES,
     get_game_by_en_name,
 )
+from pipelines.gamecodekr.generate_analysis import generate_tier_analysis
 from pipelines.gamecodekr.generate_content import (
     update_code_content,
     update_tier_content,
@@ -125,12 +126,24 @@ def run_tiers(month: str, skip_collect: bool = False, skip_push: bool = False) -
 
         for category, items in verified.items():
             print(f"[tiers] {game_config['kr_name']} {category}: {len(items)}개 항목")
+
+            # 분석 글 생성
+            cat_source_texts = source_texts.get(category, {})
+            analysis_result = generate_tier_analysis(
+                game_title=game_config["kr_name"],
+                category=category,
+                verified_items=items,
+                source_texts=cat_source_texts,
+                month=month,
+            )
+
             filepath = update_tier_content(
                 game_slug=game_slug,
                 game_title=game_config["kr_name"],
                 month=month,
                 category=category,
                 verified_tiers=items,
+                analysis=analysis_result,
             )
             changed_files.append(filepath)
 

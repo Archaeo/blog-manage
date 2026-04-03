@@ -146,20 +146,25 @@ def update_tier_content(
     month: str,
     category: str,
     verified_tiers: list[dict],
+    analysis: dict | None = None,
 ) -> Path:
     """티어 JSON을 생성하고 content/에 저장한다.
 
     기존 파일이 있으면 description, nameKo, changeFromLast를 보존한다.
     """
-    filepath = TIERS_DIR / game_slug / f"{month}.json"
+    filepath = TIERS_DIR / game_slug / f"{month}-{category}.json"
+    # 기존 단일 파일도 체크 (호환성)
+    legacy_filepath = TIERS_DIR / game_slug / f"{month}.json"
 
     existing_items: dict[str, dict] = {}
-    if filepath.exists():
-        with open(filepath, encoding="utf-8") as f:
-            existing = json.load(f)
-            for tier_items in existing.get("tiers", {}).values():
-                for item in tier_items:
-                    existing_items[item["name"]] = item
+    for fp in [filepath, legacy_filepath]:
+        if fp.exists():
+            with open(fp, encoding="utf-8") as f:
+                existing = json.load(f)
+                for tier_items in existing.get("tiers", {}).values():
+                    for item in tier_items:
+                        if item["name"] not in existing_items:
+                            existing_items[item["name"]] = item
 
     data = generate_tier_json(game_slug, game_title, month, category, verified_tiers)
 
@@ -180,6 +185,14 @@ def update_tier_content(
                     prev_rank = rank_order.get(prev["rank"], 99)
                     curr_rank = rank_order.get(item["rank"], 99)
                     item["changeFromLast"] = "up" if curr_rank < prev_rank else "down"
+
+    if analysis:
+        if "editorial" not in data:
+            data["editorial"] = {"summary": "", "recommendation": ""}
+        data["editorial"]["tierSummaries"] = analysis.get("tierSummaries", {})
+        data["editorial"]["analysis"] = analysis.get("analysis", "")
+        data["editorial"]["analysisSources"] = analysis.get("analysisSources", [])
+        data["editorial"]["analysisDate"] = analysis.get("analysisDate", "")
 
     write_content_file(filepath, data)
     return filepath

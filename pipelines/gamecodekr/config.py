@@ -224,3 +224,17 @@ TIER_NORMALIZE = {
 }
 
 TIER_ORDER = ["S+", "S", "A", "B", "C", "D"]
+
+# ── 카테고리 한국어 매핑 ──────────────────────────────────
+CATEGORY_LABELS = {
+    "fruits": "열매",
+    "fruits-overall": "열매",
+    "swords": "검",
+    "fighting-styles": "격투 스타일",
+    "units": "유닛",
+    "bloodlines": "혈계",
+    "pets": "펫",
+    "towers": "타워",
+    "bees": "벌",
+    "weapons": "무기",
+}
