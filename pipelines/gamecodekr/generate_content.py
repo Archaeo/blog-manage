@@ -75,6 +75,7 @@ def generate_tier_json(
                 "rank": tier_key,
                 "description": "",
                 "changeFromLast": "same",
+                "imageUrl": item.get("image_url", ""),
             }
         )
 
@@ -166,6 +167,8 @@ def update_tier_content(
                 prev = existing_items[item["name"]]
                 item["nameKo"] = prev.get("nameKo", item["name"])
                 item["description"] = prev.get("description", "")
+                if not item.get("imageUrl") and prev.get("imageUrl"):
+                    item["imageUrl"] = prev["imageUrl"]
                 if prev.get("rank") and prev["rank"] != item["rank"]:
                     rank_order = {"S+": 0, "S": 1, "A": 2, "B": 3, "C": 4, "D": 5}
                     prev_rank = rank_order.get(prev["rank"], 99)
