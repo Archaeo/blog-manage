@@ -50,4 +50,12 @@ JSON 데이터에 맞게 출력합니다. 코드 컨텐츠의 경우 `sites/game
 
 게임별 세부 전문 지식은 아래 오버라이드 에이전트를 참고:
 - `game-blogger-blox-fruits` — 블록스 프루츠 전문
-- (추후 게임별 에이전트 추가 예정)
+- `game-blogger-king-legacy` — 킹 레거시 전문
+- `game-blogger-fruit-battlegrounds` — 프루츠 배틀그라운드 전문
+- `game-blogger-anime-adventures` — 애니메 어드벤처 전문
+- `game-blogger-murder-mystery-2` — 머더 미스터리 2 전문
+- `game-blogger-pet-simulator-99` — 펫 시뮬레이터 99 전문
+- `game-blogger-shindo-life` — 신도 라이프 전문
+- `game-blogger-tower-defense-simulator` — 타워 디펜스 시뮬레이터 전문
+- `game-blogger-all-star-tower-defense` — 올스타 타워 디펜스 전문
+- `game-blogger-bee-swarm-simulator` — 비 스웜 시뮬레이터 전문
