@@ -1,0 +1,47 @@
+{
+  "game": "blox-fruits",
+  "gameTitle": "블록스 프루츠",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-03T10:00:00Z",
+  "codes": [
+    {
+      "code": "SUB2GAMERROBOT_RESET",
+      "reward": "스탯 리셋",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-01",
+      "rewardAnalysis": "스탯 리셋은 보통 로북스 300개 가치. 빌드 변경할 때 꼭 필요한 아이템이에요!"
+    },
+    {
+      "code": "BLUXXY_FRUIT",
+      "reward": "이중 경험치 20분",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-02",
+      "rewardAnalysis": "이중 경험치는 레벨업 속도가 2배! 사용 전에 긴 그라인딩(반복 사냥) 구간을 준비하면 효율 최고."
+    },
+    {
+      "code": "DEVSCOOKING",
+      "reward": "경험치 부스트 15분",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동하면 경험치 부스트를 받을 수 있어요."
+    }
+  ],
+  "expiredCodes": [
+    {
+      "code": "UPDATE_25",
+      "reward": "이중 경험치 30분",
+      "verified": 3,
+      "status": "expired",
+      "addedDate": "2026-03-15",
+      "rewardAnalysis": "만료된 코드입니다."
+    }
+  ],
+  "meta": {
+    "title": "블록스 프루츠 코드 총정리 (2026년 4월) - 매일 업데이트 | GameCodeKR",
+    "description": "2026년 4월 블록스 프루츠 최신 코드 모음! 스탯 리셋, 이중 경험치 등 모든 코드를 매일 확인하고 업데이트합니다. 코드 보상 가치 분석 포함.",
+    "keywords": ["블록스 프루츠 코드", "블록스 프루츠 코드 2026년 4월", "Blox Fruits codes", "로블록스 코드"]
+  }
+}
