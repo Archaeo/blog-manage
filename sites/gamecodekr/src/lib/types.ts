@@ -35,6 +35,7 @@ export interface TierItem {
   rank: TierRank;
   description: string;
   changeFromLast: "up" | "down" | "new" | "same";
+  imageUrl?: string;
 }
 
 /** 월단위 티어 페이지 데이터 */
@@ -61,6 +62,7 @@ export interface GameConfig {
   title: string;
   titleEn: string;
   icon: string;
+  imageUrl: string;
   description: string;
   hasCode: boolean;
   hasTier: boolean;
