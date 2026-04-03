@@ -1,0 +1,30 @@
+{
+  "game": "king-legacy",
+  "gameTitle": "킹 레거시",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-03T10:00:00Z",
+  "codes": [
+    {
+      "code": "UPDATE6.5",
+      "reward": "젬 100개",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-01",
+      "rewardAnalysis": "젬 100개는 가챠 1회 분량! 운이 좋으면 레전더리 열매를 뽑을 수 있어요."
+    },
+    {
+      "code": "1MVISITS",
+      "reward": "돈 50,000 벨리",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-02",
+      "rewardAnalysis": "50,000 벨리는 초반 장비 1~2개 살 수 있는 금액. 초보자에게 유용해요."
+    }
+  ],
+  "expiredCodes": [],
+  "meta": {
+    "title": "킹 레거시 코드 총정리 (2026년 4월) - 매일 업데이트 | GameCodeKR",
+    "description": "2026년 4월 킹 레거시 최신 코드 모음! 젬, 벨리 등 모든 보상 코드를 매일 업데이트합니다.",
+    "keywords": ["킹 레거시 코드", "킹 레거시 코드 2026년 4월", "King Legacy codes"]
+  }
+}

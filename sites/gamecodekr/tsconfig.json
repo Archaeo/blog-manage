@@ -1,0 +1,35 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@blog-manage/shared-seo": [
+        "../../packages/shared-seo/src"
+      ],
+      "@blog-manage/shared-ui": [
+        "../../packages/shared-ui/src"
+      ],
+      "@blog-manage/shared-adsense": [
+        "../../packages/shared-adsense/src"
+      ]
+    },
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
