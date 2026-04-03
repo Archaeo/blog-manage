@@ -40,6 +40,13 @@ export function Sidebar({ currentPath, onNavigate }: SidebarProps) {
   );
 }
 
+function getCurrentMonth(): string {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, "0");
+  return `${year}-${month}`;
+}
+
 function GameMenuItem({
   game,
   isActive,
@@ -51,6 +58,8 @@ function GameMenuItem({
   currentPath: string;
   onNavigate?: () => void;
 }) {
+  const currentMonth = getCurrentMonth();
+
   return (
     <div>
       <a
@@ -73,7 +82,7 @@ function GameMenuItem({
         <div className="bg-blue-50/50">
           {game.hasCode && (
             <a
-              href={`/${game.slug}/codes`}
+              href={`/${game.slug}/codes/${currentMonth}`}
               onClick={onNavigate}
               className={`block py-1.5 pl-[52px] pr-4 text-[11px] ${
                 currentPath.includes("/codes")
@@ -86,7 +95,7 @@ function GameMenuItem({
           )}
           {game.hasTier && (
             <a
-              href={`/${game.slug}/tier`}
+              href={`/${game.slug}/tier/${currentMonth}`}
               onClick={onNavigate}
               className={`block py-1.5 pl-[52px] pr-4 text-[11px] ${
                 currentPath.includes("/tier")
