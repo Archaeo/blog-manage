@@ -66,6 +66,14 @@ Cloudflare Pages 기반 멀티사이트 블로그 관리 모노레포 프로젝�
 - 새 사이트 추가: `docs/playbooks/add-new-site.md` 참고
 - sequentialthinking 툴 항상 사용
 
+## 운영 문서
+
+- 새 게임 추가: `docs/playbooks/add-new-game.md`
+- 새 사이트 추가: `docs/playbooks/add-new-site.md`
+- 월초 전환: `docs/playbooks/monthly-cycle.md`
+- 파이프라인 실행: `docs/guides/pipeline-guide.md`
+- launchd 스케줄러: `docs/guides/launchd-guide.md`
+
 ## 참고
 
 - 기존 GameCodeKR 프로젝트: `/Users/arkeo/Documents/Claude/Projects/GameCodeKR`
