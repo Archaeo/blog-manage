@@ -1,11 +1,11 @@
 {
-  "game": "king-legacy",
-  "gameTitle": "킹 레거시",
+  "game": "all-star-tower-defense",
+  "gameTitle": "올스타 타워 디펜스",
   "month": "2026-04",
-  "lastUpdated": "2026-04-03T07:36:13.626925+00:00",
+  "lastUpdated": "2026-04-03T07:36:13.630186+00:00",
   "codes": [
     {
-      "code": "FIXEDDROPBOOST",
+      "code": "bigcode3",
       "reward": "",
       "verified": 3,
       "status": "active",
@@ -13,7 +13,7 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "FreePterSpin",
+      "code": "game11",
       "reward": "",
       "verified": 3,
       "status": "active",
@@ -21,39 +21,7 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "WELCOMETOKINGLEGACY",
-      "reward": "",
-      "verified": 3,
-      "status": "active",
-      "addedDate": "2026-04-03",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "DragonColorRefund",
-      "reward": "",
-      "verified": 3,
-      "status": "active",
-      "addedDate": "2026-04-03",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "RainbowDragon",
-      "reward": "",
-      "verified": 3,
-      "status": "active",
-      "addedDate": "2026-04-03",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "FREESTATSRESET",
-      "reward": "",
-      "verified": 3,
-      "status": "active",
-      "addedDate": "2026-04-03",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "2MFAV",
+      "code": "NEWUPDATESTUFF",
       "reward": "",
       "verified": 2,
       "status": "active",
@@ -61,7 +29,7 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "SKGames",
+      "code": "SORRY4BREAK",
       "reward": "",
       "verified": 2,
       "status": "active",
@@ -69,7 +37,39 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "Update10Release",
+      "code": "DEVLOG1",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "DELAYYY5",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TRAITPITYADDED",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MINIUPD33",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "THANKYOU12345",
       "reward": "",
       "verified": 1,
       "status": "unverified",
@@ -77,7 +77,7 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "FIXEDBUG1003",
+      "code": "DELAYYY3",
       "reward": "",
       "verified": 1,
       "status": "unverified",
@@ -85,7 +85,7 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "Serpent10",
+      "code": "UPDATE6",
       "reward": "",
       "verified": 1,
       "status": "unverified",
@@ -93,7 +93,7 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "EchoOfNine",
+      "code": "TRAITPITYONUPDATE",
       "reward": "",
       "verified": 1,
       "status": "unverified",
@@ -101,7 +101,7 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "FreeQuakeSpin",
+      "code": "superdaydaykid100ksubs",
       "reward": "",
       "verified": 1,
       "status": "unverified",
@@ -109,7 +109,7 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "EchoMelody",
+      "code": "omgupdate2024",
       "reward": "",
       "verified": 1,
       "status": "unverified",
@@ -117,7 +117,39 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "RiseOfPhoenix",
+      "code": "HunterStarPass",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "animeroulette1",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "24hoursupdate",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "EnumaElish2024",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-03",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "UpdateThisWeek",
       "reward": "",
       "verified": 1,
       "status": "unverified",
@@ -127,12 +159,12 @@
   ],
   "expiredCodes": [],
   "meta": {
-    "title": "킹 레거시 코드 총정리 (2026년 4월) - 매일 업데이트 | GameCodeKR",
-    "description": "2026년 4월 킹 레거시 최신 코드 모음! 모든 코드를 매일 확인하고 업데이트합니다.",
+    "title": "올스타 타워 디펜스 코드 총정리 (2026년 4월) - 매일 업데이트 | GameCodeKR",
+    "description": "2026년 4월 올스타 타워 디펜스 최신 코드 모음! 모든 코드를 매일 확인하고 업데이트합니다.",
     "keywords": [
-      "킹 레거시 코드",
-      "킹 레거시 코드 2026년 4월",
-      "king-legacy codes",
+      "올스타 타워 디펜스 코드",
+      "올스타 타워 디펜스 코드 2026년 4월",
+      "all-star-tower-defense codes",
       "로블록스 코드"
     ]
   }
