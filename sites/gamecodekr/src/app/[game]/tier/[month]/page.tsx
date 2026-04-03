@@ -4,6 +4,7 @@ import { getMonthlyTierData, getAvailableMonths, getCurrentMonth } from "@/lib/c
 import { generateMetadata as genSeoMeta, createSiteConfig } from "@blog-manage/shared-seo";
 import { ArchiveBanner } from "@blog-manage/shared-ui";
 import { TierList } from "@/components/TierList";
+import { EditorialSummary } from "@/components/EditorialSummary";
 import type { Metadata } from "next";
 
 const siteConfig = createSiteConfig({
@@ -80,9 +81,24 @@ export default function MonthlyTierPage({
         </div>
       </div>
 
+      {data.editorial?.summary && (
+        <EditorialSummary summary={data.editorial.summary} />
+      )}
+
       <div className="mt-6">
         <TierList tiers={data.tiers} gameIcon={game.icon} />
       </div>
+
+      {data.editorial?.recommendation && (
+        <div className="mt-6 rounded-xl border border-purple-200 bg-purple-50 px-4 py-3">
+          <h3 className="mb-1.5 text-xs font-bold text-purple-800">
+            🎯 초보자 추천
+          </h3>
+          <p className="text-sm leading-relaxed text-purple-900">
+            {data.editorial.recommendation}
+          </p>
+        </div>
+      )}
     </div>
   );
 }
