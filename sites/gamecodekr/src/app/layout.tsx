@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { createSiteConfig } from "@blog-manage/shared-seo";
+import { SidebarLayout } from "@/components/SidebarLayout";
 import "./globals.css";
 
 const siteConfig = createSiteConfig({
@@ -24,7 +25,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko">
-      <body className="bg-slate-50 text-slate-800 antialiased">{children}</body>
+      <body className="bg-slate-50 text-slate-800 antialiased">
+        <SidebarLayout>{children}</SidebarLayout>
+      </body>
     </html>
   );
 }

@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import { getGameBySlug, getAllGameSlugs } from "@/lib/games";
 import { getAvailableMonths } from "@/lib/content";
+import { GameImage } from "@/components/GameImage";
 
 export function generateStaticParams() {
   return getAllGameSlugs().map((game) => ({ game }));
@@ -23,25 +24,33 @@ export default function GameHubPage({ params }: { params: { game: string } }) {
   const tierMonths = getAvailableMonths(game.slug, "tiers");
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-8">
-      <div className="mb-6">
-        <span className="text-4xl">{game.icon}</span>
-        <h1 className="mt-2 text-3xl font-bold">{game.title}</h1>
-        <p className="text-gray-500">{game.titleEn}</p>
-        <p className="mt-2 text-gray-600">{game.description}</p>
+    <div className="mx-auto max-w-5xl px-4 py-8 sm:px-6">
+      <div className="mb-6 flex items-center gap-3">
+        <GameImage
+          src={game.imageUrl}
+          alt={game.title}
+          fallbackIcon={game.icon}
+          className="h-12 w-12 rounded-lg object-cover"
+          iconClassName="text-4xl"
+        />
+        <div>
+          <h1 className="text-2xl font-bold text-slate-900">{game.title}</h1>
+          <p className="text-sm text-slate-500">{game.titleEn}</p>
+        </div>
       </div>
+      <p className="mb-6 text-sm text-slate-600">{game.description}</p>
 
-      <div className="grid gap-6 sm:grid-cols-2">
+      <div className="grid gap-4 sm:grid-cols-2">
         {game.hasCode && (
-          <section className="rounded-lg border border-gray-200 p-4">
-            <h2 className="mb-3 text-lg font-bold">📋 게임 코드</h2>
+          <section className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+            <h2 className="mb-3 text-base font-bold text-slate-900">📋 게임 코드</h2>
             {codeMonths.length > 0 ? (
               <ul className="space-y-2">
                 {codeMonths.map((month) => (
                   <li key={month}>
                     <a
                       href={`/${game.slug}/codes/${month}`}
-                      className="text-blue-600 hover:underline"
+                      className="text-sm text-blue-600 hover:underline"
                     >
                       {formatMonth(month)} 코드 총정리
                     </a>
@@ -49,21 +58,21 @@ export default function GameHubPage({ params }: { params: { game: string } }) {
                 ))}
               </ul>
             ) : (
-              <p className="text-gray-400 text-sm">아직 코드가 없어요</p>
+              <p className="text-sm text-slate-400">아직 코드가 없어요</p>
             )}
           </section>
         )}
 
         {game.hasTier && (
-          <section className="rounded-lg border border-gray-200 p-4">
-            <h2 className="mb-3 text-lg font-bold">🏆 티어표</h2>
+          <section className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+            <h2 className="mb-3 text-base font-bold text-slate-900">🏆 티어표</h2>
             {tierMonths.length > 0 ? (
               <ul className="space-y-2">
                 {tierMonths.map((month) => (
                   <li key={month}>
                     <a
                       href={`/${game.slug}/tier/${month}`}
-                      className="text-blue-600 hover:underline"
+                      className="text-sm text-blue-600 hover:underline"
                     >
                       {formatMonth(month)} 티어표
                     </a>
@@ -71,7 +80,7 @@ export default function GameHubPage({ params }: { params: { game: string } }) {
                 ))}
               </ul>
             ) : (
-              <p className="text-gray-400 text-sm">아직 티어표가 없어요</p>
+              <p className="text-sm text-slate-400">아직 티어표가 없어요</p>
             )}
           </section>
         )}

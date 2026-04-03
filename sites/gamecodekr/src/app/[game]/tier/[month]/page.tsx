@@ -56,7 +56,7 @@ export default function MonthlyTierPage({
   );
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-8">
+    <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6">
       {isArchive && (
         <ArchiveBanner
           currentMonthUrl={`/${game.slug}/tier/${currentMonth}`}
@@ -64,15 +64,24 @@ export default function MonthlyTierPage({
         />
       )}
 
-      <h1 className="text-3xl font-bold">
-        {game.icon} {game.title} {data.category} 티어표 ({monthLabel})
-      </h1>
-      <p className="mt-1 text-sm text-gray-500">
-        마지막 업데이트: {new Date(data.lastUpdated).toLocaleDateString("ko-KR")} · 총 {totalItems}개 항목
-      </p>
+      <div className="flex items-center gap-3">
+        <img
+          src={game.imageUrl}
+          alt={game.title}
+          className="h-10 w-10 rounded-lg object-cover"
+        />
+        <div>
+          <h1 className="text-xl font-bold text-slate-900">
+            {game.title} {data.category} 티어표 ({monthLabel})
+          </h1>
+          <p className="text-xs text-slate-400">
+            마지막 업데이트: {new Date(data.lastUpdated).toLocaleDateString("ko-KR")} · 총 {totalItems}개 항목
+          </p>
+        </div>
+      </div>
 
       <div className="mt-6">
-        <TierList tiers={data.tiers} />
+        <TierList tiers={data.tiers} gameIcon={game.icon} />
       </div>
     </div>
   );

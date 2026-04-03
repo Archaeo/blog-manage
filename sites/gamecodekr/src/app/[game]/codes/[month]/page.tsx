@@ -51,7 +51,7 @@ export default function MonthlyCodePage({
   const monthLabel = `${year}년 ${parseInt(m)}월`;
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-8">
+    <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6">
       {isArchive && (
         <ArchiveBanner
           currentMonthUrl={`/${game.slug}/codes/${currentMonth}`}
@@ -59,12 +59,21 @@ export default function MonthlyCodePage({
         />
       )}
 
-      <h1 className="text-3xl font-bold">
-        {game.icon} {game.title} 코드 총정리 ({monthLabel})
-      </h1>
-      <p className="mt-1 text-sm text-gray-500">
-        마지막 업데이트: {new Date(data.lastUpdated).toLocaleDateString("ko-KR")}
-      </p>
+      <div className="flex items-center gap-3">
+        <img
+          src={game.imageUrl}
+          alt={game.title}
+          className="h-10 w-10 rounded-lg object-cover"
+        />
+        <div>
+          <h1 className="text-xl font-bold text-slate-900">
+            {game.title} 코드 총정리 ({monthLabel})
+          </h1>
+          <p className="text-xs text-slate-400">
+            마지막 업데이트: {new Date(data.lastUpdated).toLocaleDateString("ko-KR")}
+          </p>
+        </div>
+      </div>
 
       <div className="mt-6">
         <CodeTable

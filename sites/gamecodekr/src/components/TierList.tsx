@@ -2,6 +2,7 @@ import type { TierItem, TierRank } from "@/lib/types";
 
 interface TierListProps {
   tiers: Record<TierRank, TierItem[]>;
+  gameIcon?: string;
 }
 
 const TIER_COLORS: Record<TierRank, string> = {
