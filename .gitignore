@@ -12,3 +12,4 @@ __pycache__/
 .venv/
 .wrangler/
 .dev.vars
+pipelines/*/data/
