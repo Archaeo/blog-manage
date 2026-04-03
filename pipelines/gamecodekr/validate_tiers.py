@@ -20,22 +20,35 @@ def _tier_rank(tier: str) -> int:
         return len(TIER_ORDER)
 
 
-def cross_verify_tiers(sources: dict) -> dict[str, list[dict]]:
+def cross_verify_tiers(sources: dict) -> tuple[dict[str, list[dict]], dict[str, dict[str, str]]]:
     """소스별 티어 데이터를 교차검증하여 카테고리별 정렬된 결과를 반환한다.
 
     Args:
         sources: {"source_name": {"category": [{"name", "tier", "image_url"}]} | "__SKIPPED__"}
 
     Returns:
-        {"category": [{"name", "tier", "consensus", "image_url", "source_count", "disagreement"}]}
+        tuple of:
+        - {"category": [{"name", "tier", "consensus", "image_url", "source_count", "disagreement"}]}
+        - {"category": {"source_name": "source_text"}}
     """
     category_votes: dict[str, dict[str, dict]] = {}
+    source_texts: dict[str, dict[str, str]] = {}  # {category: {source_name: text}}
 
     for source_name, categories in sources.items():
         if categories == "__SKIPPED__":
             continue
 
-        for category, items in categories.items():
+        for category, cat_data in categories.items():
+            # 새 형식 (items + source_text) 또는 기존 형식 (list) 호환
+            if isinstance(cat_data, dict):
+                items = cat_data.get("items", [])
+                if cat_data.get("source_text"):
+                    if category not in source_texts:
+                        source_texts[category] = {}
+                    source_texts[category][source_name] = cat_data["source_text"]
+            else:
+                items = cat_data
+
             if category not in category_votes:
                 category_votes[category] = {}
 
@@ -90,4 +103,4 @@ def cross_verify_tiers(sources: dict) -> dict[str, list[dict]]:
         verified_items.sort(key=lambda x: _tier_rank(x["tier"]))
         result[category] = verified_items
 
-    return result
+    return result, source_texts

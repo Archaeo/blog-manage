@@ -104,6 +104,39 @@ def _extract_tiers_from_page(page: Page) -> list[dict]:
     return items
 
 
+def _extract_source_text(page: Page) -> str:
+    """페이지에서 티어 관련 분석/설명 텍스트를 추출한다."""
+    try:
+        text = page.evaluate("""
+            () => {
+                const selectors = [
+                    'article p',
+                    '.entry-content p',
+                    '.post-content p',
+                    'main p',
+                    '[class*="content"] p',
+                ];
+                const paragraphs = [];
+                for (const sel of selectors) {
+                    const els = document.querySelectorAll(sel);
+                    if (els.length > 0) {
+                        for (const el of els) {
+                            const t = el.textContent.trim();
+                            if (t.length > 30 && t.length < 500) {
+                                paragraphs.push(t);
+                            }
+                        }
+                        break;
+                    }
+                }
+                return paragraphs.slice(0, 20).join('\\n\\n');
+            }
+        """)
+        return text[:3000]
+    except Exception:
+        return ""
+
+
 def collect_all_tiers() -> None:
     """모든 티어 게임의 데이터를 수집하여 collected_tiers.json에 저장."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -119,7 +152,8 @@ def collect_all_tiers() -> None:
         context.route("**/*doubleclick.net*", lambda route: route.abort())
         context.route("**/*google-analytics.com*", lambda route: route.abort())
         context.route("**/*googlesyndication.com*", lambda route: route.abort())
-        context.route("**/*.{png,jpg,jpeg,gif,webp,svg,ico,woff,woff2}", lambda route: route.abort())
+        # 폰트만 차단 (이미지는 수집을 위해 허용)
+        context.route("**/*.{ico,woff,woff2}", lambda route: route.abort())
 
         page = context.new_page()
 
@@ -150,7 +184,11 @@ def collect_all_tiers() -> None:
                         _random_delay(DELAY_WITHIN_SOURCE_SEC)
 
                         items = _extract_tiers_from_page(page)
-                        category_results[category] = items
+                        source_text = _extract_source_text(page)
+                        category_results[category] = {
+                            "items": items,
+                            "source_text": source_text,
+                        }
                         print(f"    → {len(items)}개 항목 수집")
                         consecutive_failures = 0
 

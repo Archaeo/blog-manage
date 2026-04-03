@@ -121,7 +121,7 @@ def run_tiers(month: str, skip_collect: bool = False, skip_push: bool = False) -
         if not tier_config:
             continue
 
-        verified = cross_verify_tiers(sources)
+        verified, source_texts = cross_verify_tiers(sources)
 
         for category, items in verified.items():
             print(f"[tiers] {game_config['kr_name']} {category}: {len(items)}개 항목")
