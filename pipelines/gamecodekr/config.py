@@ -167,15 +167,60 @@ TIER_GAMES = {
             "Roblox Den": "https://robloxden.com/shindo-life-bloodline-tier-list/",
         },
     },
+    "king-legacy": {
+        "categories": ["fruits"],
+        "sources": {
+            "Pro Game Guides": "https://progameguides.com/roblox/king-legacy-tier-list/",
+            "Beebom": "https://beebom.com/king-legacy-tier-list/",
+            "Pocket Tactics": "https://www.pockettactics.com/king-legacy/tier-list",
+        },
+    },
+    "fruit-battlegrounds": {
+        "categories": ["fruits"],
+        "sources": {
+            "Pro Game Guides": "https://progameguides.com/roblox/fruit-battlegrounds-tier-list/",
+            "Beebom": "https://beebom.com/fruit-battlegrounds-tier-list/",
+            "Pocket Tactics": "https://www.pockettactics.com/fruit-battlegrounds/tier-list",
+        },
+    },
+    "murder-mystery-2": {
+        "categories": ["weapons"],
+        "sources": {
+            "Pro Game Guides": "https://progameguides.com/roblox/murder-mystery-2-value-list/",
+            "Beebom": "https://beebom.com/murder-mystery-2-value-list/",
+        },
+    },
+    "pet-simulator-99": {
+        "categories": ["pets"],
+        "sources": {
+            "Pro Game Guides": "https://progameguides.com/roblox/pet-simulator-99-tier-list/",
+            "Beebom": "https://beebom.com/pet-simulator-99-tier-list/",
+            "Pocket Tactics": "https://www.pockettactics.com/pet-simulator-99/tier-list",
+        },
+    },
+    "tower-defense-simulator": {
+        "categories": ["towers"],
+        "sources": {
+            "Beebom": "https://beebom.com/tower-defense-simulator-tier-list/",
+            "Pro Game Guides": "https://progameguides.com/roblox/tower-defense-simulator-tier-list/",
+        },
+    },
+    "bee-swarm-simulator": {
+        "categories": ["bees"],
+        "sources": {
+            "Pro Game Guides": "https://progameguides.com/roblox/bee-swarm-simulator-tier-list/",
+            "Beebom": "https://beebom.com/bee-swarm-simulator-tier-list/",
+        },
+    },
 }
 
 TIER_NORMALIZE = {
-    "SS": "S", "S+": "S", "S": "S",
+    "SS": "S+", "S+": "S+", "S": "S",
     "A+": "A", "A": "A",
     "B+": "B", "B": "B",
     "C+": "C", "C": "C",
     "D": "D",
-    "E": "F", "F": "F",
+    "E": "D", "F": "D",
 }
 
-TIER_ORDER = ["S", "A", "B", "C", "D", "F"]
+TIER_ORDER = ["S+", "S", "A", "B", "C", "D"]
