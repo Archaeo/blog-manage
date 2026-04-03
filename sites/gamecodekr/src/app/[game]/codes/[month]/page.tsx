@@ -4,6 +4,8 @@ import { getMonthlyCodeData, getAvailableMonths, getCurrentMonth } from "@/lib/c
 import { generateMetadata as genSeoMeta, createSiteConfig } from "@blog-manage/shared-seo";
 import { ArchiveBanner } from "@blog-manage/shared-ui";
 import { CodeTable } from "@/components/CodeTable";
+import { EditorialSummary } from "@/components/EditorialSummary";
+import { TipsBox } from "@/components/TipsBox";
 import type { Metadata } from "next";
 
 const siteConfig = createSiteConfig({
@@ -75,6 +77,10 @@ export default function MonthlyCodePage({
         </div>
       </div>
 
+      {data.editorial?.summary && (
+        <EditorialSummary summary={data.editorial.summary} />
+      )}
+
       <div className="mt-6">
         <CodeTable
           codes={data.codes.filter((c) => c.status === "active")}
@@ -92,6 +98,13 @@ export default function MonthlyCodePage({
           showExpired
         />
       </div>
+
+      {data.editorial?.tips && (
+        <TipsBox
+          tips={data.editorial.tips}
+          totalValue={data.editorial.totalValue}
+        />
+      )}
     </div>
   );
 }
