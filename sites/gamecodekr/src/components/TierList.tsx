@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import type { TierItem, TierRank } from "@/lib/types";
 
 interface TierListProps {
@@ -7,13 +8,60 @@ interface TierListProps {
   gameIcon?: string;
 }
 
-const TIER_CONFIG: Record<TierRank, { gradient: string; border: string; text: string; label: string; glowRgb: string }> = {
-  "S+": { gradient: "from-red-500 to-red-600", border: "border-red-200", text: "text-red-600", label: "최강", glowRgb: "239,68,68" },
-  S: { gradient: "from-orange-500 to-orange-600", border: "border-orange-200", text: "text-orange-600", label: "강함", glowRgb: "249,115,22" },
-  A: { gradient: "from-amber-500 to-amber-600", border: "border-amber-200", text: "text-amber-600", label: "우수", glowRgb: "245,158,11" },
-  B: { gradient: "from-yellow-500 to-yellow-600", border: "border-yellow-200", text: "text-yellow-600", label: "보통", glowRgb: "234,179,8" },
-  C: { gradient: "from-green-500 to-green-600", border: "border-green-200", text: "text-green-600", label: "약함", glowRgb: "34,197,94" },
-  D: { gradient: "from-gray-400 to-gray-500", border: "border-gray-200", text: "text-gray-500", label: "최하위", glowRgb: "107,114,128" },
+const TIER_COLORS: Record<
+  TierRank,
+  {
+    labelGradient: string;
+    rowBg: string;
+    rowBorder: string;
+    fallbackGradient: string;
+  }
+> = {
+  "S+": {
+    labelGradient: "linear-gradient(135deg, #ef4444, #dc2626)",
+    rowBg: "#fff1f0",
+    rowBorder: "#fecaca",
+    fallbackGradient: "linear-gradient(135deg, #ef4444, #dc2626)",
+  },
+  S: {
+    labelGradient: "linear-gradient(135deg, #f97316, #ea580c)",
+    rowBg: "#fff7e6",
+    rowBorder: "#fed7aa",
+    fallbackGradient: "linear-gradient(135deg, #f97316, #ea580c)",
+  },
+  A: {
+    labelGradient: "linear-gradient(135deg, #eab308, #ca8a04)",
+    rowBg: "#fffbe6",
+    rowBorder: "#fde68a",
+    fallbackGradient: "linear-gradient(135deg, #eab308, #ca8a04)",
+  },
+  B: {
+    labelGradient: "linear-gradient(135deg, #22c55e, #16a34a)",
+    rowBg: "#f0fdf4",
+    rowBorder: "#bbf7d0",
+    fallbackGradient: "linear-gradient(135deg, #22c55e, #16a34a)",
+  },
+  C: {
+    labelGradient: "linear-gradient(135deg, #3b82f6, #2563eb)",
+    rowBg: "#e6f4ff",
+    rowBorder: "#bfdbfe",
+    fallbackGradient: "linear-gradient(135deg, #3b82f6, #2563eb)",
+  },
+  D: {
+    labelGradient: "linear-gradient(135deg, #6b7280, #4b5563)",
+    rowBg: "#f5f5f5",
+    rowBorder: "#d1d5db",
+    fallbackGradient: "linear-gradient(135deg, #6b7280, #4b5563)",
+  },
+};
+
+const TIER_LABELS: Record<TierRank, string> = {
+  "S+": "최강",
+  S: "강함",
+  A: "우수",
+  B: "보통",
+  C: "약함",
+  D: "최하위",
 };
 
 const CHANGE_ICONS: Record<string, string> = {
@@ -23,97 +71,140 @@ const CHANGE_ICONS: Record<string, string> = {
   same: "",
 };
 
-export function TierList({ tiers, gameIcon = "🎮" }: TierListProps) {
+export function TierList({ tiers }: TierListProps) {
   const ranks: TierRank[] = ["S+", "S", "A", "B", "C", "D"];
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-1">
       {ranks.map((rank) => {
         const items = tiers[rank];
         if (!items || items.length === 0) return null;
-        const config = TIER_CONFIG[rank];
 
-        return (
-          <div key={rank}>
-            <div className="mb-2 flex items-center gap-2">
-              <span
-                className={`bg-gradient-to-r ${config.gradient} rounded-md px-3 py-1 text-sm font-bold text-white shadow-sm`}
-              >
-                {rank}
-              </span>
-              <span className={`text-xs font-semibold ${config.text}`}>
-                {config.label}
-              </span>
-            </div>
-            <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
-              {items.map((item) => (
-                <TierItemCard
-                  key={item.name}
-                  item={item}
-                  config={config}
-                  gameIcon={gameIcon}
-                />
-              ))}
-            </div>
-          </div>
-        );
+        return <TierRow key={rank} rank={rank} items={items} />;
       })}
     </div>
   );
 }
 
-function TierItemCard({
-  item,
-  config,
-  gameIcon,
-}: {
-  item: TierItem;
-  config: { border: string; glowRgb: string };
-  gameIcon: string;
-}) {
+function TierRow({ rank, items }: { rank: TierRank; items: TierItem[] }) {
+  const colors = TIER_COLORS[rank];
+
   return (
     <div
-      className={`flex items-center gap-2.5 rounded-xl border bg-white p-2.5 shadow-sm ${config.border}`}
+      className="flex min-h-[56px] overflow-hidden rounded-lg border"
+      style={{ borderColor: colors.rowBorder }}
     >
-      {item.imageUrl ? (
-        <img
-          src={item.imageUrl}
-          alt={item.nameKo}
-          className="h-11 w-11 flex-shrink-0 rounded-lg object-cover"
-          onError={(e) => {
-            const target = e.target as HTMLImageElement;
-            const fallback = target.nextElementSibling as HTMLElement;
-            if (fallback) {
-              target.style.display = "none";
-              fallback.style.display = "flex";
-            }
-          }}
-        />
-      ) : null}
+      {/* 등급 라벨 */}
       <div
-        className={`h-11 w-11 flex-shrink-0 items-center justify-center rounded-lg text-xl ${
-          item.imageUrl ? "hidden" : "flex"
-        }`}
-        style={{
-          background: `radial-gradient(circle at 30% 30%, rgba(${config.glowRgb}, 0.15), rgba(255,255,255,0.5))`,
-          border: `1px solid rgba(${config.glowRgb}, 0.2)`,
-        }}
+        className="flex w-12 flex-shrink-0 flex-col items-center justify-center text-white"
+        style={{ background: colors.labelGradient }}
       >
-        {gameIcon}
+        <span className="text-base font-black leading-none">{rank}</span>
+        <span className="mt-0.5 text-[8px] font-medium opacity-80">
+          {TIER_LABELS[rank]}
+        </span>
       </div>
-      <div className="min-w-0">
-        <div className="flex items-center gap-1">
-          <span className="truncate text-xs font-bold text-slate-900">
-            {item.nameKo}
-          </span>
-          {CHANGE_ICONS[item.changeFromLast] && (
-            <span className="flex-shrink-0 text-xs">
-              {CHANGE_ICONS[item.changeFromLast]}
-            </span>
-          )}
-        </div>
-        <p className="truncate text-[10px] text-slate-400">{item.name}</p>
+
+      {/* 아이템 영역 */}
+      <div
+        className="flex flex-1 flex-wrap items-center gap-1 px-2 py-1.5"
+        style={{ backgroundColor: colors.rowBg }}
+      >
+        {items.map((item) => (
+          <TierItemBadge key={item.name} item={item} rank={rank} />
+        ))}
       </div>
     </div>
   );
+}
+
+function TierItemBadge({ item, rank }: { item: TierItem; rank: TierRank }) {
+  const [imgError, setImgError] = useState(false);
+  const colors = TIER_COLORS[rank];
+  const initial = (item.name[0] || "?").toUpperCase();
+  const showFallback = !item.imageUrl || imgError;
+
+  return (
+    <div className="flex w-14 flex-col items-center gap-0.5 py-0.5">
+      {/* 이미지 또는 폴백 */}
+      <div className="relative">
+        {showFallback ? (
+          <div
+            className="flex h-10 w-10 items-center justify-center rounded-lg border-2 border-white text-sm font-bold text-white shadow-sm"
+            style={{ background: colors.fallbackGradient }}
+          >
+            {initial}
+          </div>
+        ) : (
+          <img
+            src={item.imageUrl}
+            alt={item.nameKo}
+            className="h-10 w-10 rounded-lg border-2 border-white object-cover shadow-sm"
+            onError={() => setImgError(true)}
+          />
+        )}
+
+        {/* 신뢰 뱃지 */}
+        <TrustBadge consensus={item.consensus} sources={item.sources} />
+      </div>
+
+      {/* 이름 */}
+      <span
+        className="max-w-[54px] truncate text-center text-[9px] font-medium text-slate-700"
+        title={item.nameKo}
+      >
+        {item.nameKo}
+      </span>
+
+      {/* 변동 아이콘 */}
+      {CHANGE_ICONS[item.changeFromLast] && (
+        <span className="text-[9px] leading-none">
+          {CHANGE_ICONS[item.changeFromLast]}
+        </span>
+      )}
+    </div>
+  );
+}
+
+function TrustBadge({
+  consensus,
+  sources,
+}: {
+  consensus?: boolean;
+  sources?: number;
+}) {
+  if (consensus === undefined || sources === undefined) return null;
+
+  if (consensus && sources >= 3) {
+    return (
+      <span
+        className="absolute -right-0.5 -top-0.5 h-[6px] w-[6px] rounded-full border border-white"
+        style={{ backgroundColor: "#22c55e" }}
+        title={`${sources}개 소스 일치`}
+      />
+    );
+  }
+
+  if (consensus && sources === 2) {
+    return (
+      <span
+        className="absolute -right-0.5 -top-0.5 h-[6px] w-[6px] rounded-full border border-white"
+        style={{ backgroundColor: "#3b82f6" }}
+        title="2개 소스 일치"
+      />
+    );
+  }
+
+  if (!consensus) {
+    return (
+      <span
+        className="absolute -right-1 -top-1 text-[8px] leading-none"
+        title="소스 간 의견 불일치"
+      >
+        ⚠️
+      </span>
+    );
+  }
+
+  return null;
 }
