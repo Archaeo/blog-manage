@@ -106,6 +106,17 @@ function GameMenuItem({
               📊 티어표
             </a>
           )}
+          <a
+            href={`/${game.slug}/posts`}
+            onClick={onNavigate}
+            className={`block py-1.5 pl-[52px] pr-4 text-[11px] ${
+              currentPath.includes("/posts")
+                ? "font-medium text-blue-600"
+                : "text-slate-500 hover:text-slate-700"
+            }`}
+          >
+            ✍️ 글
+          </a>
         </div>
       )}
     </div>
