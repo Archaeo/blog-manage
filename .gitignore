@@ -10,3 +10,5 @@ dist/
 __pycache__/
 *.pyc
 .venv/
+.wrangler/
+.dev.vars
