@@ -6,6 +6,8 @@ import { ArchiveBanner } from "@blog-manage/shared-ui";
 import { CodeTable } from "@/components/CodeTable";
 import { EditorialSummary } from "@/components/EditorialSummary";
 import { TipsBox } from "@/components/TipsBox";
+import { PostContent } from "@/components/PostContent";
+import { getLatestPostByType } from "@/lib/posts";
 import type { Metadata } from "next";
 
 const siteConfig = createSiteConfig({
@@ -32,10 +34,10 @@ export function generateMetadata({ params }: { params: { game: string; month: st
     keywords: data.meta.keywords,
     path: `/${params.game}/codes/${params.month}`,
   });
-  return seo as Metadata;
+  return { ...seo, title: { absolute: seo.title } } as Metadata;
 }
 
-export default function MonthlyCodePage({
+export default async function MonthlyCodePage({
   params,
 }: {
   params: { game: string; month: string };
@@ -48,6 +50,7 @@ export default function MonthlyCodePage({
 
   const currentMonth = getCurrentMonth();
   const isArchive = params.month !== currentMonth;
+  const codeAnalysis = getLatestPostByType(params.game, "code-analysis");
 
   const [year, m] = params.month.split("-");
   const monthLabel = `${year}년 ${parseInt(m)}월`;
@@ -104,6 +107,29 @@ export default function MonthlyCodePage({
           tips={data.editorial.tips}
           totalValue={data.editorial.totalValue}
         />
+      )}
+
+      {codeAnalysis && (
+        <>
+          <div className="mt-10 flex items-center gap-3">
+            <div className="h-px flex-1 bg-slate-200" />
+            <span className="text-[10px] font-medium tracking-wide text-slate-400">
+              상세 분석
+            </span>
+            <div className="h-px flex-1 bg-slate-200" />
+          </div>
+          <div className="mt-4 overflow-hidden rounded-lg border border-slate-200 bg-white">
+            <div className="border-t-[3px] border-blue-500 px-5 py-5">
+              <h2 className="text-base font-bold text-slate-900">
+                📊 코드 보상 가치 분석
+              </h2>
+              <p className="mb-4 mt-1 text-[11px] text-slate-400">
+                코드 보상의 게임 내 가치를 분석합니다
+              </p>
+              <PostContent source={codeAnalysis.content} />
+            </div>
+          </div>
+        </>
       )}
     </div>
   );

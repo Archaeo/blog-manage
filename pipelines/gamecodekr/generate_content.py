@@ -39,7 +39,7 @@ def generate_code_json(
         "codes": codes,
         "expiredCodes": [],
         "meta": {
-            "title": f"{game_title} 코드 총정리 ({month_label}) - 매일 업데이트 | GameCodeKR",
+            "title": f"{game_title} 코드 총정리 ({month_label}) - 매일 업데이트",
             "description": f"{month_label} {game_title} 최신 코드 모음! 모든 코드를 매일 확인하고 업데이트합니다.",
             "keywords": [
                 f"{game_title} 코드",
@@ -89,7 +89,7 @@ def generate_tier_json(
         "category": category,
         "tiers": tiers,
         "meta": {
-            "title": f"{game_title} {category} 티어표 ({month_label}) | GameCodeKR",
+            "title": f"{game_title} {category} 티어표 ({month_label})",
             "description": f"{month_label} {game_title} {category} 티어표! 최강 순위를 매주 업데이트합니다.",
             "keywords": [
                 f"{game_title} 티어표",

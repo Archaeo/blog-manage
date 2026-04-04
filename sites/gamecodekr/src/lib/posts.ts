@@ -69,6 +69,18 @@ export function getAllPostSlugs(): { game: string; slug: string }[] {
   return getAllPosts().map((p) => ({ game: p.game, slug: p.slug }));
 }
 
+export function getLatestPostByType(
+  gameSlug: string,
+  type: PostType
+): BlogPost | null {
+  const posts = getAllPosts().filter(
+    (p) => p.game === gameSlug && p.type === type
+  );
+  if (posts.length === 0) return null;
+  const latest = posts[0]; // already sorted by date desc
+  return getPost(gameSlug, latest.slug);
+}
+
 export function getGamesWithPosts(): string[] {
   if (!fs.existsSync(POSTS_DIR)) return [];
 

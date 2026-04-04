@@ -71,8 +71,26 @@ function GameMenuItem({
             : "border-l-[3px] border-transparent text-slate-600 hover:bg-slate-50"
         }`}
       >
-        <span className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded bg-slate-100 text-xs">
-          {game.icon}
+        <span
+          className={`relative flex h-6 w-6 flex-shrink-0 items-center justify-center overflow-hidden rounded-md ring-1 ${
+            isActive ? "ring-blue-300/50" : "ring-black/8"
+          }`}
+        >
+          <img
+            src={game.imageUrl}
+            alt={game.title}
+            className="absolute inset-0 h-full w-full object-cover"
+            loading="lazy"
+            onError={(e) => {
+              e.currentTarget.style.display = "none";
+            }}
+          />
+          <span
+            className="text-sm leading-none select-none"
+            aria-hidden="true"
+          >
+            {game.icon}
+          </span>
         </span>
         <span className="truncate">{game.title}</span>
       </a>
@@ -106,17 +124,6 @@ function GameMenuItem({
               📊 티어표
             </a>
           )}
-          <a
-            href={`/${game.slug}/posts`}
-            onClick={onNavigate}
-            className={`block py-1.5 pl-[52px] pr-4 text-[11px] ${
-              currentPath.includes("/posts")
-                ? "font-medium text-blue-600"
-                : "text-slate-500 hover:text-slate-700"
-            }`}
-          >
-            ✍️ 글
-          </a>
         </div>
       )}
     </div>

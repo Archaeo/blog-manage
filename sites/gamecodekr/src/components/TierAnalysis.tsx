@@ -16,10 +16,15 @@ export function TierAnalysis({
   const paragraphs = analysis.split("\n\n").filter(Boolean);
 
   return (
-    <div className="rounded-lg border border-slate-200 bg-white px-5 py-4">
-      <h3 className="mb-3 text-sm font-bold text-slate-900">
-        📝 종합 분석
-      </h3>
+    <div className="rounded-lg border border-slate-200 bg-slate-50 px-5 py-4">
+      <div className="mb-3 flex items-center justify-between">
+        <h3 className="text-sm font-bold text-slate-900">
+          📝 종합 분석
+        </h3>
+        <span className="rounded-full bg-slate-200 px-2 py-0.5 text-[9px] font-medium text-slate-500">
+          자동 생성
+        </span>
+      </div>
 
       <div className="space-y-3 text-sm leading-relaxed text-slate-700">
         {paragraphs.map((p, i) => (

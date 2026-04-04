@@ -12,6 +12,8 @@ import { TierCategoryTabs } from "@/components/TierCategoryTabs";
 import { TierLegend } from "@/components/TierLegend";
 import { TierAnalysis } from "@/components/TierAnalysis";
 import { EditorialSummary } from "@/components/EditorialSummary";
+import { PostContent } from "@/components/PostContent";
+import { getLatestPostByType } from "@/lib/posts";
 import type { Metadata } from "next";
 
 const siteConfig = createSiteConfig({
@@ -42,10 +44,10 @@ export function generateMetadata({
     keywords: data.meta.keywords,
     path: `/${params.game}/tier/${params.month}`,
   });
-  return seo as Metadata;
+  return { ...seo, title: { absolute: seo.title } } as Metadata;
 }
 
-export default function MonthlyTierPage({
+export default async function MonthlyTierPage({
   params,
 }: {
   params: { game: string; month: string };
@@ -76,6 +78,7 @@ export default function MonthlyTierPage({
 
   // 첫 번째 카테고리의 editorial을 기본으로 사용
   const primaryEditorial = categoryDataList[0]?.editorial;
+  const tierAnalysis = getLatestPostByType(params.game, "tier-analysis");
 
   // 카테고리 라벨 (제목용)
   const categoryNames = categoryDataList.map((c) => c.categoryLabel.name);
@@ -104,7 +107,7 @@ export default function MonthlyTierPage({
           </h1>
           <p className="text-xs text-slate-400">
             마지막 업데이트:{" "}
-            {new Date().toLocaleDateString("ko-KR")} · 총 {totalItems}개 항목
+            {new Date(categoryDataList[0].lastUpdated).toLocaleDateString("ko-KR")} · 총 {totalItems}개 항목
             {totalCategories > 1 && ` · ${totalCategories}개 카테고리`}
             {sPlusCount > 0 && ` · S+ ${sPlusCount}개`}
           </p>
@@ -126,15 +129,41 @@ export default function MonthlyTierPage({
         <TierLegend />
       </div>
 
-      {/* 종합 분석문 */}
+      {/* 분석 영역 구분선 */}
+      {(primaryEditorial?.analysis || tierAnalysis) && (
+        <div className="mt-10 flex items-center gap-3">
+          <div className="h-px flex-1 bg-slate-200" />
+          <span className="text-[10px] font-medium tracking-wide text-slate-400">
+            분석 &amp; 가이드
+          </span>
+          <div className="h-px flex-1 bg-slate-200" />
+        </div>
+      )}
+
+      {/* 종합 분석문 (자동 생성) */}
       {primaryEditorial?.analysis && (
-        <div className="mt-6">
+        <div className="mt-4">
           <TierAnalysis
             analysis={primaryEditorial.analysis}
             recommendation={primaryEditorial.recommendation}
             analysisSources={primaryEditorial.analysisSources}
             analysisDate={primaryEditorial.analysisDate}
           />
+        </div>
+      )}
+
+      {/* 티어 상세 분석 글 (에디터 작성) */}
+      {tierAnalysis && (
+        <div className="mt-4 overflow-hidden rounded-lg border border-slate-200 bg-white">
+          <div className="border-t-[3px] border-indigo-500 px-5 py-5">
+            <h2 className="text-base font-bold text-slate-900">
+              📖 {tierAnalysis.title}
+            </h2>
+            <p className="mb-4 mt-1 text-[11px] text-slate-400">
+              에디터가 직접 작성한 상세 분석 가이드
+            </p>
+            <PostContent source={tierAnalysis.content} />
+          </div>
         </div>
       )}
     </div>
