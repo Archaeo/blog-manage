@@ -1,1062 +1,14 @@
 {
-  "game": "king-legacy",
-  "gameTitle": "킹 레거시",
+  "game": "fruit-battlegrounds",
+  "gameTitle": "프루츠 배틀그라운드",
   "month": "2026-04",
-  "lastUpdated": "2026-04-04T02:15:20.524887+00:00",
+  "lastUpdated": "2026-04-04T02:15:20.526156+00:00",
   "codes": [
-    {
-      "code": "FIXEDDROPBOOST",
-      "reward": "update 10 patch notes",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "드롭률이 올라가는 부스트 코드예요! 파밍할 때 사용하면 아이템이 더 많이 나와서 효율이 훨씬 좋아져요."
-    },
-    {
-      "code": "FreePterSpin",
-      "reward": "10x Copper Key Hope",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "열매(프루트) 스핀을 무료로 받을 수 있는 코드예요! 좋은 열매를 노린다면 바로 사용하세요."
-    },
-    {
-      "code": "DinoxLive",
-      "reward": "100k Cash",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Peodiz",
-      "reward": "100k Cash",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "WELCOMETOKINGLEGACY",
-      "reward": "30 Minutes x2 Exp",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "킹 레거시에 처음 온 걸 환영하는 코드예요! 초보자라면 꼭 입력하세요, 시작 보상을 받을 수 있어요."
-    },
-    {
-      "code": "DragonColorRefund",
-      "reward": "50 Gems (Only for players who owned the old Rainbow Dragon color; if your old color was the original",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "드래곤 색상 변경 비용을 돌려주는 코드예요! 드래곤 컬러를 바꾼 적이 있다면 환불받을 수 있어요."
-    },
-    {
-      "code": "RainbowDragon",
-      "reward": "100 Gems (Only for players who owned the old Rainbow Dragon color)",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "레인보우 드래곤 관련 기념 코드예요! 드래곤 콘텐츠를 즐기는 플레이어라면 빠짐없이 입력하세요."
-    },
-    {
-      "code": "FREESTATSRESET",
-      "reward": "Stats Reset",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "스탯을 무료로 리셋해 주는 초강력 코드예요! 빌드를 바꾸고 싶을 때 써서 최적의 스탯 배분으로 다시 시작해 보세요."
-    },
-    {
-      "code": "2MFAV",
-      "reward": "Stats Reset",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "즐겨찾기 200만 기념 코드예요! 마일스톤 기념 코드는 보통 보석이나 스핀을 줘서 꼭 챙겨두세요."
-    },
-    {
-      "code": "SKGames",
-      "reward": "Sea King Games Roblox Group",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "크리에이터 기념 코드예요! 스핀이나 보석 등 보상이 있을 수 있으니 꼭 입력해 보세요."
-    },
-    {
-      "code": "FIXEDBUG1003",
-      "reward": "3 Gold Keys",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
     {
       "code": "News",
       "reward": "About Us",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Serpent10",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "Craberno",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "EchoOfNine",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "Update8Release",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "YT90KCELEBRATION",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "YT100KLEGEND",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "FreeQuakeSpin",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "EchoMelody",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "RiseOfPhoenix",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "QuakeSurprise",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "DungeonBalance",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "EpicAdventure",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "PvPArenaFun",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "QuakeTsunamiBoost",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "KioruV2PowerUp",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "DragonColorsUnlocked",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "ThirdSeaAdventures",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "IslandQuestRepeat",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "X100KSuccess",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "InfernoKingAwaits",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "FruitAwakeningTime",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Halloween2024",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "PlayKingLegacyFor5Gems",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update7Release",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "TelekinesisFruitPower",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "PassiveMaster",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "OWNERMETEOR",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "PLAYKINGLEGACYFOR10GEMS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "UPDATE6",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "DOUGHAWAKENING",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "shutdownhotfix",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "UPDATE5SILVERKEY",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "ExperienceDoubling",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "UPDATE5",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "YT10K",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Peodiz10k",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Halloween2023",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "quickshutdown",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Sub2Leepungg",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "3xilescha1r",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "1MLikes",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "2BVisits",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Thx4Waiting",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "2023",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "lagshallnotpass",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "950KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "delayedchristmas2022",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "HYDRAGLYPHICS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "UPDATE4",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "900KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "650KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update3_17",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update3_16",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update3_15",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update3",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "1MFAV",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "THXFOR1BVISIT",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "550KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update2_5",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "500KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update2_17",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update2_16",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update2_14",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Update2_13",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "300KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "400KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "600KFAV",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "700KFAV",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "800KFAV",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "900KFAV",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SORRYFORSHUTDOWN",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "300MVISITS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "500KFAV",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "250KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "GasGas",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BeckyStyle",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "KingPieceComeBack",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "REDBIRD",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "NewDragon",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Brachio",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "150KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "200MVISITS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "300KFAV",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "UpdateGem",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "20MVisit",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "22kLike",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "23kLike",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "26kLikes",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "35MVisit",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "45KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "45MVISIT",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "50KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "60MVISITS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "70KLIKES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "80MVISITS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "90KFavorites",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "100KFAV",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BeckComeBack",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BestEvil",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Makalov",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "MIUMA",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "OpOp",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Peerapat",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "QuakeQuake",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Shadow",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Snow",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "String",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "TanTaiGaming",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Threeramate",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SAKIRO",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Frog",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Dstiny",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Dino",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "rafael",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Lolgwapo021",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Kyle",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "mario",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "LUIGI",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Accessibility",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Temptalia",
-      "reward": "Video Gaming",
-      "verified": 1,
-      "status": "unverified",
       "addedDate": "2026-04-04",
       "rewardAnalysis": ""
     },
@@ -1101,12 +53,1412 @@
       "rewardAnalysis": ""
     },
     {
-      "code": "Update10Release",
-      "reward": "10 Gems",
+      "code": "MILLI90SWAG",
+      "reward": "",
       "verified": 1,
       "status": "unverified",
       "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CODEFIX",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FLYING1M80K",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1M60WOWZER",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1M50INSANE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "4MPUTAT3",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "OMGUPDATE22",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "pleasezakineedthis",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "THANKSFORDAMILLY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "REBOOTPART2",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TIMEISVALUABLE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "THEMARINEHERO",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "POW970K",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "940KHAPPYDAYZ",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "930KINS4NITY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WOWZER910",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "IAMLEOPARD",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BIGUPDATE20",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ANTICIPATION",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BIGDAY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "860KHYPEE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WORLDWAR2025",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WOW850",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FREEBOTAGAIN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MaximoPrime",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Anal",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Jonas",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ballerz",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "RedAngryBird192",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Cyber",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Sup4ik",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "sedddq",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Potato",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "frostyboy1513",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "turzera123",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Chxckxns",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "hahahazxcursed",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "840MENTAL",
+      "reward": "WINTER2024!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SPLENDID820",
+      "reward": "810TIME!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SHINE790K",
+      "reward": "GLITTER780K",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GLITTER780K",
+      "reward": "4BUNDANCY",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "4BUNDANCY",
+      "reward": "NANAP0CALYPSE!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "OMGREBOOTAGAIN",
+      "reward": "770KWOW!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "760KISKRAZY",
+      "reward": "750KINSANE!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SORRY4DELAY",
+      "reward": "NEWBOUNTYERA",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "NEWBOUNTYERA",
+      "reward": "HOWLINGFALL!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LVLBUFFHYPE",
+      "reward": "ICEW0LF",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ICEW0LF",
+      "reward": "SM4LLFRY",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SM4LLFRY",
+      "reward": "RIGHT720",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "RIGHT720",
+      "reward": "710KOMG!!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BAM700K",
+      "reward": "SORRYMOBILE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SORRYMOBILE",
+      "reward": "UNLOCK690K!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SCORCHINGSUMMER",
+      "reward": "BIGB1RD",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BIGB1RD",
+      "reward": "3LAPSED!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "670AHH",
+      "reward": "GIFTEDFROMABOVE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GIFTEDFROMABOVE",
+      "reward": "FLYH1GH!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ITSTIMEEE",
+      "reward": "660ALMOST",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "660ALMOST",
+      "reward": "650ISMADD!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "OFBG",
+      "reward": "30KLIKES",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "30KLIKES",
+      "reward": "JEEZ630",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "JEEZ630",
+      "reward": "WOWZER620!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TRUEMENACE",
+      "reward": "MOSTH4TED",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MOSTH4TED",
+      "reward": "ITSTIME!!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "DAHUNT2024",
+      "reward": "OMG600K!!!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "HIGH590",
+      "reward": "POS1T1V1TY",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "POS1T1V1TY",
+      "reward": "VALENTINES2024",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "VALENTINES2024",
+      "reward": "SPR34DL0V3",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SPR34DL0V3",
+      "reward": "580FLAMES",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "580FLAMES",
+      "reward": "570FAVS",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "570FAVS",
+      "reward": "LAGFIXX",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LAGFIXX",
+      "reward": "CLEANREB00T",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CLEANREB00T",
+      "reward": "N3WW0RLD!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ILOV3C4NDY",
+      "reward": "HYPEWHOLECAKE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "HYPEWHOLECAKE",
+      "reward": "YOOO560",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "YOOO560",
+      "reward": "550POGG",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "550POGG",
+      "reward": "NEWY34R2024!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "540DAYUM",
+      "reward": "530GYAT",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "530GYAT",
+      "reward": "WINTAH2023",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WINTAH2023",
+      "reward": "LAVAPARTY",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LAVAPARTY",
+      "reward": "KOLDKRAZE!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "510KWOWW",
+      "reward": "500KVIIBE!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WANOFIXES",
+      "reward": "K1NGOFB3ASTS",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "K1NGOFB3ASTS",
+      "reward": "LIBERATION!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "PRESENT4YALL",
+      "reward": "GETTINTHERE490",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GETTINTHERE490",
+      "reward": "380ALMOST",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "380ALMOST",
+      "reward": "QU1CKR3B00T",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "QU1CKR3B00T",
+      "reward": "WECLOSE480",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WECLOSE480",
+      "reward": "CHEF470K",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CHEF470K",
+      "reward": "460KRAZY!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SIZZLIN450",
+      "reward": "440KEEPHITTIN",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "440KEEPHITTIN",
+      "reward": "430TOOMUCH",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "430TOOMUCH",
+      "reward": "420BLAZE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "420BLAZE",
+      "reward": "CRAZYYY410!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LETSGOO400",
+      "reward": "JOYBOYY",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "JOYBOYY",
+      "reward": "HEARDADRUMS",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "HEARDADRUMS",
+      "reward": "SUPEREVENT!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WEBACKBABYYY",
+      "reward": "QUIKREBOOT",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "QUIKREBOOT",
+      "reward": "TOX1C",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TOX1C",
+      "reward": "TOURNYCLASH",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TOURNYCLASH",
+      "reward": "P4TIENC3!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "370MADDD",
+      "reward": "FULL360!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "350HAPPY",
+      "reward": "PITYUP!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TECHNOBOX",
+      "reward": "PULLINGSTRINGZ",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "PULLINGSTRINGZ",
+      "reward": "340NEVERENDS!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "310KEEPGOING",
+      "reward": "4TTRACTI0N",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "4TTRACTI0N",
+      "reward": "SKYH1GH!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "300KWOW",
+      "reward": "OMG100M",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "OMG100M",
+      "reward": "KINGJUNGL3",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "KINGJUNGL3",
+      "reward": "2HAPPY290",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "2HAPPY290",
+      "reward": "TOOKRAZY280",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TOOKRAZY280",
+      "reward": "270TOOINSANE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "270TOOINSANE",
+      "reward": "LIGHTNINGHYPE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LIGHTNINGHYPE",
+      "reward": "KRAZYGASSED",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "KRAZYGASSED",
+      "reward": "260BELIEVE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "260BELIEVE",
+      "reward": "GETKRAZYY!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BUGFIXOP",
+      "reward": "240GASSED",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "240GASSED",
+      "reward": "TOOHAPPYBRO",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TOOHAPPYBRO",
+      "reward": "GRATITUDE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GRATITUDE",
+      "reward": "230GANGG",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "230GANGG",
+      "reward": "APPRECIATIVE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "APPRECIATIVE",
+      "reward": "BRO220K",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BRO220K",
+      "reward": "LIT210",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LIT210",
+      "reward": "YESSIRBIG200!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "NEVERSTOP",
+      "reward": "DUBMINER",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "DUBMINER",
+      "reward": "CANTSTOP",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CANTSTOP",
+      "reward": "ITKEEPSCOMING!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SHUTDOWNLUCK",
+      "reward": "FUNNYNUMBER",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FUNNYNUMBER",
+      "reward": "190KWOWBRUH",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "190KWOWBRUH",
+      "reward": "GOCRAZY180!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "170KKRAZY",
+      "reward": "FREECASHBRO",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FREECASHBRO",
+      "reward": "KRAZYSUPPORT",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "KRAZYSUPPORT",
+      "reward": "160WOW",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "160WOW",
+      "reward": "DRACOMASTA",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "DRACOMASTA",
+      "reward": "KAIDOBEAST",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "KAIDOBEAST",
+      "reward": "GOKRAZY150",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GOKRAZY150",
+      "reward": "140KAGAIN",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "140KAGAIN",
+      "reward": "LETSGOO130K",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LETSGOO130K",
+      "reward": "FATSTACKZ",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FATSTACKZ",
+      "reward": "ITJUSTDONTSTOP",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ITJUSTDONTSTOP",
+      "reward": "RAININGGEMS!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GEARFOOOOURTH",
+      "reward": "LONGAWAITED",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LONGAWAITED",
+      "reward": "GOLDENDAYZ",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GOLDENDAYZ",
+      "reward": "WINTERDAYZ",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WINTERDAYZ",
+      "reward": "PAWGOKRAZY",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "PAWGOKRAZY",
+      "reward": "UPDATETIMEEE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "UPDATETIMEEE",
+      "reward": "FREECAZH",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FREECAZH",
+      "reward": "120KTHX",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "120KTHX",
+      "reward": "INDAZONE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "INDAZONE",
+      "reward": "LASTSHUTDOWNALRIGHT",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LASTSHUTDOWNALRIGHT",
+      "reward": "110KYEE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "110KYEE",
+      "reward": "COMEONMARCOOO",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "COMEONMARCOOO",
+      "reward": "100KWEDIDIT",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "100KWEDIDIT",
+      "reward": "DAMN90K",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "DAMN90K",
+      "reward": "80KAHHHHH",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "80KAHHHHH",
+      "reward": "THXFOR70K",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "THXFOR70K",
+      "reward": "FREEBREAD!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "60KLETSGOOOO",
+      "reward": "SORRY4SHUTDOWN",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SORRY4SHUTDOWN",
+      "reward": "MAGMALETSGOO",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MAGMALETSGOO",
+      "reward": "50KINSANE",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "50KINSANE",
+      "reward": "40KDAMN",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "40KDAMN",
+      "reward": "35KWOWBRO",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "35KWOWBRO",
+      "reward": "30KLOVEYOU",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "30KLOVEYOU",
+      "reward": "25KINSANE!!",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "20KCRAZY",
+      "reward": "15KNOWAY",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "15KNOWAY",
+      "reward": "THXFOR10K",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "THXFOR10K",
+      "reward": "7KTEAM",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "7KTEAM",
+      "reward": "5KSQUAD",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "5KSQUAD",
+      "reward": "4KGANGO",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "4KGANGO",
+      "reward": "3KTHXBRO",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "3KTHXBRO",
+      "reward": "WUPDATEORNAH",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WUPDATEORNAH",
+      "reward": "2KLETSGOOO",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "2KLETSGOOO",
+      "reward": "PRESENT4YOU",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "PRESENT4YOU",
+      "reward": "1KLIKESGANG",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1KLIKESGANG",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Accessibility",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Temptalia",
+      "reward": "Video Gaming",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
     },
     {
       "code": "iOS",
@@ -1143,12 +1495,12 @@
   ],
   "expiredCodes": [],
   "meta": {
-    "title": "킹 레거시 코드 총정리 (2026년 4월) - 매일 업데이트",
-    "description": "2026년 4월 킹 레거시 최신 코드 모음! 모든 코드를 매일 확인하고 업데이트합니다.",
+    "title": "프루츠 배틀그라운드 코드 총정리 (2026년 4월) - 매일 업데이트",
+    "description": "2026년 4월 프루츠 배틀그라운드 최신 코드 모음! 모든 코드를 매일 확인하고 업데이트합니다.",
     "keywords": [
-      "킹 레거시 코드",
-      "킹 레거시 코드 2026년 4월",
-      "king-legacy codes",
+      "프루츠 배틀그라운드 코드",
+      "프루츠 배틀그라운드 코드 2026년 4월",
+      "fruit-battlegrounds codes",
       "로블록스 코드"
     ]
   }

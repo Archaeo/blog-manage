@@ -2,31 +2,1119 @@
   "game": "blox-fruits",
   "gameTitle": "블록스 프루츠",
   "month": "2026-04",
-  "lastUpdated": "2026-04-03T10:00:00Z",
+  "lastUpdated": "2026-04-04T02:15:20.520540+00:00",
   "codes": [
     {
-      "code": "SUB2GAMERROBOT_RESET",
-      "reward": "스탯 리셋",
+      "code": "EASTEREXP",
+      "reward": "-",
       "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-01",
-      "rewardAnalysis": "스탯 리셋은 보통 로북스 300개 가치. 빌드 변경할 때 꼭 필요한 아이템이에요!"
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
     },
     {
-      "code": "BLUXXY_FRUIT",
-      "reward": "이중 경험치 20분",
+      "code": "kittgaming",
+      "reward": "20 minutes of 2x EXP Boost",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "KITT_RESET",
+      "reward": "x1 Stat Refund",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Sub2CaptainMaui",
+      "reward": "20 minutes of 2x EXP Boost",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Sub2Fer999",
+      "reward": "20 minutes of 2x EXP Boost",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Enyu_is_Pro",
+      "reward": "20 minutes of 2x EXP Boost",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "fudd10_v2",
+      "reward": "2 Beli",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SUB2GAMERROBOT_EXP1",
+      "reward": "30 Minutes of 2x Experience",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "THEGREATACE",
+      "reward": "20 Minutes of 2x Experience",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Axiore",
+      "reward": "20 Minutes of 2x Experience",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TantaiGaming",
+      "reward": "15 Minutes of 2x Experience",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Fudd10",
+      "reward": "$1",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "STRAWHATMAINE",
+      "reward": "20 minutes of 2x Experience",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BIGNEWS",
+      "reward": "in-game title",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SUB2UNCLEKIZARU",
+      "reward": "Stat Refund",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SUB2NOOBMASTER123",
+      "reward": "15 Minutes of 2x Experience",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Sub2Daigrock",
+      "reward": "15 Minutes of 2x Experience",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1LOSTADMIN",
+      "reward": "",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-02",
-      "rewardAnalysis": "이중 경험치는 레벨업 속도가 2배! 사용 전에 긴 그라인딩(반복 사냥) 구간을 준비하면 효율 최고."
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ADMINFIGHT",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "DRAGONABUSE",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CODE_SERVICIO",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
     },
     {
       "code": "DEVSCOOKING",
-      "reward": "경험치 부스트 15분",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동하면 경험치 부스트를 받을 수 있어요."
+    },
+    {
+      "code": "News",
+      "reward": "Redeem Codes",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SUB2GAMERROBOT_RESET1",
+      "reward": "x1 Stat Refund",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Magicbus",
+      "reward": "20 minutes of 2x EXP Boost",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "JCWK",
+      "reward": "20 minutes of 2x EXP Boost",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Starcodeheo",
+      "reward": "20 minutes of 2x EXP Boost",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Bluxxy",
+      "reward": "Boost",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Sub2OfficialNoobie",
+      "reward": "20 Minutes of 2x Experience",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ZIOLES",
+      "reward": "rewards (New)",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "NOOB2ADMIN",
+      "reward": "20 minutes of 2x EXP Boost",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CHANDLER",
+      "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-03",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동하면 경험치 부스트를 받을 수 있어요."
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "iOS",
+      "reward": "Android",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Features",
+      "reward": "Best Games",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Reviews",
+      "reward": "Gadgets & Tech",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GameKnot",
+      "reward": "Addicting Games",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Fortnite",
+      "reward": "Roblox",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Minecraft",
+      "reward": "Genshin Impact",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Pokemon",
+      "reward": "Wordle",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Wordle",
+      "reward": "BitLife",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BitLife",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LIGHTNINGABUSE",
+      "reward": "20 minutes of 2x EXP Boost (NEW)                                                                    ",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Boost",
+      "reward": "Boost",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BANEXPLOIT",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "NOMOREHACK",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WildDares",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BossBuild",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GetPranked",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "EARN_FRUITS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FIGHT4FRUIT",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "NOEXPLOITER",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CODESLIDE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TRIPLEABUSE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SEATROLLING",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "24NOADMIN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "REWARDFUN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "NEWTROLL",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ADMINHACKED",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ADMINDARES",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "fruitconcepts",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SECRET_ADMIN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ADMIN_TROLL",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "youtuber_shipbattle",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "STAFFBATTLE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ADMIN_STRENGTH",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "JULYUPDATE_RESET",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "NOOB2PRO",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CINCODEMAYO_BOOST",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "15B_BESTBROTHERS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "NOOB_REFUND",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TY_FOR_WATCHING",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GAMER_ROBOT_1M",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ADMINGIVEAWAY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SUBGAMERROBOT_RESET",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GAMERROBOT_YT",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "EXP_5B",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "RESET_5B",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "3BVISITS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "UPD16",
+      "reward": "Update 16",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1MLIKES_RESET",
+      "reward": "Update 16",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "2BILLION",
+      "reward": "Update 15",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "THIRDSEA",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "UPD15",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "UPD14",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ShutDownFix2",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1BILLION",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "XMASEXP",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "XMASRESET",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "UPDATE11",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "POINTSRESET",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "UPDATE10",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CONTROL",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "dave",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "gtrg",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Westo",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "loinfier879",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Xpcraft132",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ILOVEBLOXFRUIT",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "strongest14",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Masterel185",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "watx",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "warnjadonjoshua",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Floppa",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TheRealPiece",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "timmy",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Khurram",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "GeffGazoo",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Alex",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Stephenponuko",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "raymond",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "sachii",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "cool",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "YeahImStillHere",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "UrLocalNoob",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "amoguss",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Rip_driker",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Darkxking1233",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "repco16",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ducdepzai",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Nawsee",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "lexie",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Samrat",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "100daysbloxfruitrob",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Ggb",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BTKHANG235",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Hamza",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "gameplayee53",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "monmanhminbonson",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "DITMEMAY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ajellabi",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "darius014352",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "craigbabo",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "sreruy",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TISOY_ROBLOX11",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Minato",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "apxkNBy",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MEEPLORD",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Accessibility",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Temptalia",
+      "reward": "Video Gaming",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-04",
+      "rewardAnalysis": ""
     }
   ],
   "expiredCodes": [
@@ -39,14 +1127,14 @@
       "rewardAnalysis": "만료된 코드입니다."
     }
   ],
-  "editorial": {
-    "summary": "2026년 4월 블록스 프루츠에서 확인된 코드 2개를 사용할 수 있어요! 스탯 리셋과 이중 경험치 코드가 있는데, 레벨업 중이라면 경험치 코드를 먼저 쓰는 게 좋아요.",
-    "tips": "1번: BLUXXY_FRUIT (이중 경험치) → 레벨업 구간에서 먼저 쓰세요. 2번: SUB2GAMERROBOT_RESET (스탯 리셋) → 빌드 변경이 필요할 때 사용. DEVSCOOKING은 아직 확인 중이에요!",
-    "totalValue": "확인된 코드 기준 약 600 Robux 상당"
-  },
   "meta": {
     "title": "블록스 프루츠 코드 총정리 (2026년 4월) - 매일 업데이트",
-    "description": "2026년 4월 블록스 프루츠 최신 코드 모음! 스탯 리셋, 이중 경험치 등 모든 코드를 매일 확인하고 업데이트합니다. 코드 보상 가치 분석 포함.",
-    "keywords": ["블록스 프루츠 코드", "블록스 프루츠 코드 2026년 4월", "Blox Fruits codes", "로블록스 코드"]
+    "description": "2026년 4월 블록스 프루츠 최신 코드 모음! 모든 코드를 매일 확인하고 업데이트합니다.",
+    "keywords": [
+      "블록스 프루츠 코드",
+      "블록스 프루츠 코드 2026년 4월",
+      "blox-fruits codes",
+      "로블록스 코드"
+    ]
   }
 }
