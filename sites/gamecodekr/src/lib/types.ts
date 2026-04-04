@@ -68,6 +68,7 @@ export interface CategoryLabel {
 export interface CategoryTierData {
   category: string;
   categoryLabel: CategoryLabel;
+  lastUpdated: string;
   tiers: Record<TierRank, TierItem[]>;
   editorial?: TierEditorial;
 }

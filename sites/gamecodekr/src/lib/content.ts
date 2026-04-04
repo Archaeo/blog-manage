@@ -100,6 +100,7 @@ export function getAllCategoryTierData(
       results.push({
         category: cat,
         categoryLabel: getCategoryLabel(cat),
+        lastUpdated: data.lastUpdated,
         tiers: data.tiers,
         editorial: data.editorial,
       });
