@@ -80,6 +80,30 @@ GAMES = [
         "kr_name": "비 스웜 시뮬레이터",
         "image_url": "https://tr.rbxcdn.com/180DAY-9d7481d5f4b40acde9feacd3c3212e9f/512/512/Image/Png/noFilter",
     },
+    {
+        "slug": "jujutsu-infinite",
+        "en_name": "Jujutsu Infinite",
+        "kr_name": "주츠 인피니티",
+        "image_url": "https://tr.rbxcdn.com/180DAY-243b2323af958a373c24bb885e2986b5/500/280/Image/Jpeg/noFilter",
+    },
+    {
+        "slug": "anime-defenders",
+        "en_name": "Anime Defenders",
+        "kr_name": "애니메 디펜더즈",
+        "image_url": "https://tr.rbxcdn.com/180DAY-8f5b4e8db50d0b3faaec7bfbb68bd9a4/500/280/Image/Jpeg/noFilter",
+    },
+    {
+        "slug": "blue-lock-rivals",
+        "en_name": "Blue Lock Rivals",
+        "kr_name": "블루락 라이벌즈",
+        "image_url": "https://tr.rbxcdn.com/180DAY-449e469bd2e90b8761995373fb9ca8d9/500/280/Image/Jpeg/noFilter",
+    },
+    {
+        "slug": "anime-vanguards",
+        "en_name": "Anime Vanguards",
+        "kr_name": "애니메 뱅가드즈",
+        "image_url": "https://tr.rbxcdn.com/180DAY-a431b823ab2064797935d736e92eff6e/500/280/Image/Jpeg/noFilter",
+    },
 ]
 
 
@@ -212,6 +236,38 @@ TIER_GAMES = {
             "Beebom": "https://beebom.com/bee-swarm-simulator-tier-list/",
         },
     },
+    "jujutsu-infinite": {
+        "categories": ["techniques"],
+        "sources": {
+            "Pocket Gamer": "https://www.pocketgamer.com/roblox/jujutsu-infinite-tier-list/",
+            "Beebom": "https://beebom.com/jujutsu-infinite-innate-technique-tier-list/",
+            "Pocket Tactics": "https://www.pockettactics.com/jujutsu-infinite/tier-list",
+        },
+    },
+    "anime-defenders": {
+        "categories": ["units"],
+        "sources": {
+            "Pocket Gamer": "https://www.pocketgamer.com/roblox/anime-defenders-tier-list/",
+            "Pocket Tactics": "https://www.pockettactics.com/anime-defenders/tier-list",
+            "Pro Game Guides": "https://progameguides.com/roblox/anime-defenders-tier-list-all-units-ranked/",
+        },
+    },
+    "blue-lock-rivals": {
+        "categories": ["styles"],
+        "sources": {
+            "Pocket Gamer": "https://www.pocketgamer.com/roblox/blue-lock-rivals-tier-list/",
+            "Beebom": "https://beebom.com/blue-lock-rivals-styles-tier-list/",
+            "Pocket Tactics": "https://www.pockettactics.com/blue-lock-rivals-tier-list",
+        },
+    },
+    "anime-vanguards": {
+        "categories": ["units"],
+        "sources": {
+            "Pocket Gamer": "https://www.pocketgamer.com/roblox/anime-vanguards-tier-list/",
+            "Pocket Tactics": "https://www.pockettactics.com/anime-vanguards/tier-list",
+            "Pro Game Guides": "https://progameguides.com/roblox/anime-vanguards-units-tier-list-all-units-ranked/",
+        },
+    },
 }
 
 TIER_NORMALIZE = {
@@ -237,4 +293,6 @@ CATEGORY_LABELS = {
     "towers": "타워",
     "bees": "벌",
     "weapons": "무기",
+    "techniques": "기술",
+    "styles": "스타일",
 }

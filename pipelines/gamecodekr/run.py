@@ -3,10 +3,12 @@
 """GameCodeKR 파이프라인 실행 스크립트.
 
 사용법:
-    python -m pipelines.gamecodekr.run codes     # 코드 수집 → 검증 → 생성 → push
-    python -m pipelines.gamecodekr.run tiers     # 티어 수집 → 검증 → 생성 → push
+    python -m pipelines.gamecodekr.run codes     # 코드 수집 → 검증 → JSON 생성 → push
+    python -m pipelines.gamecodekr.run tiers     # 티어 수집 → 검증 → JSON 생성 → push
+    python -m pipelines.gamecodekr.run posts     # 분석 MDX 포스트 생성 (claude CLI 사용)
     python -m pipelines.gamecodekr.run monthly   # 월초 새 페이지 생성
     python -m pipelines.gamecodekr.run generate  # 수집 없이 기존 데이터로 생성만
+    python -m pipelines.gamecodekr.run all       # 코드 + 티어 + 포스트 전체 실행
 """
 import argparse
 import json
@@ -28,6 +30,7 @@ from pipelines.gamecodekr.generate_content import (
     update_code_content,
     update_tier_content,
 )
+from pipelines.gamecodekr.generate_posts import generate_all_posts
 from pipelines.gamecodekr.validate_codes import cross_verify_codes
 from pipelines.gamecodekr.validate_tiers import cross_verify_tiers
 from pipelines.shared.git_utils import git_add_and_commit, git_has_changes, git_push
@@ -158,6 +161,25 @@ def run_tiers(month: str, skip_collect: bool = False, skip_push: bool = False) -
         print("[tiers] 변경 없음")
 
 
+def run_posts(month: str, skip_push: bool = False) -> None:
+    """분석 포스트(MDX) 생성 → Git push."""
+    print(f"[posts] 시작: {month}")
+
+    changed_files = generate_all_posts(month, GAMES)
+
+    if changed_files and git_has_changes(PROJECT_ROOT):
+        today = datetime.now().strftime("%Y-%m-%d")
+        message = f"[자동] 분석 포스트 생성 ({today}): {len(changed_files)}개 파일"
+        committed = git_add_and_commit(PROJECT_ROOT, changed_files, message)
+        if committed and not skip_push:
+            git_push(PROJECT_ROOT)
+            print(f"[posts] push 완료")
+        elif committed:
+            print(f"[posts] 커밋 완료 (push 생략)")
+    else:
+        print("[posts] 변경 없음")
+
+
 def run_monthly(skip_push: bool = False) -> None:
     """월초 작업: 새 달 빈 JSON 파일 생성."""
     month = get_current_month()
@@ -186,7 +208,7 @@ def main():
     parser = argparse.ArgumentParser(description="GameCodeKR 파이프라인")
     parser.add_argument(
         "command",
-        choices=["codes", "tiers", "monthly", "generate"],
+        choices=["codes", "tiers", "posts", "monthly", "generate", "all"],
         help="실행할 명령",
     )
     parser.add_argument("--month", default=get_current_month(), help="대상 월 (YYYY-MM)")
@@ -200,11 +222,17 @@ def main():
         run_codes(args.month, skip_collect=args.skip_collect, skip_push=args.skip_push)
     elif args.command == "tiers":
         run_tiers(args.month, skip_collect=args.skip_collect, skip_push=args.skip_push)
+    elif args.command == "posts":
+        run_posts(args.month, skip_push=args.skip_push)
     elif args.command == "monthly":
         run_monthly(skip_push=args.skip_push)
     elif args.command == "generate":
         run_codes(args.month, skip_collect=True, skip_push=args.skip_push)
         run_tiers(args.month, skip_collect=True, skip_push=args.skip_push)
+    elif args.command == "all":
+        run_codes(args.month, skip_collect=args.skip_collect, skip_push=args.skip_push)
+        run_tiers(args.month, skip_collect=args.skip_collect, skip_push=args.skip_push)
+        run_posts(args.month, skip_push=args.skip_push)
 
 
 if __name__ == "__main__":
