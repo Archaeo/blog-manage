@@ -1,0 +1,87 @@
+{
+  "game": "blox-fruits",
+  "gameTitle": "블록스 프루츠",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-04T02:30:42.627513+00:00",
+  "category": "fighting-styles",
+  "tiers": {
+    "S+": [],
+    "S": [
+      {
+        "name": "B",
+        "nameKo": "B",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "C",
+        "nameKo": "C",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "D",
+        "nameKo": "D",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "A": [],
+    "B": [],
+    "C": [
+      {
+        "name": "A",
+        "nameKo": "A",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "D": [
+      {
+        "name": "Tier",
+        "nameKo": "Tier",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "S",
+        "nameKo": "S",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ]
+  },
+  "meta": {
+    "title": "블록스 프루츠 fighting-styles 티어표 (2026년 4월)",
+    "description": "2026년 4월 블록스 프루츠 fighting-styles 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "블록스 프루츠 티어표",
+      "블록스 프루츠 fighting-styles 순위",
+      "blox-fruits tier list"
+    ]
+  }
+}

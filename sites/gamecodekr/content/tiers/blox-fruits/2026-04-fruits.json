@@ -2,62 +2,453 @@
   "game": "blox-fruits",
   "gameTitle": "블록스 프루츠",
   "month": "2026-04",
-  "lastUpdated": "2026-04-03T10:00:00Z",
-  "category": "열매",
+  "lastUpdated": "2026-04-04T02:27:35.033284+00:00",
+  "category": "fruits",
   "tiers": {
-    "S+": [
-      {
-        "name": "Leopard",
-        "nameKo": "레오파드",
-        "rank": "S+",
-        "description": "현재 최강 열매! 변신하면 이동속도와 공격력이 미쳤어요. PvP 최고 픽.",
-        "changeFromLast": "same"
-      },
-      {
-        "name": "T-Rex",
-        "nameKo": "티렉스",
-        "rank": "S+",
-        "description": "거대한 공룡으로 변신! 넓은 범위 공격이 장점. 보스전에서도 최고.",
-        "changeFromLast": "up"
-      }
-    ],
+    "S+": [],
     "S": [
       {
-        "name": "Dragon",
-        "nameKo": "드래곤",
+        "name": "Spin Fruit",
+        "nameKo": "Spin Fruit",
         "rank": "S",
-        "description": "하늘을 날 수 있는 강력한 열매. 이동이 편하고 공격도 강해요.",
-        "changeFromLast": "same"
-      }
-    ],
-    "A": [
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
       {
-        "name": "Buddha",
-        "nameKo": "부다",
-        "rank": "A",
-        "description": "거대해지면서 범위가 넓어져요. 그라인딩(반복 사냥)에 최고!",
-        "changeFromLast": "down"
+        "name": "Spring Fruit",
+        "nameKo": "Spring Fruit",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Smoke Fruit",
+        "nameKo": "Smoke Fruit",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Spike Fruit",
+        "nameKo": "Spike Fruit",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Sand Fruit",
+        "nameKo": "Sand Fruit",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Spider Fruit",
+        "nameKo": "Spider Fruit",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Sound Fruit",
+        "nameKo": "Sound Fruit",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Shadow Fruit",
+        "nameKo": "Shadow Fruit",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "B",
+        "nameKo": "B",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "C",
+        "nameKo": "C",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "D",
+        "nameKo": "D",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
       }
     ],
-    "B": [],
-    "C": [],
-    "D": []
-  },
-  "editorial": {
-    "summary": "이번 달 레오파드가 S+ 1위를 유지하고 있고, 티렉스가 새로 S+에 올라왔어요! 부다는 S에서 A로 내려갔는데, 최근 너프(약해짐) 때문이에요. 드래곤은 변함없이 S티어로 안정적이에요.",
-    "recommendation": "처음 시작하는 초보자라면 부다(A티어)를 추천해요! 구하기 쉽고, 그라인딩(반복 사냥)할 때 범위가 넓어서 효율이 좋아요. S+티어 열매는 거래가가 너무 높아서 초보자에게는 비효율적이에요.",
-    "tierSummaries": {
-      "S+": "레오파드와 티렉스가 현재 메타를 지배하고 있어요. 변신 후 이동속도와 공격력이 압도적이라 PvP(플레이어 대결)와 보스전 모두에서 최강이에요.",
-      "S": "드래곤은 하늘을 날 수 있어서 이동이 편하고 공격도 강해요. 안정적인 S티어 열매예요.",
-      "A": "부다는 최근 너프(약해짐)로 S에서 내려왔지만, 그라인딩(반복 사냥)에는 여전히 최고 효율이에요."
-    },
-    "analysis": "2026년 4월 블록스 프루츠 열매 메타는 레오파드의 독주가 계속되고 있어요. Pro Game Guides, Try Hard Guides, Pocket Gamer 모두 레오파드를 S+급 1위로 평가하고 있으며, 변신 후 이동속도와 콤보 연계력이 압도적이라는 의견이 일치해요.\n\n가장 큰 변화는 티렉스의 S+ 진입이에요. 업데이트 10에서 범위 공격 배율이 상향되면서 3개 소스 모두 S+ 평가를 내렸어요. 특히 보스전에서 티렉스의 광역 공격(여러 적을 동시에 때리는 공격)이 빛을 발하고 있어요.\n\n부다는 S에서 A로 하락했어요. 최근 패치에서 변신 지속시간이 줄어들면서 그라인딩 효율이 떨어졌다는 평가예요. 다만 변신 범위가 넓어서 초보자가 레벨업할 때는 여전히 최고의 선택이에요.\n\n드래곤은 변함없이 S티어를 유지하고 있어요. 비행 능력 덕분에 이동이 편하고, 공격력도 준수해서 어떤 상황에서도 활약할 수 있는 안정적인 열매예요.",
-    "analysisSources": ["Pro Game Guides", "Try Hard Guides", "Pocket Gamer"],
-    "analysisDate": "2026-04-04"
+    "A": [],
+    "B": [
+      {
+        "name": "Bomb Fruit",
+        "nameKo": "Bomb Fruit",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Barrier Fruit",
+        "nameKo": "Barrier Fruit",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Buddha Fruit",
+        "nameKo": "Buddha Fruit",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Blizzard Fruit",
+        "nameKo": "Blizzard Fruit",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "C": [
+      {
+        "name": "A",
+        "nameKo": "A",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "D": [
+      {
+        "name": "Rocket Fruit",
+        "nameKo": "Rocket Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Flame Fruit",
+        "nameKo": "Flame Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Falcon Fruit",
+        "nameKo": "Falcon Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ice Fruit",
+        "nameKo": "Ice Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Dark Fruit",
+        "nameKo": "Dark Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Revive Fruit",
+        "nameKo": "Revive Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Diamond Fruit",
+        "nameKo": "Diamond Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Light Fruit",
+        "nameKo": "Light Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Rubber Fruit",
+        "nameKo": "Rubber Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Magma Fruit",
+        "nameKo": "Magma Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Quake Fruit",
+        "nameKo": "Quake Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Love Fruit",
+        "nameKo": "Love Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Phoenix Fruit",
+        "nameKo": "Phoenix Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Portal Fruit",
+        "nameKo": "Portal Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Rumble Fruit",
+        "nameKo": "Rumble Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Pain Fruit",
+        "nameKo": "Pain Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Gravity Fruit",
+        "nameKo": "Gravity Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Mammoth Fruit",
+        "nameKo": "Mammoth Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Dough Fruit",
+        "nameKo": "Dough Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Dragon Fruit",
+        "nameKo": "Dragon Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Leopard Fruit",
+        "nameKo": "Leopard Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kitsune Fruit",
+        "nameKo": "Kitsune Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "T-Rex Fruit",
+        "nameKo": "T-Rex Fruit",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Tier",
+        "nameKo": "Tier",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "S",
+        "nameKo": "S",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ]
   },
   "meta": {
-    "title": "블록스 프루츠 열매 티어표 (2026년 4월)",
-    "description": "2026년 4월 블록스 프루츠 열매 티어표! 레오파드, 티렉스, 드래곤 등 최강 열매 순위를 매주 업데이트합니다.",
-    "keywords": ["블록스 프루츠 티어표", "블록스 프루츠 열매 순위", "블록스 프루츠 최강 열매 2026"]
+    "title": "블록스 프루츠 fruits 티어표 (2026년 4월)",
+    "description": "2026년 4월 블록스 프루츠 fruits 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "블록스 프루츠 티어표",
+      "블록스 프루츠 fruits 순위",
+      "blox-fruits tier list"
+    ]
+  },
+  "editorial": {
+    "summary": "",
+    "recommendation": "",
+    "tierSummaries": {
+      "S": "Sound Fruit와 Shadow Fruit가 PvP(다른 플레이어와 싸우기)와 사냥 모두에서 최상위 성능을 보여주며, Spider Fruit도 콤보(기술 연속 사용) 능력이 뛰어납니다. Spin, Spring, Smoke, Spike, Sand 등 기존 초보자 열매들도 리워크(재설계) 이후 S티어에 올라온 것으로 보입니다.",
+      "B": "Buddha Fruit는 여전히 레벨링(레벨 올리기)에 안정적이지만 이전보다 순위가 내려갔고, Blizzard Fruit와 Barrier Fruit(Creation으로 리워크됨)이 중간급 성능을 유지하고 있습니다.",
+      "C": "현재 C티어에는 배치된 열매가 거의 없어, 대부분의 열매가 상위 또는 하위 티어로 극단적으로 나뉜 양극화 메타(전체적인 게임 흐름)를 보여줍니다.",
+      "D": "Light Fruit, Magma Fruit, Rubber Fruit 등 한때 최상위였던 열매들이 D티어로 크게 하락했으며, Rocket Fruit, Flame Fruit 등 기본 열매들도 현재 메타에서 경쟁력이 낮습니다."
+    },
+    "analysis": "2026년 4월 블록스 프루츠 티어표는 최근 대규모 업데이트들의 영향으로 메타(게임의 전체적인 흐름)가 크게 뒤바뀐 모습입니다. 특히 업데이트 26에서 Falcon이 Eagle로, Barrier가 Creation으로 리워크(재설계)되었고, 업데이트 28에서는 뮤테이션(열매 변이) 시스템이 새로 도입되면서 기존 티어 순위가 완전히 달라졌습니다.\n\nS티어에서 가장 눈에 띄는 것은 Sound Fruit와 Shadow Fruit의 강세입니다. 두 열매 모두 넓은 범위의 공격과 강력한 콤보(기술 연속 사용)를 갖추고 있어 PvP(플레이어 대 플레이어 전투)에서 압도적인 성능을 보여줍니다. Spider Fruit도 상대를 묶는 능력 덕분에 콤보 시작용으로 인기가 많습니다. 한편 Spin, Spring, Smoke 같은 열매들이 S티어에 올라온 것은 리워크나 밸런스 패치(균형 조정)의 영향으로 보이지만, 이 부분은 추가 확인이 필요합니다.\n\nB티어의 Buddha Fruit는 오랫동안 레벨링(레벨 올리기) 최고의 열매로 사랑받아 왔는데, 이번 시즌에는 B티어로 내려왔습니다. 그래도 몸이 커지는 능력 덕분에 퀘스트(임무)를 빠르게 깨는 데는 여전히 쓸만합니다. Blizzard Fruit는 얼리는 효과가 있어 보스전에서 유용하고, Bomb Fruit는 폭발 범위가 넓어 여러 적을 한꺼번에 잡을 때 편리합니다.\n\nD티어에 Light Fruit, Magma Fruit, Rubber Fruit가 있는 것이 이번 티어표의 가장 큰 변화입니다. 이 열매들은 예전에는 최상위급이었지만, 최근 업데이트에서 다른 열매들이 크게 버프(강해짐)되면서 상대적으로 경쟁력을 잃은 것으로 보입니다. 다만 소스마다 평가가 다를 수 있으므로, 이 순위가 절대적인 것은 아닙니다. 예를 들어 pockettactics에서는 열매 타입(자연계, 동물계, 초인계)에 따라 평가 기준이 달라질 수 있다고 설명합니다.\n\n초보자 친구들에게 추천하자면, 레벨을 빠르게 올리고 싶다면 B티어의 Buddha Fruit가 여전히 좋은 선택입니다. PvP를 즐기고 싶다면 S티어의 Sound Fruit나 Shadow Fruit를 노려보세요. D티어 열매를 가지고 있더라도 너무 실망하지 마세요. 게임은 계속 업데이트되기 때문에 다음 패치에서 다시 강해질 수 있고, 실력이 좋으면 어떤 열매로든 충분히 재미있게 플레이할 수 있답니다!",
+    "analysisSources": [
+      "blox-fruits.com",
+      "pockettactics.com"
+    ],
+    "analysisDate": "2026-04-04"
   }
 }

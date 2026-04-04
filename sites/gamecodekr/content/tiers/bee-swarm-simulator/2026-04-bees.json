@@ -2,138 +2,39 @@
   "game": "bee-swarm-simulator",
   "gameTitle": "비 스웜 시뮬레이터",
   "month": "2026-04",
-  "lastUpdated": "2026-04-03T10:00:00Z",
-  "category": "벌",
+  "lastUpdated": "2026-04-04T02:43:14.450684+00:00",
+  "category": "bees",
   "tiers": {
-    "S+": [
-      {
-        "name": "Vicious Bee",
-        "nameKo": "비셔스 비",
-        "rank": "S+",
-        "description": "비 스웜 시뮬레이터 최강 벌! 강력한 공격력과 꿀 수집 능력을 모두 갖추고 있어. 얻기 매우 어렵지만 가장 탐나는 벌 중 하나야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Tabby Bee",
-        "nameKo": "태비 비",
-        "rank": "S+",
-        "description": "줄무늬 고양이 느낌의 벌! 꿀 수집 능력과 전투 능력이 모두 최상위권이야. 특수 수집 기술이 있어서 꿀밭에서 엄청나게 활약해.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "S": [
-      {
-        "name": "Photon Bee",
-        "nameKo": "포톤 비",
-        "rank": "S",
-        "description": "빛나는 벌! 빛 특성 꿀밭에서 엄청난 수집 능력을 발휘해. 다양한 상황에서 활약할 수 있는 만능 벌이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Gummy Bee",
-        "nameKo": "거미 비",
-        "rank": "S",
-        "description": "젤리 같은 벌! 다양한 꿀밭에서 꿀 수집 능력이 뛰어나. 스킬 발동 시 큰 데미지를 주는 것도 특징이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "A": [
-      {
-        "name": "Spicy Bee",
-        "nameKo": "스파이시 비",
-        "rank": "A",
-        "description": "매운 벌! 빨간 꿀밭에서 특히 강력한 수집 능력을 발휘해. 공격적인 플레이 스타일에 어울리는 벌이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Festive Bee",
-        "nameKo": "페스티브 비",
-        "rank": "A",
-        "description": "축제 벌! 크리스마스 시즌 느낌의 벌이야. 특별한 축제 꿀을 수집할 수 있어서 이벤트 때 특히 유용해.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Diamond Bee",
-        "nameKo": "다이아몬드 비",
-        "rank": "A",
-        "description": "다이아몬드 벌! 반짝이는 외모만큼 꿀 수집 능력도 뛰어나. 흰 꿀밭에서 특히 좋은 성능을 보여줘.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "B": [
-      {
-        "name": "Brave Bee",
-        "nameKo": "브레이브 비",
-        "rank": "B",
-        "description": "용감한 벌! 적들과 싸우는 전투 능력이 강해. 꿀밭에 나타나는 몬스터를 처치하는 데 좋아.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Lion Bee",
-        "nameKo": "라이온 비",
-        "rank": "B",
-        "description": "사자 벌! 강력한 공격 능력을 가지고 있어. 적을 공격하는 게 주특기지만 꿀 수집도 그럭저럭 해.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "C": [
-      {
-        "name": "Rascal Bee",
-        "nameKo": "라스칼 비",
-        "rank": "C",
-        "description": "장난꾸러기 벌! 가끔 이상한 행동을 하지만 귀여운 벌이야. 수집 능력은 중하위 수준이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Bucko Bee",
-        "nameKo": "버코 비",
-        "rank": "C",
-        "description": "파란 꿀밭 특화 벌! 파란 꿀밭이 아닌 곳에서는 성능이 많이 떨어져. 특정 상황에서만 유용한 벌이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
+    "S+": [],
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": [],
     "D": []
   },
-  "editorial": {
-    "summary": "2026년 4월 비 스웜 시뮬레이터에서 비셔스 비와 태비 비는 압도적인 S+ 지위를 유지하고 있어. 포톤 비는 다양한 꿀밭에서 활약하며 꾸준히 S급을 유지 중이야. 축제 이벤트로 인해 페스티브 비의 활용도가 높아졌어.",
-    "recommendation": "초보자라면 스파이시 비(Spicy Bee)나 브레이브 비(Brave Bee)를 먼저 키워봐! 얻기 비교적 쉽고 게임 초반에 충분히 활약할 수 있어. 장기 목표는 비셔스 비와 태비 비야!"
-  },
   "meta": {
-    "title": "비 스웜 시뮬레이터 벌 티어표 (2026년 4월)",
-    "description": "비 스웜 시뮬레이터 2026년 4월 최신 벌 티어표. 비셔스 비, 태비 비, 포톤 비 등 커뮤니티 합의 등급 정리. 초보자 추천 벌 포함.",
-    "keywords": ["비 스웜 시뮬레이터", "bee swarm simulator", "BSS 티어표", "비셔스 비", "태비 비", "포톤 비", "최강 벌 2026"]
+    "title": "비 스웜 시뮬레이터 bees 티어표 (2026년 4월)",
+    "description": "2026년 4월 비 스웜 시뮬레이터 bees 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "비 스웜 시뮬레이터 티어표",
+      "비 스웜 시뮬레이터 bees 순위",
+      "bee-swarm-simulator tier list"
+    ]
+  },
+  "editorial": {
+    "summary": "",
+    "recommendation": "",
+    "tierSummaries": {
+      "S+": "비셔스 비와 태비 비가 이번 달에도 최강 자리를 지키고 있어! 공격력과 꿀 수집 능력을 모두 갖춘 만능 벌들이라 누구나 탐내는 벌이야.",
+      "S": "포톤 비와 거미 비(Gummy Bee)는 꿀밭에서 엄청난 수집 능력을 보여줘. 특히 포톤 비는 빛 특성 꿀밭에서, 거미 비는 스킬 발동 시 큰 데미지까지 줄 수 있어서 S급을 유지하고 있어.",
+      "A": "스파이시 비, 페스티브 비, 다이아몬드 비가 A급이야. 각각 빨간 꿀밭, 이벤트 꿀밭, 흰 꿀밭에서 특화된 능력을 보여주는 강력한 벌들이야.",
+      "B": "브레이브 비와 라이온 비는 전투(몬스터 잡기)에 특화된 벌이야. 꿀 수집 능력은 보통이지만 적을 처치하는 데 큰 도움을 줘.",
+      "C": "라스칼 비와 버코 비는 하위권 벌이야. 버코 비는 파란 꿀밭에서만 쓸 만하고, 라스칼 비는 전체적으로 수집 능력이 부족해."
+    },
+    "analysis": "2026년 4월 비 스웜 시뮬레이터 벌 티어표는 지난달과 비교했을 때 큰 변동이 없어. 비셔스 비(Vicious Bee)와 태비 비(Tabby Bee)가 여전히 S+ 최상위를 유지하고 있고, 이 두 벌의 위상은 커뮤니티에서도 의견이 일치하는 상황이야. 비셔스 비는 강력한 공격력과 꿀 수집을 동시에 할 수 있고, 태비 비는 특수 수집 기술 덕분에 꿀밭에서 압도적인 활약을 보여주고 있어.\n\nS급의 포톤 비(Photon Bee)와 거미 비(Gummy Bee)도 안정적인 자리를 지키고 있어. 포톤 비는 빛 특성 꿀밭에서 뛰어난 수집 능력을 발휘하면서 다양한 상황에 대응할 수 있는 만능형 벌이야. 거미 비는 스킬 발동 시 큰 피해를 줄 수 있어서 전투와 수집을 동시에 커버할 수 있는 장점이 있어.\n\nA급에서는 페스티브 비(Festive Bee)의 활용도가 주목할 만해. 축제 이벤트 시즌에 특별한 축제 꿀을 수집할 수 있어서 이벤트 기간에는 더욱 가치가 올라가. 스파이시 비(Spicy Bee)는 빨간 꿀밭 특화, 다이아몬드 비(Diamond Bee)는 흰 꿀밭 특화로 각자의 역할이 뚜렷해. 다만 이번 달에는 외부 참고 소스(Pro Game Guides 등)의 최신 분석이 확인되지 않아서, 소스 간 의견 비교는 제한적이야.\n\n초보자라면 먼저 스파이시 비(Spicy Bee)나 브레이브 비(Brave Bee)를 키우는 걸 추천해! 이 벌들은 비교적 얻기 쉬우면서도 게임 초반에 충분히 활약할 수 있어. 브레이브 비는 꿀밭에 나타나는 몬스터를 잡는 데 큰 도움이 되고, 스파이시 비는 빨간 꿀밭에서 꿀을 빠르게 모을 수 있어. 장기적으로는 비셔스 비와 태비 비를 목표로 하면 좋아!\n\n전체적으로 4월 메타(현재 게임 환경에서 가장 좋은 전략)는 안정적인 편이야. 큰 업데이트나 밸런스 패치(벌 능력치 조정)가 없었기 때문에 기존 강자들이 그대로 자리를 유지하고 있어. 다음 업데이트에서 새로운 벌이 추가되거나 기존 벌의 능력이 변경될 수 있으니 계속 지켜봐야 해!",
+    "analysisSources": [
+      "Pro Game Guides"
+    ],
+    "analysisDate": "2026-04-04"
   }
 }

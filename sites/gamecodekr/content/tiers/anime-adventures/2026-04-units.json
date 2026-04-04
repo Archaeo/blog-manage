@@ -2,148 +2,97 @@
   "game": "anime-adventures",
   "gameTitle": "애니메 어드벤처",
   "month": "2026-04",
-  "lastUpdated": "2026-04-03T10:00:00Z",
-  "category": "유닛",
+  "lastUpdated": "2026-04-04T02:32:42.648391+00:00",
+  "category": "units",
   "tiers": {
-    "S+": [
-      {
-        "name": "Goku (Black)",
-        "nameKo": "블랙 고쿠",
-        "rank": "S+",
-        "description": "드래곤볼 슈퍼의 블랙 고쿠! 싱글 타겟(한 명 집중 공격)과 범위 공격 모두 최고 수준이야. 현재 가장 강력한 유닛 중 하나야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Madara",
-        "nameKo": "마다라",
-        "rank": "S+",
-        "description": "나루토의 우치하 마다라! 여러 명을 한 번에 처리하는 광역 공격(여러 적 동시 공격)이 엄청 강해. 어떤 스테이지에서도 활약할 수 있는 유닛이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Aizen",
-        "nameKo": "아이젠",
-        "rank": "S+",
-        "description": "블리치의 아이젠 소스케! 압도적인 공격력과 특수 능력으로 거의 모든 콘텐츠에서 최강급이야. 손에 넣기 어렵지만 그만한 가치가 있어.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
+    "S+": [],
     "S": [
       {
-        "name": "Itachi",
-        "nameKo": "이타치",
+        "name": "S+",
+        "nameKo": "S+",
         "rank": "S",
-        "description": "나루토의 우치하 이타치! 쿠나이 공격과 환술(마법 공격)로 꾸준히 강력한 데미지를 줘. 레이드(어려운 보스 도전)에서 특히 빛을 발해.",
+        "description": "",
         "changeFromLast": "same",
         "imageUrl": "",
         "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "S",
+        "nameKo": "S",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
         "sources": 2
       },
       {
-        "name": "Naruto",
-        "nameKo": "나루토",
+        "name": "C",
+        "nameKo": "C",
         "rank": "S",
-        "description": "주인공 나루토! 구미 차크라(여우 에너지) 모드에서 엄청난 공격력을 발휘해. 광역과 단일 공격 모두 준수한 올라운더야.",
+        "description": "",
         "changeFromLast": "same",
         "imageUrl": "",
-        "consensus": true,
+        "consensus": false,
         "sources": 2
       },
       {
-        "name": "Luffy",
-        "nameKo": "루피",
+        "name": "D",
+        "nameKo": "D",
         "rank": "S",
-        "description": "원피스의 몽키 D. 루피! 기어 변환으로 다양한 공격이 가능해. 특히 기어 5(최강 변신)가 엄청난 데미지를 자랑해.",
+        "description": "",
         "changeFromLast": "same",
         "imageUrl": "",
-        "consensus": true,
+        "consensus": false,
         "sources": 2
       }
     ],
     "A": [
       {
-        "name": "Saitama",
-        "nameKo": "사이타마",
+        "name": "A",
+        "nameKo": "A",
         "rank": "A",
-        "description": "원펀맨의 사이타마! 이름처럼 강력한 한 방 공격이 특기야. 단일 보스(1명의 강한 적)를 빠르게 처리하는 데 특화되어 있어.",
+        "description": "",
         "changeFromLast": "same",
         "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Vegeta",
-        "nameKo": "베지터",
-        "rank": "A",
-        "description": "드래곤볼의 베지터! 꾸준한 공격력과 기폭 파동(강한 광역기)으로 여러 적을 처리해. 고쿠보다는 약하지만 충분히 강력한 유닛이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Sasuke",
-        "nameKo": "사스케",
-        "rank": "A",
-        "description": "나루토의 우치하 사스케! 번개 공격과 스사노오(거대 전사)로 강력한 데미지를 줄 수 있어. 이타치보다는 조금 약하지만 팀에 꼭 필요한 유닛이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
+        "consensus": false,
         "sources": 2
       }
     ],
-    "B": [
-      {
-        "name": "Kakashi",
-        "nameKo": "카카시",
-        "rank": "B",
-        "description": "나루토의 카카시 선생님! 카피 닌자(복사 능력)로 다양한 기술을 쓸 수 있어. A급 유닛들보다는 약하지만 초중반 콘텐츠에서는 충분해.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Zoro",
-        "nameKo": "조로",
-        "rank": "B",
-        "description": "원피스의 조로! 삼도류(세 개의 칼로 싸우는 기술) 공격이 특기야. 꾸준한 공격력은 있지만 최상위권과는 차이가 있어.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
+    "B": [],
     "C": [
       {
-        "name": "Ichigo",
-        "nameKo": "이치고",
+        "name": "B",
+        "nameKo": "B",
         "rank": "C",
-        "description": "블리치의 쿠로사키 이치고! 월아천충(강력한 검기)이 멋있지만 현재 메타(유행하는 전략)에서 아이젠에 비해 많이 약해진 상태야.",
-        "changeFromLast": "down",
+        "description": "",
+        "changeFromLast": "same",
         "imageUrl": "",
         "consensus": true,
         "sources": 2
       }
     ],
-    "D": []
-  },
-  "editorial": {
-    "summary": "2026년 4월 애니메 어드벤처는 블랙 고쿠·마다라·아이젠이 S+를 유지하고 있어. 이치고는 최근 다른 유닛들의 강세로 인해 상대적으로 약해진 상황이야. 루피의 기어 5 버전이 새로 추가되며 S급에 자리 잡았어.",
-    "recommendation": "초보자라면 나루토나 사스케를 먼저 모아봐! 얻기 비교적 쉽고 중반 콘텐츠까지는 충분히 활약할 수 있어. 최종 목표는 블랙 고쿠나 마다라야!"
+    "D": [
+      {
+        "name": "META",
+        "nameKo": "META",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ]
   },
   "meta": {
-    "title": "애니메 어드벤처 유닛 티어표 (2026년 4월)",
-    "description": "애니메 어드벤처 2026년 4월 최신 유닛 티어표. 블랙 고쿠, 마다라, 아이젠, 이타치 등 커뮤니티 합의 등급 정리. 초보자 추천 유닛 포함.",
-    "keywords": ["애니메 어드벤처", "anime adventures", "애니메 어드벤처 유닛", "애니메 어드벤처 티어표", "블랙 고쿠", "마다라", "아이젠", "최강 유닛 2026"]
+    "title": "애니메 어드벤처 units 티어표 (2026년 4월)",
+    "description": "2026년 4월 애니메 어드벤처 units 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "애니메 어드벤처 티어표",
+      "애니메 어드벤처 units 순위",
+      "anime-adventures tier list"
+    ]
   }
 }

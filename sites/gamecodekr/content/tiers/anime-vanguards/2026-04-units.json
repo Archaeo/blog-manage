@@ -1,0 +1,745 @@
+{
+  "game": "anime-vanguards",
+  "gameTitle": "애니메 뱅가드즈",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-04T02:49:56.447224+00:00",
+  "category": "units",
+  "tiers": {
+    "S+": [],
+    "S": [
+      {
+        "name": "C",
+        "nameKo": "C",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      },
+      {
+        "name": "D",
+        "nameKo": "D",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "DIO Over Heaven (God)",
+        "nameKo": "DIO Over Heaven (God)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Savior (Moonless) NEW",
+        "nameKo": "Savior (Moonless) NEW",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Deceiver (Monster) NEW",
+        "nameKo": "Deceiver (Monster) NEW",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Demon Hybrid (Chainsaw)",
+        "nameKo": "Demon Hybrid (Chainsaw)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Demon Leader (Control)",
+        "nameKo": "Demon Leader (Control)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Elastic Captain (Pirate)",
+        "nameKo": "Elastic Captain (Pirate)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Warlord (Of the Sea)",
+        "nameKo": "Warlord (Of the Sea)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "World Destroyer",
+        "nameKo": "World Destroyer",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Sukono",
+        "nameKo": "Sukono",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "The Falcon (of Light)",
+        "nameKo": "The Falcon (of Light)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Yehowach (Almighty)",
+        "nameKo": "Yehowach (Almighty)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Song Jinwu and Igros",
+        "nameKo": "Song Jinwu and Igros",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "The King (Apostle)",
+        "nameKo": "The King (Apostle)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Rogita",
+        "nameKo": "Rogita",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "The Struggler (Rampage)",
+        "nameKo": "The Struggler (Rampage)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Gujo (Infinity)",
+        "nameKo": "Gujo (Infinity)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Monkey King (Awakened)",
+        "nameKo": "Monkey King (Awakened)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Lord Friezo (Emperor)",
+        "nameKo": "Lord Friezo (Emperor)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Wolf (Resurrection)",
+        "nameKo": "Wolf (Resurrection)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Diablo (Renacimiento) NEW",
+        "nameKo": "Diablo (Renacimiento) NEW",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Pink Villain (Celestial)",
+        "nameKo": "Pink Villain (Celestial)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Unstable (Psychosis)",
+        "nameKo": "Unstable (Psychosis)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Giant Queen (Founder)",
+        "nameKo": "Giant Queen (Founder)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Arin (Rumbling)",
+        "nameKo": "Arin (Rumbling)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Eizan (Aura)",
+        "nameKo": "Eizan (Aura)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Choy Jong En",
+        "nameKo": "Choy Jong En",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Yomomata (Captain)",
+        "nameKo": "Yomomata (Captain)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Boo (Evil)",
+        "nameKo": "Boo (Evil)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Teacher (Final Stand) NEW",
+        "nameKo": "Teacher (Final Stand) NEW",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Armored Mage (Requip)",
+        "nameKo": "Armored Mage (Requip)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Company Captain (Hybrid)",
+        "nameKo": "Company Captain (Hybrid)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ackers (Ken)",
+        "nameKo": "Ackers (Ken)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Sukono (base)",
+        "nameKo": "Sukono (base)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Igros (Elite Knight)",
+        "nameKo": "Igros (Elite Knight)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Bounty Hunter (3 Sword)",
+        "nameKo": "Bounty Hunter (3 Sword)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Valentine (Love Train)",
+        "nameKo": "Valentine (Love Train)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Elastic Captain (base)",
+        "nameKo": "Elastic Captain (base)",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "A": [
+      {
+        "name": "SS",
+        "nameKo": "SS",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "S",
+        "nameKo": "S",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "A",
+        "nameKo": "A",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      },
+      {
+        "name": "B",
+        "nameKo": "B",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Rank",
+        "nameKo": "Rank",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "S+",
+        "nameKo": "S+",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "B": [],
+    "C": [
+      {
+        "name": "Divalo (Requiem)",
+        "nameKo": "Divalo (Requiem)",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "D": [
+      {
+        "name": "God",
+        "nameKo": "God",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Shero",
+        "nameKo": "Shero",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Hollowseph",
+        "nameKo": "Hollowseph",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Thunder",
+        "nameKo": "Thunder",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Hellkiller",
+        "nameKo": "Hellkiller",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Senator",
+        "nameKo": "Senator",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Rideon vs Samuel",
+        "nameKo": "Rideon vs Samuel",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Arbiter (Of the Void)",
+        "nameKo": "Arbiter (Of the Void)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Sprintwagon",
+        "nameKo": "Sprintwagon",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Club (Pyro)",
+        "nameKo": "Club (Pyro)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Renguko (Purgatory)",
+        "nameKo": "Renguko (Purgatory)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Emmie (Ice Witch)",
+        "nameKo": "Emmie (Ice Witch)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Gilgamesh (King of Heroes)",
+        "nameKo": "Gilgamesh (King of Heroes)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Foboko (Hellish)",
+        "nameKo": "Foboko (Hellish)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Manipulator (Spider)",
+        "nameKo": "Manipulator (Spider)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ghost Girl",
+        "nameKo": "Ghost Girl",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Jailer",
+        "nameKo": "Jailer",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Black Hole",
+        "nameKo": "Black Hole",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ghoul",
+        "nameKo": "Ghoul",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Alligator",
+        "nameKo": "Alligator",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Rule",
+        "nameKo": "Rule",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Karem (Chilled)",
+        "nameKo": "Karem (Chilled)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Pweeny (Boxer)",
+        "nameKo": "Pweeny (Boxer)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Mimi (Psychic)",
+        "nameKo": "Mimi (Psychic)",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ]
+  },
+  "meta": {
+    "title": "애니메 뱅가드즈 units 티어표 (2026년 4월)",
+    "description": "2026년 4월 애니메 뱅가드즈 units 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "애니메 뱅가드즈 티어표",
+      "애니메 뱅가드즈 units 순위",
+      "anime-vanguards tier list"
+    ]
+  },
+  "editorial": {
+    "summary": "",
+    "recommendation": "",
+    "tierSummaries": {
+      "S": "DIO Over Heaven, World Destroyer, Demon Hybrid(체인소맨) 같은 진화 유닛들이 자리를 지키는 가운데, 신규 유닛 Savior(Moonless)와 Deceiver(Monster)가 바로 최상위 S티어에 합류했어요. 총 10개 유닛이 현재 게임에서 가장 강력한 전력이에요.",
+      "A": "SS, S, A, B, S+ 등급 유닛들이 포함된 티어로, S티어 바로 아래의 든든한 전력이에요. 메인 유닛이 빠졌을 때 충분히 대체할 수 있고, 스토리 모드에서도 활약할 수 있어요.",
+      "C": "Divalo(Requiem) 혼자 있는 티어예요. 완전 못 쓰는 건 아니지만, 같은 자리에 더 좋은 유닛이 많아서 우선순위가 낮아요.",
+      "D": "God, Shero, Hollowseph 등 10개 유닛이 있어요. 대부분 초반에만 잠깐 쓰고 빨리 교체하는 게 좋지만, Sprintwagon은 돈벌이(팜) 유닛으로 특별한 가치가 있어요."
+    },
+    "analysis": "2026년 4월, 애니메 뱅가드즈에 '문리스 스카이(Moonless Sky)' 업데이트 11.5가 적용되면서 블리치에서 영감을 받은 신규 유닛 4개가 추가됐어요. 그중 Savior(Moonless)와 Deceiver(Monster)는 출시되자마자 S티어에 올라갈 만큼 강력한 성능을 보여주고 있어요. 다만 여러 해외 공략 사이트에서도 '아직 초기 평가'라고 밝히고 있으니, 시간이 지나면 티어가 바뀔 수도 있다는 점은 기억해 두세요.\n\n현재 메타(가장 강한 전략)의 핵심은 '진화 유닛'이에요. S티어를 보면 DIO Over Heaven(God), Demon Hybrid(Chainsaw), Demon Leader(Control) 같은 유닛들이 모두 기본 유닛에서 진화한 형태예요. 진화하면 데미지가 올라가고 새로운 패시브(자동으로 발동되는 특수 능력)가 붙어서 훨씬 강해져요. 쉽게 말해, 좋은 유닛을 뽑는 것도 중요하지만, 그 유닛을 진화시키는 게 진짜 강해지는 비결이에요.\n\n해외 공략 사이트들의 의견을 비교해 보면, Pocket Gamer와 Pro Game Guides 모두 진화 유닛이 최상위를 지배한다는 점에서는 같은 의견이에요. 하지만 Pocket Tactics는 '티어표는 주관적이라 D티어 유닛도 본인이 잘 쓰면 괜찮다'고 말하고 있어요. 실제로 Pro Game Guides도 'B티어 유닛도 패시브(자동 능력) 덕분에 스토리 모드에서 쓸모가 있다'고 설명하고 있으니, 낮은 티어라고 무조건 버리지는 마세요.\n\n초보 친구들을 위한 꿀팁! 먼저 D티어에 있는 Sprintwagon은 전투력은 약하지만, 게임 안에서 돈을 벌어주는 팜(farm) 유닛이라 꼭 갖고 있는 게 좋아요. 돈이 있어야 더 좋은 유닛을 소환하고 진화시킬 수 있거든요. 그리고 게임 시작하면 NPC(마을 사람들)한테 꼭 말을 걸어보세요. 보석을 공짜로 주는 경우가 많아요. 쿠폰 코드도 자주 나오니까 꼭 챙겨서 입력하세요!\n\n정리하면, 이번 4월 메타는 진화 유닛 + 신규 블리치 유닛이 중심이에요. S티어 유닛을 목표로 하되, 당장 없더라도 A티어 유닛으로 충분히 게임을 즐길 수 있어요. 천천히 보석을 모아서 미식(Mythic) 등급 유닛을 노려보는 게 가장 좋은 전략이에요!",
+    "analysisSources": [
+      "Pocket Gamer",
+      "Pro Game Guides",
+      "Pocket Tactics"
+    ],
+    "analysisDate": "2026-04-04"
+  }
+}

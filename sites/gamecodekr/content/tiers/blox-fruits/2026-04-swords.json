@@ -1,0 +1,103 @@
+{
+  "game": "blox-fruits",
+  "gameTitle": "블록스 프루츠",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-04T02:29:17.028070+00:00",
+  "category": "swords",
+  "tiers": {
+    "S+": [],
+    "S": [
+      {
+        "name": "B",
+        "nameKo": "B",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "C",
+        "nameKo": "C",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "D",
+        "nameKo": "D",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "A": [],
+    "B": [],
+    "C": [
+      {
+        "name": "A",
+        "nameKo": "A",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "D": [
+      {
+        "name": "Tier",
+        "nameKo": "Tier",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "S",
+        "nameKo": "S",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ]
+  },
+  "meta": {
+    "title": "블록스 프루츠 swords 티어표 (2026년 4월)",
+    "description": "2026년 4월 블록스 프루츠 swords 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "블록스 프루츠 티어표",
+      "블록스 프루츠 swords 순위",
+      "blox-fruits tier list"
+    ]
+  },
+  "editorial": {
+    "summary": "",
+    "recommendation": "",
+    "tierSummaries": {
+      "S": "현재 검 메타의 최상위 무기들이에요. 높은 DPS(초당 데미지)와 강력한 스킬 조합을 가지고 있어서, 고현상금 PvP(다른 플레이어와 싸우기)에서 가장 많이 쓰이는 검들이에요.",
+      "C": "평범한 성능의 검들이에요. 특별히 나쁘진 않지만, 상위 티어 검에 비하면 데미지나 스킬 효용이 부족해서 메인 무기로 쓰기엔 아쉬운 편이에요.",
+      "D": "현재 메타에서 거의 쓰이지 않는 검들이에요. 데미지가 낮거나 스킬이 구식이라 다른 검으로 바꾸는 걸 추천해요."
+    },
+    "analysis": "2026년 4월 업데이트 29(발렌타인 이벤트) 기준으로, 블록스 프루츠의 검 메타(가장 잘 먹히는 전략)가 크게 부활했어요! bloxfruit.io에 따르면, 스턴(적을 잠깐 멈추게 하는 효과)이 강한 격투 스타일들이 추가되면서 검 위주 빌드가 다시 인기를 끌고 있어요. 특히 CDK(Cursed Dual Katana, 저주받은 쌍칼)나 다크 블레이드(Dark Blade) 같은 검의 풀 콤보(연속 공격)를 깔끔하게 넣는 게 고현상금 플레이의 기본이 됐어요.\n\n참고한 소스들 사이에 약간의 차이가 있어요. bloxfruit.io는 검과 근접 무기를 DPS, 유틸리티(편의성), 종합 효율로 평가하고, blox-fruits.com은 바다별(1바다, 2바다, 3바다)로 나눠서 추천하는 방식이에요. pockettactics.com은 검보다는 열매(악마의 열매) 위주로 다루고 있어서, 검 순위 참고에는 한계가 있었어요.\n\nS티어 검들은 현재 메타에서 가장 강력한 성능을 보여주고 있어요. 높은 DPS와 넓은 공격 범위, 그리고 강력한 스킬 이펙트가 특징이에요. 반면 C~D티어 검들은 상대적으로 데미지가 부족하거나, 스킬 쿨타임(재사용 대기시간)이 길어서 실전에서 밀리는 경우가 많아요.\n\n초보자 친구들에게 팁을 드리자면, 처음부터 S티어 검을 노리기보다는 자기 바다(Sea)에서 구할 수 있는 검 중 가장 좋은 걸 먼저 장비하는 게 중요해요. 검 빌드를 제대로 쓰려면 격투 스타일과의 콤보 연습도 필수예요! 스턴 걸고 → 검 스킬 넣는 연습을 많이 하면 실력이 빠르게 늘어요.\n\n마지막으로, 이 티어표는 2026년 3월 30일 기준 밸런스 패치를 반영한 거예요. 앞으로 업데이트가 오면 순위가 바뀔 수 있으니, 너무 한 검에만 올인하지 말고 여러 검을 경험해보는 걸 추천해요! 실력이 좋으면 낮은 티어 검으로도 높은 티어 검을 이길 수 있다는 점, 잊지 마세요.",
+    "analysisSources": [
+      "blox-fruits.com",
+      "bloxfruit.io",
+      "pockettactics.com"
+    ],
+    "analysisDate": "2026-04-04"
+  }
+}

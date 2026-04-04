@@ -1,0 +1,139 @@
+{
+  "game": "blue-lock-rivals",
+  "gameTitle": "블루락 라이벌즈",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-04T02:48:41.798145+00:00",
+  "category": "styles",
+  "tiers": {
+    "S+": [],
+    "S": [
+      {
+        "name": "B",
+        "nameKo": "B",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      }
+    ],
+    "A": [
+      {
+        "name": "A",
+        "nameKo": "A",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      }
+    ],
+    "B": [
+      {
+        "name": "Rank",
+        "nameKo": "Rank",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "A-tier",
+        "nameKo": "A-tier",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "C": [
+      {
+        "name": "C",
+        "nameKo": "C",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "D",
+        "nameKo": "D",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "C-tier",
+        "nameKo": "C-tier",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "D": [
+      {
+        "name": "S+",
+        "nameKo": "S+",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "S",
+        "nameKo": "S",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "S+-tier",
+        "nameKo": "S+-tier",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "S-tier",
+        "nameKo": "S-tier",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ]
+  },
+  "meta": {
+    "title": "블루락 라이벌즈 styles 티어표 (2026년 4월)",
+    "description": "2026년 4월 블루락 라이벌즈 styles 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "블루락 라이벌즈 티어표",
+      "블루락 라이벌즈 styles 순위",
+      "blue-lock-rivals tier list"
+    ]
+  }
+}

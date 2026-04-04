@@ -2,138 +2,23 @@
   "game": "murder-mystery-2",
   "gameTitle": "머더 미스터리 2",
   "month": "2026-04",
-  "lastUpdated": "2026-04-03T10:00:00Z",
-  "category": "무기",
+  "lastUpdated": "2026-04-04T02:39:19.402001+00:00",
+  "category": "weapons",
   "tiers": {
-    "S+": [
-      {
-        "name": "Chroma Luger",
-        "nameKo": "크로마 루거",
-        "rank": "S+",
-        "description": "MM2 최고 가치의 무기! 반짝이는 크로마(색이 변하는) 이펙트가 화려해. 트레이드(교환)에서 최고 등급 아이템이야. 전투 성능보다는 희귀도와 가치가 핵심이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Chroma Seer",
-        "nameKo": "크로마 시어",
-        "rank": "S+",
-        "description": "크로마 이펙트의 시어 칼! 루거와 함께 최고 가치를 자랑하는 무기야. 세트로 가지고 있으면 진짜 부자 인증이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "S": [
-      {
-        "name": "Eternal",
-        "nameKo": "이터널",
-        "rank": "S",
-        "description": "영원을 상징하는 무기! 아름다운 디자인과 높은 희귀도로 S급의 자리를 지키고 있어. 트레이드에서 매우 높은 가치를 자랑해.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Icebreaker",
-        "nameKo": "아이스브레이커",
-        "rank": "S",
-        "description": "얼음 콘셉트의 무기! 차갑고 시원한 디자인이 매력이야. 희귀한 아이템이라서 트레이드에서 높은 가치를 가져.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "A": [
-      {
-        "name": "Heat",
-        "nameKo": "히트",
-        "rank": "A",
-        "description": "뜨거운 불꽃 무기! 빨간 색감의 강렬한 디자인이 특징이야. A급 중에서도 꽤 높은 가치를 자랑해.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Laser",
-        "nameKo": "레이저",
-        "rank": "A",
-        "description": "레이저 빔 디자인의 무기! 미래 느낌의 시각 효과가 멋있어. A급 아이템 중 인기 있는 편이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Hallows Edge",
-        "nameKo": "할로윈 나이프",
-        "rank": "A",
-        "description": "할로윈 테마 칼! 무서운 디자인과 함께 A급의 가치를 지니고 있어. 한정 기간 이벤트 아이템이라 희귀성이 있어.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "B": [
-      {
-        "name": "Tides",
-        "nameKo": "타이즈",
-        "rank": "B",
-        "description": "파도 테마 무기! 물결치는 이펙트가 예뻐. B급이지만 트레이드에서 교환 재료로 자주 쓰여.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Starstruck",
-        "nameKo": "스타스트럭",
-        "rank": "B",
-        "description": "별 테마의 무기! 반짝이는 별 이펙트가 귀여워. 비교적 구하기 쉬운 B급 아이템이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "C": [
-      {
-        "name": "Batwing",
-        "nameKo": "박쥐 날개",
-        "rank": "C",
-        "description": "박쥐 날개 디자인의 칼! 할로윈 느낌이 있어. 희귀도는 낮지만 귀여운 디자인으로 인기가 조금 있어.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Shark",
-        "nameKo": "샤크",
-        "rank": "C",
-        "description": "상어 테마 무기! 바다 느낌이 나는 디자인이야. C급 아이템 중에서는 비교적 잘 알려진 편이야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
+    "S+": [],
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": [],
     "D": []
   },
-  "editorial": {
-    "summary": "2026년 4월 머더 미스터리 2는 크로마 루거와 크로마 시어가 S+ 최고 가치를 유지하고 있어. MM2는 전투 성능보다 아이템 희귀도와 트레이드 가치가 중요한 게임이야. 이터널과 아이스브레이커는 S급에서 꾸준한 가치를 보여주고 있어.",
-    "recommendation": "MM2 처음이라면 게임 플레이보다 트레이드 시스템을 먼저 이해해봐! 타이즈나 스타스트럭 같은 B급 아이템을 모아서 교환을 통해 조금씩 가치를 올려가는 게 좋은 방법이야."
-  },
   "meta": {
-    "title": "머더 미스터리 2 무기 티어표 (2026년 4월)",
-    "description": "머더 미스터리 2 2026년 4월 최신 무기 티어표. 크로마 루거, 크로마 시어, 이터널 등 커뮤니티 합의 가치 등급 정리. 트레이드 가이드 포함.",
-    "keywords": ["머더 미스터리 2", "murder mystery 2", "MM2 티어표", "MM2 무기 가치", "크로마 루거", "크로마 시어", "MM2 트레이드 2026"]
+    "title": "머더 미스터리 2 weapons 티어표 (2026년 4월)",
+    "description": "2026년 4월 머더 미스터리 2 weapons 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "머더 미스터리 2 티어표",
+      "머더 미스터리 2 weapons 순위",
+      "murder-mystery-2 tier list"
+    ]
   }
 }

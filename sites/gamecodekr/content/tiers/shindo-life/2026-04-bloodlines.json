@@ -2,108 +2,124 @@
   "game": "shindo-life",
   "gameTitle": "신도 라이프",
   "month": "2026-04",
-  "lastUpdated": "2026-04-03T10:00:00Z",
-  "category": "혈계",
+  "lastUpdated": "2026-04-04T02:35:13.025382+00:00",
+  "category": "bloodlines",
   "tiers": {
-    "S+": [
-      {
-        "name": "Shindai-Akuma",
-        "nameKo": "신다이-아쿠마",
-        "rank": "S+",
-        "description": "신도 라이프 최강 혈계! 엄청난 데미지와 이동기(빠르게 이동하는 기술)를 모두 갖추고 있어. PvP(플레이어 대결)에서 최강 자리를 지키고 있어.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Bankai-Akuma",
-        "nameKo": "반카이-아쿠마",
-        "rank": "S+",
-        "description": "블리치 느낌의 악마 혈계! 강력한 검기 공격과 범위 기술이 뛰어나. 신다이-아쿠마와 함께 메타 최강으로 불리는 혈계야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "S": [
-      {
-        "name": "Rengoku",
-        "nameKo": "렝고쿠",
-        "rank": "S",
-        "description": "불꽃 혈계! 강력한 화염 공격이 특기야. 렝고쿠 특유의 화려한 불꽃 스킬이 멋있어. PvP와 보스 파밍 모두 좋아.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Sengoku",
-        "nameKo": "센고쿠",
-        "rank": "S",
-        "description": "전국 시대 느낌의 혈계! 다양한 공격 기술과 이동기를 갖추고 있어. 범용성(여러 상황에서 쓸 수 있는 정도)이 매우 높은 혈계야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "A": [
-      {
-        "name": "Raion-Akuma",
-        "nameKo": "라이온-아쿠마",
-        "rank": "A",
-        "description": "사자 악마 혈계! 강력한 근접 공격과 함께 좋은 이동기를 갖추고 있어. PvP에서 꽤 강한 모습을 보여주는 혈계야.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Akuma",
-        "nameKo": "아쿠마",
-        "rank": "A",
-        "description": "기본 악마 혈계! 신다이-아쿠마의 하위 버전이지만 여전히 강력해. 얻기 비교적 쉬워서 초중반 플레이어들에게 추천해.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Shindai-Rengoku",
-        "nameKo": "신다이-렝고쿠",
-        "rank": "A",
-        "description": "신다이와 렝고쿠가 합쳐진 혈계! 두 혈계의 장점을 조합해서 만들어졌어. 꽤 강력하지만 S급까지는 아직 아쉬워.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
-    "B": [
-      {
-        "name": "Doku",
-        "nameKo": "도쿠",
-        "rank": "B",
-        "description": "독 혈계! 지속 피해(도트 데미지)로 상대를 서서히 약하게 만들어. A급 혈계들보다는 약하지만 독특한 플레이 스타일이 있어.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      },
-      {
-        "name": "Tengoku",
-        "nameKo": "텐고쿠",
-        "rank": "B",
-        "description": "천국 혈계! 빛나는 스킬들이 화려해. 공격력은 중상급이지만 어떤 상황에서든 안정적으로 쓸 수 있어.",
-        "changeFromLast": "same",
-        "imageUrl": "",
-        "consensus": true,
-        "sources": 2
-      }
-    ],
+    "S+": [],
+    "S": [],
+    "A": [],
+    "B": [],
     "C": [
+      {
+        "name": "RELL",
+        "nameKo": "RELL",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Code-Gaiden",
+        "nameKo": "Code-Gaiden",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ashura-Shizen",
+        "nameKo": "Ashura-Shizen",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Getsuga-Black",
+        "nameKo": "Getsuga-Black",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Borumaki-Gaiden",
+        "nameKo": "Borumaki-Gaiden",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Aizden",
+        "nameKo": "Aizden",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Tetsuo-Kaijin",
+        "nameKo": "Tetsuo-Kaijin",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ray-Kerada",
+        "nameKo": "Ray-Kerada",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Pika-Senko",
+        "nameKo": "Pika-Senko",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Head-Less",
+        "nameKo": "Head-Less",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "SnakeMan",
+        "nameKo": "SnakeMan",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
       {
         "name": "Minakaze",
         "nameKo": "미나카제",
@@ -112,28 +128,1153 @@
         "changeFromLast": "same",
         "imageUrl": "",
         "consensus": true,
-        "sources": 2
+        "sources": 1
+      },
+      {
+        "name": "Vanhelsing",
+        "nameKo": "Vanhelsing",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Strange",
+        "nameKo": "Strange",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Eastwood-Korashi",
+        "nameKo": "Eastwood-Korashi",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Dio-Senko",
+        "nameKo": "Dio-Senko",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Bruce-Kenichi",
+        "nameKo": "Bruce-Kenichi",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ragnar",
+        "nameKo": "Ragnar",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Eternal",
+        "nameKo": "Eternal",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kagoku",
+        "nameKo": "Kagoku",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ryuji-Kenichi",
+        "nameKo": "Ryuji-Kenichi",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Seishin",
+        "nameKo": "Seishin",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Alphirama-Shizen",
+        "nameKo": "Alphirama-Shizen",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Rune-Koncho",
+        "nameKo": "Rune-Koncho",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Six-Paths-Narumaki",
+        "nameKo": "Six-Paths-Narumaki",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Doom-Shado",
+        "nameKo": "Doom-Shado",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kerada",
+        "nameKo": "Kerada",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kokotsu",
+        "nameKo": "Kokotsu",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Mecha-Spirit",
+        "nameKo": "Mecha-Spirit",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Jayramaki",
+        "nameKo": "Jayramaki",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Cobra",
+        "nameKo": "Cobra",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Koncho",
+        "nameKo": "Koncho",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Rykan-Shizen",
+        "nameKo": "Rykan-Shizen",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Senko",
+        "nameKo": "Senko",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
       },
       {
         "name": "Borumaki",
         "nameKo": "보루마키",
         "rank": "C",
         "description": "다양한 기술이 있지만 현재 메타에서 상위 혈계들에게 밀리는 상황이야. 스핀(회전) 공격이 특기야.",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Narumaki",
+        "nameKo": "Narumaki",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Giovanni-Shizen",
+        "nameKo": "Giovanni-Shizen",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kamaki",
+        "nameKo": "Kamaki",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Jinshiki",
+        "nameKo": "Jinshiki",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Shiro-Glacier",
+        "nameKo": "Shiro-Glacier",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Saberu",
+        "nameKo": "Saberu",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Odin-Saberu",
+        "nameKo": "Odin-Saberu",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kaijin",
+        "nameKo": "Kaijin",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Azim-Senko",
+        "nameKo": "Azim-Senko",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Azarashi",
+        "nameKo": "Azarashi",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Dangan",
+        "nameKo": "Dangan",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ghost-Korashi",
+        "nameKo": "Ghost-Korashi",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Hair",
+        "nameKo": "Hair",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Shizen",
+        "nameKo": "Shizen",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Wanziame",
+        "nameKo": "Wanziame",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kenichi",
+        "nameKo": "Kenichi",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Okami",
+        "nameKo": "Okami",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Nectar",
+        "nameKo": "Nectar",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Minakami",
+        "nameKo": "Minakami",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Glacier",
+        "nameKo": "Glacier",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Zero-Glacier",
+        "nameKo": "Zero-Glacier",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kamaki-Amethyst",
+        "nameKo": "Kamaki-Amethyst",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Shado",
+        "nameKo": "Shado",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "D": [
+      {
+        "name": "Arahaki-Jokei",
+        "nameKo": "Arahaki-Jokei",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Kamaki-Inferno",
+        "nameKo": "Kamaki-Inferno",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Indra-Akuma",
+        "nameKo": "Indra-Akuma",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Surge",
+        "nameKo": "Surge",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Powder",
+        "nameKo": "Powder",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Raion-Gaiden",
+        "nameKo": "Raion-Gaiden",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Jokei",
+        "nameKo": "Jokei",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Raiden-Saberu",
+        "nameKo": "Raiden-Saberu",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ashen-Storm",
+        "nameKo": "Ashen-Storm",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Deva-Rengoku",
+        "nameKo": "Deva-Rengoku",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Doku-Tengoku",
+        "nameKo": "Doku-Tengoku",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Dark-Jokei",
+        "nameKo": "Dark-Jokei",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ice",
+        "nameKo": "Ice",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Shindai-Akuma",
+        "nameKo": "신다이-아쿠마",
+        "rank": "D",
+        "description": "신도 라이프 최강 혈계! 엄청난 데미지와 이동기(빠르게 이동하는 기술)를 모두 갖추고 있어. PvP(플레이어 대결)에서 최강 자리를 지키고 있어.",
         "changeFromLast": "down",
         "imageUrl": "",
         "consensus": true,
-        "sources": 2
+        "sources": 1
+      },
+      {
+        "name": "Fume",
+        "nameKo": "Fume",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Dokei",
+        "nameKo": "Dokei",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Rengoku",
+        "nameKo": "렝고쿠",
+        "rank": "D",
+        "description": "불꽃 혈계! 강력한 화염 공격이 특기야. 렝고쿠 특유의 화려한 불꽃 스킬이 멋있어. PvP와 보스 파밍 모두 좋아.",
+        "changeFromLast": "down",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Bankai-Akuma",
+        "nameKo": "반카이-아쿠마",
+        "rank": "D",
+        "description": "블리치 느낌의 악마 혈계! 강력한 검기 공격과 범위 기술이 뛰어나. 신다이-아쿠마와 함께 메타 최강으로 불리는 혈계야.",
+        "changeFromLast": "down",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Satori-Akuma",
+        "nameKo": "Satori-Akuma",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Shindai-Rengoku-Yang",
+        "nameKo": "Shindai-Rengoku-Yang",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Bankai-Inferno",
+        "nameKo": "Bankai-Inferno",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Tengoku",
+        "nameKo": "텐고쿠",
+        "rank": "D",
+        "description": "천국 혈계! 빛나는 스킬들이 화려해. 공격력은 중상급이지만 어떤 상황에서든 안정적으로 쓸 수 있어.",
+        "changeFromLast": "down",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Shiver-Akuma",
+        "nameKo": "Shiver-Akuma",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Octo-Ink",
+        "nameKo": "Octo-Ink",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Renshiki-Ruby",
+        "nameKo": "Renshiki-Ruby",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Mud",
+        "nameKo": "Mud",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Fizz",
+        "nameKo": "Fizz",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Akuma",
+        "nameKo": "아쿠마",
+        "rank": "D",
+        "description": "기본 악마 혈계! 신다이-아쿠마의 하위 버전이지만 여전히 강력해. 얻기 비교적 쉬워서 초중반 플레이어들에게 추천해.",
+        "changeFromLast": "down",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Blood",
+        "nameKo": "Blood",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Forged-Rengoku",
+        "nameKo": "Forged-Rengoku",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Inferno",
+        "nameKo": "Inferno",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Vine",
+        "nameKo": "Vine",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Renshiki",
+        "nameKo": "Renshiki",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Paper",
+        "nameKo": "Paper",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Sarachia-Akuma",
+        "nameKo": "Sarachia-Akuma",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Raion-Rengoku",
+        "nameKo": "Raion-Rengoku",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Smoke",
+        "nameKo": "Smoke",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Web",
+        "nameKo": "Web",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Satori-Rengoku",
+        "nameKo": "Satori-Rengoku",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Apol-Sand",
+        "nameKo": "Apol-Sand",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Apollo-Sand",
+        "nameKo": "Apollo-Sand",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Sand",
+        "nameKo": "Sand",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Gold-Sand",
+        "nameKo": "Gold-Sand",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Bolt",
+        "nameKo": "Bolt",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Magma",
+        "nameKo": "Magma",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Black-Lightning",
+        "nameKo": "Black-Lightning",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Bubble",
+        "nameKo": "Bubble",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Clay",
+        "nameKo": "Clay",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Menza",
+        "nameKo": "Menza",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ink",
+        "nameKo": "Ink",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Lava",
+        "nameKo": "Lava",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Frost",
+        "nameKo": "Frost",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Dust",
+        "nameKo": "Dust",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Riser-Akuma",
+        "nameKo": "Riser-Akuma",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Raion-Akuma",
+        "nameKo": "라이온-아쿠마",
+        "rank": "D",
+        "description": "사자 악마 혈계! 강력한 근접 공격과 함께 좋은 이동기를 갖추고 있어. PvP에서 꽤 강한 모습을 보여주는 혈계야.",
+        "changeFromLast": "down",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Scorch",
+        "nameKo": "Scorch",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Explosion",
+        "nameKo": "Explosion",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Sound",
+        "nameKo": "Sound",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Boil",
+        "nameKo": "Boil",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Storm",
+        "nameKo": "Storm",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Tsunami",
+        "nameKo": "Tsunami",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Xeno-Dokei",
+        "nameKo": "Xeno-Dokei",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Aidens-Son-Mud",
+        "nameKo": "Aidens-Son-Mud",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Xeno-Azure",
+        "nameKo": "Xeno-Azure",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Crystal",
+        "nameKo": "Crystal",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Emerald",
+        "nameKo": "Emerald",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
       }
-    ],
-    "D": []
-  },
-  "editorial": {
-    "summary": "2026년 4월 신도 라이프 메타는 신다이-아쿠마와 반카이-아쿠마가 S+를 굳건히 지키고 있어. 렝고쿠와 센고쿠는 꾸준히 S급을 유지 중이야. 최근 업데이트로 일부 혈계가 재조정됐어.",
-    "recommendation": "처음 시작한다면 아쿠마(Akuma) 혈계를 추천해! 얻기 비교적 쉽고 PvP에서도 충분히 싸울 수 있어. 익숙해지면 신다이-아쿠마나 렝고쿠를 목표로 해봐!"
+    ]
   },
   "meta": {
-    "title": "신도 라이프 혈계 티어표 (2026년 4월)",
-    "description": "신도 라이프 2026년 4월 최신 혈계 티어표. 신다이-아쿠마, 반카이-아쿠마, 렝고쿠 등 커뮤니티 합의 등급 정리. 초보자 추천 혈계 포함.",
-    "keywords": ["신도 라이프", "shindo life", "신도 라이프 혈계", "신도 라이프 티어표", "신다이 아쿠마", "반카이 아쿠마", "최강 혈계 2026"]
+    "title": "신도 라이프 bloodlines 티어표 (2026년 4월)",
+    "description": "2026년 4월 신도 라이프 bloodlines 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "신도 라이프 티어표",
+      "신도 라이프 bloodlines 순위",
+      "shindo-life tier list"
+    ]
+  },
+  "editorial": {
+    "summary": "",
+    "recommendation": "",
+    "tierSummaries": {
+      "C": "C급 혈계들은 쓸 수는 있지만 상위 티어에 비해 화력이나 기술 성능이 부족해요. RELL, Pika-Senko처럼 기본기는 갖추고 있지만, PvP(플레이어 대결)에서는 밀리기 쉬운 혈계들이에요.",
+      "D": "D급 혈계들은 현재 메타(가장 강한 조합)에서 추천하기 어려운 혈계들이에요. Deva-Rengoku, Indra-Akuma처럼 이름은 강해 보이지만 상위 버전에 비해 성능이 많이 떨어져서, 스핀(뽑기)에서 나오면 리롤(다시 뽑기)을 추천해요."
+    },
+    "analysis": "2026년 4월 신도 라이프 혈계 티어표에서 C급과 D급은 총 20개 혈계가 배치되어 있어요. C급에는 RELL, Code-Gaiden, Ashura-Shizen, Getsuga-Black, Borumaki-Gaiden, Aizden, Tetsuo-Kaijin, Ray-Kerada, Pika-Senko, Head-Less가 있고, D급에는 Arahaki-Jokei, Kamaki-Inferno, Indra-Akuma, Surge, Powder, Raion-Gaiden, Jokei, Raiden-Saberu, Ashen-Storm, Deva-Rengoku가 있어요.\n\nC급 혈계들은 '못 쓰는 건 아니지만 강하지도 않은' 애매한 위치에 있어요. 예를 들어 Getsuga-Black은 블리치 게츠가텐쇼(월아천충)를 모티브로 한 멋진 혈계지만, 데미지(공격력)와 스킬 범위가 상위 티어에 비해 부족해요. Pika-Senko는 빛+섬광 조합으로 이동기는 괜찮지만 화력에서 밀리고, Borumaki-Gaiden은 보루마키의 외전 버전으로 본가보다 약해요. 초반에 이 혈계들을 얻었다면 쓸 수는 있지만, 가능하면 B급 이상을 노려보는 게 좋아요.\n\nD급에서 눈에 띄는 건 Deva-Rengoku(데바 렝고쿠)와 Indra-Akuma(인드라 아쿠마)예요. 이름만 보면 S급 렝고쿠나 A급 아쿠마 계열이라 강할 것 같지만, 실제로는 하위 변형 버전이라 성능이 크게 떨어져요. Raion-Gaiden(라이온 외전)도 마찬가지로, A급 라이온-아쿠마와 이름이 비슷하지만 전혀 다른 급의 혈계예요. 이름에 속지 않는 게 중요해요!\n\nBeebom 소스(2026년 3월 12일 기준)에서는 신도 라이프의 170개 이상 혈계를 S~F 등급으로 나누면서, D급 이하는 '뽑으면 리롤하라'고 권장하고 있어요. Roblox Den 소스는 현재 페이지가 삭제된 상태라 확인이 어려웠어요. 소스마다 세부 배치가 다를 수 있으니, 여기 티어표는 여러 커뮤니티 의견을 종합한 참고용이라는 점 기억해 주세요.\n\n초보자 친구들에게 팁을 드리자면, C급이나 D급 혈계가 나왔을 때 무조건 나쁜 건 아니에요! PvE(몬스터 사냥)에서는 쓸만한 혈계도 있거든요. 하지만 PvP에서 더 강해지고 싶다면, 스핀(뽑기)을 모아서 S급이나 A급 혈계를 노려보는 걸 추천해요. 특히 아쿠마(Akuma) 계열은 얻기 비교적 쉬우면서도 강력하니까, 처음 시작하는 친구들에게 좋은 목표가 될 거예요!",
+    "analysisSources": [
+      "Beebom",
+      "Roblox Den"
+    ],
+    "analysisDate": "2026-04-04"
   }
 }

@@ -1,0 +1,327 @@
+{
+  "game": "jujutsu-infinite",
+  "gameTitle": "주츠 인피니티",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-04T02:44:41.748057+00:00",
+  "category": "techniques",
+  "tiers": {
+    "S+": [],
+    "S": [
+      {
+        "name": "S",
+        "nameKo": "S",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      },
+      {
+        "name": "A",
+        "nameKo": "A",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      },
+      {
+        "name": "Infinity",
+        "nameKo": "Infinity",
+        "rank": "S",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Infinity.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "A": [
+      {
+        "name": "Demon Vessel",
+        "nameKo": "Demon Vessel",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Demon-Vessel-.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Volcano",
+        "nameKo": "Volcano",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Volcano-1.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Plant Manipulation",
+        "nameKo": "Plant Manipulation",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "B": [
+      {
+        "name": "B",
+        "nameKo": "B",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      },
+      {
+        "name": "C",
+        "nameKo": "C",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      },
+      {
+        "name": "Soul King",
+        "nameKo": "Soul King",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Hydrokinetics",
+        "nameKo": "Hydrokinetics",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Hydrokinetics.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Blood Manipulation",
+        "nameKo": "Blood Manipulation",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Blood-Manipulation-1.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "C": [
+      {
+        "name": "D",
+        "nameKo": "D",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ancient Construction",
+        "nameKo": "Ancient Construction",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Ancient-Construction-1.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Projection",
+        "nameKo": "Projection",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Projection.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Cryokinesis",
+        "nameKo": "Cryokinesis",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Cryokinesis-1.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Straw Doll",
+        "nameKo": "Straw Doll",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Straw-Doll.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Construction",
+        "nameKo": "Construction",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Construction.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "D": [
+      {
+        "name": "Star Rage",
+        "nameKo": "Star Rage",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Star-Rage-1.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Thunder God",
+        "nameKo": "Thunder God",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Thunder-God.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Gambler Fever",
+        "nameKo": "Gambler Fever",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Gambler-Fever-1.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Curse Queen",
+        "nameKo": "Curse Queen",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Curse-Queen-2.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Puppet",
+        "nameKo": "Puppet",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Puppet.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Ratio",
+        "nameKo": "Ratio",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Ratio.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Judgement",
+        "nameKo": "Judgement",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Judgement.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Curse Speech",
+        "nameKo": "Curse Speech",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Cursed-Speech-1.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Boogie Woogie",
+        "nameKo": "Boogie Woogie",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Boogie-Woogie.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Blazing Courage",
+        "nameKo": "Blazing Courage",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Blazing-Courage.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      },
+      {
+        "name": "Cloning Technique",
+        "nameKo": "Cloning Technique",
+        "rank": "D",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "https://static.beebom.com/wp-content/uploads/2024/12/Cloning-Technique.jpg?w=150",
+        "consensus": true,
+        "sources": 1
+      }
+    ]
+  },
+  "meta": {
+    "title": "주츠 인피니티 techniques 티어표 (2026년 4월)",
+    "description": "2026년 4월 주츠 인피니티 techniques 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "주츠 인피니티 티어표",
+      "주츠 인피니티 techniques 순위",
+      "jujutsu-infinite tier list"
+    ]
+  },
+  "editorial": {
+    "summary": "",
+    "recommendation": "",
+    "tierSummaries": {
+      "S": "Infinity(무한)는 도메인 확장(영역 전개)과 맥시멈 테크닉(최강 필살기)을 모두 갖춘 최강 기술이에요. S와 A 이네이트(타고난 기술)도 높은 데미지와 다양한 스킬 조합으로 S티어에 올랐어요.",
+      "A": "Demon Vessel(악마의 그릇)은 강력한 근접 공격력이 뛰어나고, Volcano(화산)와 Plant Manipulation(식물 조종)은 넓은 범위 공격으로 PvE(몬스터 싸움)에서 특히 활약해요.",
+      "B": "Soul King(영혼의 왕), Hydrokinetics(물 조종), Blood Manipulation(혈액 조종)은 보조 슬롯에 넣으면 쓸만한 기술들이에요. B와 C 이네이트도 나쁘지 않지만 결정적인 한방이 부족해요.",
+      "C": "Ancient Construction(고대 건축), Projection(투사), Cryokinesis(얼음 조종) 등은 특정 상황에서만 빛나는 기술이에요. D 이네이트, Straw Doll(짚인형), Construction(건축)도 여기에 포함돼요.",
+      "D": "Star Rage(별의 분노), Thunder God(번개신), Gambler Fever(도박사의 열기) 등 10개 기술이 D티어예요. 한때 주목받던 기술도 있지만, 현재 메타(가장 잘 먹히는 전략)에서는 다른 기술에 밀려요."
+    },
+    "analysis": "2026년 4월 주츠 인피니티 메타(가장 잘 먹히는 전략)는 여전히 Infinity(무한)가 이끌고 있어요. Infinity는 고죠 사토루의 능력을 바탕으로 한 기술로, 식스 아이즈 변신(블랙 플래시 토큰 3개로 활성화), 도메인 확장(영역 전개), 맥시멈 테크닉(최강 필살기)을 모두 갖추고 있어요. PvP(다른 플레이어와 싸움)에서도 PvE(몬스터 싸움)에서도 최고 성능을 보여주고, 거의 모든 커뮤니티와 공략 사이트에서 1등으로 꼽히고 있어요. 같은 S티어의 S와 A 이네이트(타고난 기술)도 높은 희귀도에 걸맞은 강력한 성능을 자랑해요.\n\nA티어의 Demon Vessel(악마의 그릇), Volcano(화산), Plant Manipulation(식물 조종)은 메인 슬롯에 넣어도 충분히 강한 기술이에요. 특히 Demon Vessel은 스쿠나의 능력 기반으로 근접 전투에서 엄청난 데미지를 뽑을 수 있고, Volcano와 Plant Manipulation은 넓은 범위를 공격할 수 있어서 여러 몬스터를 한꺼번에 상대할 때 유리해요. B티어의 Soul King, Hydrokinetics, Blood Manipulation은 보조 슬롯용으로 추천하는데, 단독으로 쓰기엔 결정적 한방이 부족하지만 메인 기술과 조합하면 시너지(함께 쓰면 더 강해지는 효과)가 좋아요.\n\n흥미로운 점은 일부 공략 사이트에서 Star Rage(별의 분노), Thunder God(번개신), Gambler Fever(도박사의 열기)를 '최고의 기술' 중 하나로 소개하고 있지만, 실제 PvP 메타에서는 D티어로 평가된다는 거예요. 이건 해당 사이트들이 예전 메타 기준으로 작성되었거나, PvE 위주로 평가했을 가능성이 있어요. 게임 업데이트로 밸런스 패치(기술 강약 조절)가 이루어지면서 이런 차이가 생긴 것으로 보여요. 항상 최신 정보를 확인하는 게 중요해요!\n\n초보자 친구들에게 알려주는 꿀팁이에요! 처음 시작할 때는 코드로 스핀(뽑기 기회)을 모아서 S티어나 A티어 기술을 노려보세요. 운 좋게 Infinity를 뽑으면 꼭 장착하고, Demon Vessel이나 Volcano가 나와도 충분히 강해요. B티어 기술이 나왔다면 보조 슬롯에 넣어두고 더 좋은 기술이 나올 때까지 사용하면 돼요. C~D티어 기술은 처음에 연습용으로 써보는 건 괜찮지만, 어려운 보스전이나 PvP에서는 한계가 있으니 참고하세요.\n\n정리하면, 이번 4월 메타는 Infinity 원톱 체제가 계속되고 있고, A티어 기술들도 충분히 경쟁력이 있어요. 스핀을 아끼지 말고 좋은 기술을 뽑아서 즐거운 주츠 인피니티 생활을 하길 바라요! 다만 게임은 자주 업데이트되니까, 밸런스 패치(기술 강약 조절)로 티어가 바뀔 수 있다는 점도 기억해 두세요.",
+    "analysisSources": [
+      "Beebom",
+      "Pocket Gamer",
+      "Pocket Tactics"
+    ],
+    "analysisDate": "2026-04-04"
+  }
+}

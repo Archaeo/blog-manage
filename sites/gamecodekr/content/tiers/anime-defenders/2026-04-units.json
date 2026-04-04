@@ -1,0 +1,87 @@
+{
+  "game": "anime-defenders",
+  "gameTitle": "애니메 디펜더즈",
+  "month": "2026-04",
+  "lastUpdated": "2026-04-04T02:46:41.770574+00:00",
+  "category": "units",
+  "tiers": {
+    "S+": [],
+    "S": [],
+    "A": [
+      {
+        "name": "A",
+        "nameKo": "A",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      },
+      {
+        "name": "Rank",
+        "nameKo": "Rank",
+        "rank": "A",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 1
+      }
+    ],
+    "B": [
+      {
+        "name": "S",
+        "nameKo": "S",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      },
+      {
+        "name": "C",
+        "nameKo": "C",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      },
+      {
+        "name": "D",
+        "nameKo": "D",
+        "rank": "B",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": true,
+        "sources": 2
+      }
+    ],
+    "C": [
+      {
+        "name": "B",
+        "nameKo": "B",
+        "rank": "C",
+        "description": "",
+        "changeFromLast": "same",
+        "imageUrl": "",
+        "consensus": false,
+        "sources": 2
+      }
+    ],
+    "D": []
+  },
+  "meta": {
+    "title": "애니메 디펜더즈 units 티어표 (2026년 4월)",
+    "description": "2026년 4월 애니메 디펜더즈 units 티어표! 최강 순위를 매주 업데이트합니다.",
+    "keywords": [
+      "애니메 디펜더즈 티어표",
+      "애니메 디펜더즈 units 순위",
+      "anime-defenders tier list"
+    ]
+  }
+}
