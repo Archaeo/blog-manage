@@ -2,318 +2,30 @@
   "game": "tower-defense-simulator",
   "gameTitle": "타워 디펜스 시뮬레이터",
   "month": "2026-04",
-  "lastUpdated": "2026-04-04T02:15:20.522829+00:00",
+  "lastUpdated": "2026-04-10T04:39:11.943955+00:00",
   "codes": [
-    {
-      "code": "POKEMON",
-      "reward": "Wordle",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "News",
-      "reward": "Redeem Codes",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
     {
       "code": "IMCONSUMING",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
-      "code": "QNJOU11",
+      "code": "CHRISTMAS2025",
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "NAMETAGSRCOOL",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "JOHNRETURNS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "M3RRY2022TDS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
-      "code": "beachglad2022",
+      "code": "1POINT7MIL",
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "MERRY2021",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "robloxisback",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "1BILLION",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "celebration21",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "200KMAY",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BLOXY21",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "FIFTYK",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "delayed",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "teleportfailed",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "HAPPY3AST3R",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "ICYFREEZE",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "DOUBLEBLOXIES",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "W33KLICODE",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SPR1NGM1L3ST0NE",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "5KMILESTONE",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "B1RDHUNT3R",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Berd",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Tdsfan123",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "ondniwa",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "robloxiscoollol",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "ethanc115",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "bacon_shadow",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "floadics",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SuperPro123_Bla",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "soup",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "alex",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Berserker",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "HistoryGen",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Accessibility",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Temptalia",
-      "reward": "Video Gaming",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "gems",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -321,7 +33,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -329,7 +41,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -337,7 +49,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -345,7 +57,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -353,7 +65,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -361,247 +73,343 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "K1L4",
-      "reward": "",
+      "reward": "Gold boost",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "NewLobby",
-      "reward": "",
+      "reward": "Free rewards",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "updatewhere",
-      "reward": "",
+      "reward": "Rerolls and Gems",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "UltimateFishingDefense",
-      "reward": "",
+      "reward": "Rerolls and Gems",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "BattlepassSeason3",
-      "reward": "",
+      "reward": "Rerolls and Gems",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "Summer2024",
-      "reward": "",
+      "reward": "50 Re-roll Potions",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "SoloRaidingPart2",
-      "reward": "",
+      "reward": "150 Gems",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "iDontLikeReading",
-      "reward": "",
+      "reward": "80 Re-roll Potions",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "gamebrokenhugeL",
+      "reward": "+100% Gold for 24 hours",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "QNJOU11",
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
-      "code": "iOS",
-      "reward": "Android",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Features",
-      "reward": "Best Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Reviews",
-      "reward": "Gadgets & Tech",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "GameKnot",
-      "reward": "Addicting Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "utdibasid",
-      "reward": "BattlepassSeason8!",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Q2JF",
-      "reward": "ChristmasIsOver?",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "slothiscool",
-      "reward": "LastWeekTillChristmas! (expires December 20th)",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Xmas2025",
-      "reward": "FinalWeekOfSpooks",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "FinalWeekOfSpooks",
-      "reward": "HappyAnniversary2025",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "HappyAnniversary2025",
-      "reward": "Rem&Ram! (expires September 26th)",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SummerCalendar2025",
-      "reward": "Summer2025!",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "brokenGamepassCode",
-      "reward": "TimeChamberRework - rewards (expires June 29th)",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SorryForCodeBug",
-      "reward": "HaveSomeGold",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "HaveSomeGold",
-      "reward": "leighNoob",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "leighNoob",
-      "reward": "BleachPart2 - rewards (expires April 22)",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "EidMubarak",
-      "reward": "Cookie - rewards",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Valentines2025",
-      "reward": "EndOfEventShop - Rewards",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Fortnite",
-      "reward": "Roblox",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Minecraft",
-      "reward": "Genshin Impact",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Wordle",
-      "reward": "BitLife",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BitLife",
+      "code": "NAMETAGSRCOOL",
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "JOHNRETURNS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "M3RRY2022TDS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "beachglad2022",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MERRY2021",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "robloxisback",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1BILLION",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "celebration21",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "200KMAY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BLOXY21",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FIFTYK",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "delayed",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "teleportfailed",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "HAPPY3AST3R",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "ICYFREEZE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "DOUBLEBLOXIES",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "W33KLICODE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SPR1NGM1L3ST0NE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "5KMILESTONE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "B1RDHUNT3R",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Berd",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Tdsfan123",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ondniwa",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "robloxiscoollol",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ethanc115",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "bacon_shadow",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "floadics",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SuperPro123_Bla",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "soup",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "alex",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Berserker",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "HistoryGen",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     }
   ],

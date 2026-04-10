@@ -2,78 +2,86 @@
   "game": "anime-vanguards",
   "gameTitle": "애니메 뱅가드즈",
   "month": "2026-04",
-  "lastUpdated": "2026-04-04T02:15:20.514304+00:00",
+  "lastUpdated": "2026-04-10T04:39:11.958647+00:00",
   "codes": [
     {
-      "code": "LATECUSTOMLEVEL",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
       "code": "MOONLESS",
-      "reward": "",
-      "verified": 2,
+      "reward": "5000 Gems, 50 Stat Chips",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
-      "code": "1WeekDelay",
-      "reward": "",
-      "verified": 2,
+      "code": "LATECUSTOMLEVEL",
+      "reward": "50 Rerolls, 50 Memoria Shards",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "NoCustoms",
-      "reward": "",
-      "verified": 2,
+      "reward": "10000 Gems, 30 Rerolls, 30 Memoria Shards",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1WeekDelay",
+      "reward": "50 Rerolls, 50 Memoria Shards",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Winter26",
-      "reward": "",
-      "verified": 2,
+      "reward": "50 Trait Rerolls, 25 Stat Chips, 4,500 Winter Presents",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Memoria",
-      "reward": "",
-      "verified": 2,
+      "reward": "50 Memoria Shards, 25 Stat Chips, 4,500 Winter Present",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "ItsCold",
-      "reward": "",
-      "verified": 2,
+      "reward": "20 Trait Rerolls, 20 Memoria Shards, 10,000 Gold, 5,000 Gems s",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "News",
-      "reward": "About Us",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "150KYT",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "Chainsaws",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ALMOST100K",
+      "reward": "",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -81,15 +89,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Chainsaws",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -97,15 +97,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "ALMOST100K",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -113,7 +105,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -121,7 +113,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -129,7 +121,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -137,7 +129,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -145,7 +137,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -153,7 +145,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -161,7 +153,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -169,7 +161,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -177,7 +169,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -185,7 +177,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -193,7 +185,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -201,7 +193,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -209,7 +201,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -217,7 +209,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -225,7 +217,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -233,7 +225,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -241,7 +233,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -249,7 +241,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -257,7 +249,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -265,7 +257,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -273,7 +265,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -281,7 +273,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -289,7 +281,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -297,7 +289,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -305,7 +297,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -313,7 +305,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -321,7 +313,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -329,7 +321,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -337,7 +329,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -345,7 +337,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -353,7 +345,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -361,7 +353,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -369,7 +361,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -377,7 +369,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -385,7 +377,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -393,7 +385,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -401,7 +393,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -409,7 +401,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -417,7 +409,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -425,7 +417,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -433,7 +425,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -441,7 +433,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -449,7 +441,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -457,7 +449,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -465,7 +457,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -473,7 +465,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -481,7 +473,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -489,7 +481,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -497,7 +489,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -505,7 +497,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -513,7 +505,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -521,7 +513,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -529,7 +521,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -537,7 +529,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -545,7 +537,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -553,7 +545,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -561,7 +553,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -569,7 +561,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -577,7 +569,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -585,7 +577,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -593,7 +585,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -601,7 +593,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -609,7 +601,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -617,7 +609,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -625,7 +617,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -633,7 +625,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -641,7 +633,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -649,7 +641,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -657,7 +649,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -665,7 +657,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -673,7 +665,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -681,7 +673,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -689,7 +681,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -697,7 +689,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -705,7 +697,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -713,7 +705,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -721,7 +713,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -729,7 +721,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -737,7 +729,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -745,7 +737,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -753,7 +745,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -761,7 +753,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -769,7 +761,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -777,7 +769,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -785,7 +777,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -793,7 +785,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -801,7 +793,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -809,7 +801,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -817,95 +809,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Accessibility",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Temptalia",
-      "reward": "Video Gaming",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Fortnite",
-      "reward": "Roblox",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Minecraft",
-      "reward": "Genshin Impact",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Pokemon",
-      "reward": "Wordle",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Wordle",
-      "reward": "BitLife",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BitLife",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "iOS",
-      "reward": "Android",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Features",
-      "reward": "Best Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Reviews",
-      "reward": "Gadgets & Tech",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "GameKnot",
-      "reward": "Addicting Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     }
   ],

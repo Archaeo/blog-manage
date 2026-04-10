@@ -2,470 +2,118 @@
   "game": "jujutsu-infinite",
   "gameTitle": "주츠 인피니티",
   "month": "2026-04",
-  "lastUpdated": "2026-04-04T02:15:20.523531+00:00",
+  "lastUpdated": "2026-04-10T04:39:11.957639+00:00",
   "codes": [
     {
+      "code": "JUDGEMAN_REWORK",
+      "reward": "50 Spins (new!)",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
       "code": "LUNAR_2026",
-      "reward": "",
+      "reward": "50 Spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "96_PERCENT",
-      "reward": "",
+      "reward": "50 Spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "2M_FAVS",
-      "reward": "",
+      "reward": "50 Spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "WINTER_SOON",
-      "reward": "",
+      "reward": "50 Spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "95_PERCENT",
-      "reward": "",
+      "reward": "50 spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "EXCHANGE_OUT",
-      "reward": "",
+      "reward": "100 Spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "EXCHANGE_20K",
-      "reward": "",
+      "reward": "400 Spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SOULKING_20K",
-      "reward": "",
+      "reward": "400 Spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "2025_CHRISTMAS",
-      "reward": "",
+      "reward": "400 Spins",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "20KWINTER",
+      "reward": "400 Spins",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "400K_SUBS",
       "reward": "",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
-      "code": "News",
-      "reward": "Redeem Codes",
+      "code": "JUDGE_SOON",
+      "reward": "",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "PROJECTION_OUT",
-      "reward": "PROJECTION_20K",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "PROJECTION_20K",
-      "reward": "PROJECTION_SOON",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "PROJECTION_SOON",
-      "reward": "MECH_SOON",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "MECH_SOON",
-      "reward": "THUNDER_GOD",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "THUNDER_GOD",
-      "reward": "20K_FOLLOW_THUNDR",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "20K_FOLLOW_THUNDR",
-      "reward": "MECH_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "MECH_SHUTDOWN",
-      "reward": "MECH_MAX",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "MECH_MAX",
-      "reward": "ANCIENT_CONSTRUCT",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "ANCIENT_CONSTRUCT",
-      "reward": "ANCIENT_SOON",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "ANCIENT_SOON",
-      "reward": "REND_SPIDERWEB",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "REND_SPIDERWEB",
-      "reward": "SIX_EYED_CALAMITY",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SIX_EYED_CALAMITY",
-      "reward": "CALAMITY_SOON",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "CALAMITY_SOON",
-      "reward": "PATCH_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "PATCH_SHUTDOWN",
-      "reward": "COOL_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "COOL_SHUTDOWN",
-      "reward": "CALAMITY_TEASER",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "CALAMITY_TEASER",
-      "reward": "QUEUE_FIX",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "QUEUE_FIX",
-      "reward": "SMALL_PATCHES",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SMALL_PATCHES",
-      "reward": "SOUL_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SOUL_SHUTDOWN",
-      "reward": "SOUL_BUFFS",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SOUL_BUFFS",
-      "reward": "HAPPY_VALENTINES",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "HAPPY_VALENTINES",
-      "reward": "FUGA_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "FUGA_SHUTDOWN",
-      "reward": "FUGA_PUPPET_UPD",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "FUGA_PUPPET_UPD",
-      "reward": "READY_FOR_UPD",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "READY_FOR_UPD",
-      "reward": "I_LOVE_JJI",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "LUNAR_SNAKE",
-      "reward": "LUNAR_NEW_YEAR",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "LUNAR_NEW_YEAR",
-      "reward": "LUNAR_FOLLOWS",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "LUNAR_FOLLOWS",
-      "reward": "I_LOVE_SHUTDOWNS",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "I_LOVE_SHUTDOWNS",
-      "reward": "WORLD_TRADING_UPDATE",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "WORLD_TRADING_UPDATE",
-      "reward": "WINTER_UPD",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "WINTER_UPD",
-      "reward": "SNOWMAN_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SNOWMAN_SHUTDOWN",
-      "reward": "SANTA_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "SANTA_SHUTDOWN",
-      "reward": "WINTER_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "WINTER_SHUTDOWN",
-      "reward": "AWESOME_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "AWESOME_SHUTDOWN",
-      "reward": "1M_FAVORITES",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "1M_FAVORITES",
-      "reward": "LUCK_REAL",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "LUCK_REAL",
-      "reward": "TWITTER_75_YAY",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "TWITTER_75_YAY",
-      "reward": "HAPPY_2025",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "HAPPY_2025",
-      "reward": "50K_FOLLOWERS",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "50K_FOLLOWERS",
-      "reward": "MERRY_CHRISTMAS",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "MERRY_CHRISTMAS",
-      "reward": "RELEASE",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "RELEASE",
-      "reward": "JJ_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "JJ_SHUTDOWN",
-      "reward": "BACK_UP_AGAIN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BACK_UP_AGAIN",
-      "reward": "TOP_SECRET",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "TOP_SECRET",
-      "reward": "RELEASE_SHUTDOWN_SRRY",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "RELEASE_SHUTDOWN_SRRY",
-      "reward": "MISSION_SHUTDOWN",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "MISSION_SHUTDOWN",
-      "reward": "WAVE3_PATCH",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "WINTER_EVENT_OUT",
-      "reward": "",
+      "reward": "100 Spins",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -473,7 +121,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -481,7 +129,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -489,119 +137,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "iOS",
-      "reward": "Android",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Features",
-      "reward": "Best Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Reviews",
-      "reward": "Gadgets & Tech",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "GameKnot",
-      "reward": "Addicting Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "I_LOVE_JJI",
-      "reward": "LUNAR_SNAKE",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "WAVE3_PATCH",
-      "reward": "WELCOME_WAVE3",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "WELCOME_WAVE3",
-      "reward": "DIM_MAX",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "DIM_MAX",
-      "reward": "UPDATE_3",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "UPDATE_3",
-      "reward": "350K_YAY",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "350K_YAY",
-      "reward": "ROLLBACK_SRRY",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "ROLLBACK_SRRY",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "400K_SUBS",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "JUDGEMAN_REWORK",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "JUDGE_SOON",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -609,7 +145,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -617,7 +153,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -625,7 +161,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -633,7 +169,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -641,7 +177,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -649,7 +185,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -657,7 +193,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -665,7 +201,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -673,7 +209,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -681,7 +217,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -689,7 +225,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -697,7 +233,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -705,7 +241,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -713,7 +249,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -721,7 +257,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -729,7 +265,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -737,7 +273,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -745,7 +281,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -753,7 +289,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -761,7 +297,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -769,7 +305,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -777,7 +313,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -785,7 +321,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -793,7 +329,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -801,7 +337,39 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "PROJECTION_OUT",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "PROJECTION_20K",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "PROJECTION_SOON",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "THUNDER_GOD",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -809,7 +377,319 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "20K_FOLLOW_THUNDR",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MECH_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MECH_MAX",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MECH_SOON",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ANCIENT_CONSTRUCT",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "ANCIENT_SOON",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "REND_SPIDERWEB",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SIX_EYED_CALAMITY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CALAMITY_SOON",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "PATCH_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "COOL_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "CALAMITY_TEASER",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "QUEUE_FIX",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SMALL_PATCHES",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SOUL_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SOUL_BUFFS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "HAPPY_VALENTINES",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FUGA_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "FUGA_PUPPET_UPD",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "READY_FOR_UPD",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LUNAR_SNAKE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LUNAR_NEW_YEAR",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LUNAR_FOLLOWS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WORLD_TRADING_UPDATE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WINTER_UPD",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "I_LOVE_SHUTDOWNS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SNOWMAN_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "SANTA_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WINTER_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "AWESOME_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TWITTER_75_YAY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "HAPPY_2025",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "50K_FOLLOWERS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "JJ_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "BACK_UP_AGAIN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MERRY_CHRISTMAS",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "RELEASE",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "1M_FAVORITES",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "LUCK_REAL",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -817,7 +697,31 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "MISSION_SHUTDOWN",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "RELEASE_SHUTDOWN_SRRY",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "TOP_SECRET",
+      "reward": "",
+      "verified": 1,
+      "status": "unverified",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -825,7 +729,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -833,7 +737,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -841,7 +745,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -849,7 +753,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -857,7 +761,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -865,7 +769,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -873,7 +777,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -881,7 +785,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -889,7 +793,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -897,7 +801,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -905,7 +809,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -913,63 +817,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Accessibility",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Temptalia",
-      "reward": "Video Gaming",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Fortnite",
-      "reward": "Roblox",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Minecraft",
-      "reward": "Genshin Impact",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Pokemon",
-      "reward": "Wordle",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Wordle",
-      "reward": "BitLife",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BitLife",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     }
   ],

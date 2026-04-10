@@ -2,294 +2,214 @@
   "game": "bee-swarm-simulator",
   "gameTitle": "비 스웜 시뮬레이터",
   "month": "2026-04",
-  "lastUpdated": "2026-04-04T02:15:20.517449+00:00",
+  "lastUpdated": "2026-04-10T04:39:11.946961+00:00",
   "codes": [
     {
       "code": "15MMembers",
-      "reward": "Group",
-      "verified": 2,
+      "reward": "Red Balloon x1, Marshmallow Bee x1, Strawberries x15, Blueberries x15, Sunflower Seeds x15, Pineapples x15, Bitterberries x15, Gumdrops x15, Bamboo Field Boost x4, Bamboo Field Winds x15, Rose Field Boost x4, Rose Field Winds x15, Coconut Field Boost x4, Coconut Field Winds x15 (Exclusive to club members)",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "멤버 1,500만 명 기념 코드예요! 비 스웜 코드는 보통 꿀이나 로열 젤리를 줘서 벌 성장에 큰 도움이 돼요."
     },
     {
-      "code": "WeekExtension",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "이벤트 연장 기념 코드예요! 꿀이나 부스트 보상으로 파밍 효율을 높일 수 있어요."
-    },
-    {
-      "code": "DarzethDoodads",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "유명 콘텐츠 크리에이터 Darzeth와의 협업 코드예요! 로열 젤리나 특별 아이템을 받을 수 있어요."
-    },
-    {
-      "code": "Thnxcyastoybox",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "장난감 박스 감사 코드예요! 비 스웜 특별 코드로 꿀이나 스티커를 받을 수 있어요."
-    },
-    {
-      "code": "WalmartToys",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "월마트 장난감 콜라보 코드예요! 특별 협업 코드는 독특한 보상을 주는 경우가 많아요."
-    },
-    {
-      "code": "1MLikes",
-      "reward": "(Must be in the Group to redeem this)",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "좋아요 100만 기념 코드예요! 마일스톤 코드는 보통 꿀이나 로열 젤리를 넉넉하게 줘요."
-    },
-    {
-      "code": "BANNED",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Cubly",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "Cubly 관련 기념 코드예요! 꿀이나 로열 젤리 보상으로 벌 강화에 활용해 보세요."
-    },
-    {
-      "code": "Teespring",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "공식 굿즈 판매 기념 코드예요! 특별 협업 코드로 꿀이나 스티커를 받을 수 있어요."
-    },
-    {
       "code": "BeesBuzz123",
-      "reward": "",
-      "verified": 2,
+      "reward": "Cloud Vial x1, Bitterberries x5, Gumdrops x10",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "비 스웜 공식 코드예요! 꿀이나 부스트 보상으로 파밍을 더 효율적으로 할 수 있어요."
     },
     {
-      "code": "Marshmallow",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "ClubConverters",
-      "reward": "(Must be in the Group to redeem this)",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "Sure",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "GumdropsForScience",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "SecretProfileCode",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
       "code": "ClubBean",
-      "reward": "(Must be in the Group to redeem this)",
-      "verified": 2,
+      "reward": "Magic Bean x1, Pineapple Patch Boost x2",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "Wink",
-      "reward": "",
-      "verified": 2,
+      "reward": "Tickets x5, 5,000 Honey, Black Bear Morph, Dandelion Field Boost x7",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "38217",
-      "reward": "",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Bopmaster",
-      "reward": "",
-      "verified": 2,
+      "reward": "Ticket x5",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Buzz",
-      "reward": "",
-      "verified": 2,
+      "reward": "5,000 Honey",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Cog",
-      "reward": "",
-      "verified": 2,
+      "reward": "Ticket x5",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Connoisseur",
-      "reward": "",
-      "verified": 2,
+      "reward": "Ticket x5",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Crawlers",
-      "reward": "",
-      "verified": 2,
+      "reward": "Ticket x5",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Nectar",
-      "reward": "",
-      "verified": 2,
+      "reward": "5,000 Honey",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Roof",
-      "reward": "",
-      "verified": 2,
+      "reward": "Ticket x5",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Wax",
-      "reward": "",
+      "reward": "Ticket x5, 5,000 Honey",
+      "verified": 3,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": ""
+    },
+    {
+      "code": "WeekExtension",
+      "reward": "Marshmallow Bee x1, Wealth Clock Buff x5, Robo Party Blessing x5, Spider Field Boost x3, Strawberry Field Boost x3, Bamboo Field Boost x3, Spider Field Winds x10, Strawberry Field Winds x10, Bamboo Field Winds x10",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "이벤트 연장 기념 코드예요! 꿀이나 부스트 보상으로 파밍 효율을 높일 수 있어요."
     },
     {
-      "code": "News",
-      "reward": "Redeem Codes",
+      "code": "DarzethDoodads",
+      "reward": "Marshmallow Bee x1, Tropical Drink x1, Jelly Beans x1, Stinger x1, Tickets x3, Red Balloon x1, Clover Field Code Buff, Coconut Field Code Buff",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "유명 콘텐츠 크리에이터 Darzeth와의 협업 코드예요! 로열 젤리나 특별 아이템을 받을 수 있어요."
+    },
+    {
+      "code": "Thnxcyastoybox",
+      "reward": "Marshmallow Bee x1, Smooth Dice x1, Jelly Beans x1, Micro-Converter x1, Cloud Vial x1, Whirligig x1, Honeysuckles x10, Pink Balloon x1, Pumpkin Patch Boost x3, Pumpkin Patch Code Buff",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "장난감 박스 감사 코드예요! 비 스웜 특별 코드로 꿀이나 스티커를 받을 수 있어요."
+    },
+    {
+      "code": "WalmartToys",
+      "reward": "Marshmallow Bee x1, Field Dice x1, Micro-Converters x3, Pineapple Patch Boost x4, Pineapple Patch Code Buff, Pineapple Patch Winds x10, Super Smoothie Buff, Wealth Clock",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "월마트 장난감 콜라보 코드예요! 특별 협업 코드는 독특한 보상을 주는 경우가 많아요."
+    },
+    {
+      "code": "1MLikes",
+      "reward": "uper Smoothie Buff, Unlimited Gumdrops Buff x1, Mother Bear Morph, Blue Boost x1, Red Boost x1, White Boost x1, Baby Love Buff, Melody Buff, Mountain Top Field Boost x1, Clover Field Boost x1, Blue Flower Field Boost x1, Sunflower Field Boost x1, Mushroom Field Boost x1, Spider Field Boost x1, Strawberry Field Boost x1, Bamboo Field Boost x1, Pineapple Patch Boost x1, Capacity Code Buff (Duration: 1 hour), Wealth Clock Buff x1, Ticket x1, Treat x1, Bitterberry x1, Sunflower Seed x1, Strawberry x1, Blueberry x1, Pineapple x1, Moon Charm x1, Cloud Vial x1, Ant Pass x1, Field Dice x1, Micro-Converter x1, Coconut x1, Stinger x1, Gumdrops x1, 1 Honey (Exclusive to club members)",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "좋아요 100만 기념 코드예요! 마일스톤 코드는 보통 꿀이나 로열 젤리를 넉넉하게 줘요."
+    },
+    {
+      "code": "BANNED",
+      "reward": "Stubborn Bee Jelly x1, Spider Field Code Buff",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
-      "code": "iOS",
-      "reward": "Android",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "code": "Cubly",
+      "reward": "Bumble Bee Jelly x1, Bitterberries x10, Micro-Converter x1, Capacity Code Buff (Duration: 1 hour)",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "Cubly 관련 기념 코드예요! 꿀이나 로열 젤리 보상으로 벌 강화에 활용해 보세요."
+    },
+    {
+      "code": "Teespring",
+      "reward": "Marshmallow Bee x1, Bamboo Field Boost x3, Bamboo Field Winds x3",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "공식 굿즈 판매 기념 코드예요! 특별 협업 코드로 꿀이나 스티커를 받을 수 있어요."
+    },
+    {
+      "code": "Marshmallow",
+      "reward": "Marshmallow Bee x1, Conversion Boost (Duration: 1 hour)",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "ClubConverters",
+      "reward": "Micro-Converters x10 (Exclusive to club members)",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
+    },
+    {
+      "code": "Sure",
+      "reward": "Conversion Boost (Duration: 30 minutes), Dandelion Field Boost x3, 2,500 Honey",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
-      "code": "Features",
-      "reward": "Best Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
+      "code": "GumdropsForScience",
+      "reward": "Gumdrops x15",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
-      "code": "Reviews",
-      "reward": "Gadgets & Tech",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
+      "code": "SecretProfileCode",
+      "reward": "Ant Pass, Shocked Bee Jelly, Oil Buff, Glue Buff, Enzymes Buff (Exclusive to club members)",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
+      "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
-      "code": "GameKnot",
-      "reward": "Addicting Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Fortnite",
-      "reward": "Roblox",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Minecraft",
-      "reward": "Genshin Impact",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Pokemon",
-      "reward": "Wordle",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Wordle",
-      "reward": "BitLife",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BitLife",
+      "code": "ThreeBeeVee",
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -297,23 +217,15 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
-    },
-    {
-      "code": "777",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
     },
     {
       "code": "Octobersmas",
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -321,7 +233,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -329,7 +241,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -337,7 +249,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -345,7 +257,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -353,7 +265,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -361,23 +273,23 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "DemiDecade",
-      "reward": "(Must be in the Group to redeem this)",
+      "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "10mMembers",
-      "reward": "(Must be in the Group to redeem this)",
+      "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -385,7 +297,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
@@ -393,7 +305,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -401,7 +313,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -409,7 +321,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -417,7 +329,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -425,7 +337,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -433,7 +345,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -441,7 +353,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -449,7 +361,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -457,7 +369,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -465,7 +377,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -473,7 +385,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -481,7 +393,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -489,7 +401,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -497,7 +409,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -505,7 +417,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -513,7 +425,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -521,23 +433,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Accessibility",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Temptalia",
-      "reward": "Video Gaming",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     }
   ],

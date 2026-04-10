@@ -2,758 +2,678 @@
   "game": "anime-adventures",
   "gameTitle": "애니메 어드벤처",
   "month": "2026-04",
-  "lastUpdated": "2026-04-04T02:15:20.511938+00:00",
+  "lastUpdated": "2026-04-10T04:39:11.956420+00:00",
   "codes": [
     {
       "code": "HOLIDAY2023",
-      "reward": "",
-      "verified": 2,
+      "reward": "500 Gems",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "SACREDPLANET",
-      "reward": "",
-      "verified": 2,
+      "reward": "500 Gems",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "성스러운 행성 이름의 기념 코드예요! 애니메 어드벤처에서 젬이나 티켓 보상이 있을 거예요."
     },
     {
       "code": "UNLEASHFUSESOON",
-      "reward": "",
-      "verified": 2,
+      "reward": "500 Gems",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "AMEGAKURE",
-      "reward": "",
-      "verified": 2,
+      "reward": "500 Gems",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "SIXPATHSUPD",
-      "reward": "",
-      "verified": 2,
+      "reward": "500 Gems",
+      "verified": 3,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "HAPPYHALLOWEEN",
-      "reward": "",
+      "reward": "Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "HALLOWEENUPDSOON",
-      "reward": "",
+      "reward": "500 Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "STRAYDOGS",
-      "reward": "",
+      "reward": "500 Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "HOLYGRAIL",
-      "reward": "",
+      "reward": "500 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "MORIOH",
-      "reward": "",
+      "reward": "500 Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "UNBREAKABLE",
-      "reward": "",
+      "reward": "250 Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "REASON2FIGHT",
-      "reward": "",
+      "reward": "500 Gems and 1,000 Pearls",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "BILLION",
-      "reward": "",
+      "reward": "11 World Jumpers",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "OVERLORD",
-      "reward": "",
+      "reward": "710 gems, 1000 clams",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SUMMER2023",
-      "reward": "",
+      "reward": "500 gems, 1000 clams",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "NEWCODE0819",
-      "reward": "",
+      "reward": "gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "ANNIVERSARY",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "TOURNAMENTUIFIX",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "AINCRAD",
-      "reward": "",
+      "reward": "500 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "MADOKA",
-      "reward": "",
+      "reward": "500 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "DRESSROSA",
-      "reward": "",
+      "reward": "500 Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "ENTERTAINMENT",
-      "reward": "",
+      "reward": "500 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "HAPPYEASTER",
-      "reward": "",
+      "reward": "200 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "VIGILANTE",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "GOLDENSHUTDOWN",
-      "reward": "",
+      "reward": "500 Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "GOLDEN",
-      "reward": "",
+      "reward": "500 Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SINS2",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SINS",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "UCHIHA",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "CLOUD",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "HERO",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SuperTierMagicSoon",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "CHAINSAW",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "NEWYEAR2023",
-      "reward": "",
+      "reward": "free gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "DAILYFIX",
-      "reward": "",
+      "reward": "free gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "PORTALFIX",
-      "reward": "",
+      "reward": "100 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "CHRISTMAS2022",
-      "reward": "",
+      "reward": "500 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "GRAVITY",
-      "reward": "",
+      "reward": "500 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "UPDATEHYPE",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "KARAKORA2",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "KARAKORA",
-      "reward": "",
+      "reward": "500 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "CLOVER2",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "CLOVER",
-      "reward": "",
+      "reward": "500 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "subtomaokuma",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SubToKelvingts",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SubToBlamspot",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "TOADBOIGAMING",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "KingLuffy",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "noclypso",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "subtosnowrbx",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "Cxrsed",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "FictioNTheFirst",
-      "reward": "",
+      "reward": "1 summon ticket",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "HALLOWEEN",
-      "reward": "",
+      "reward": "free gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "CURSE2",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SORRYFORSHUTDOWN2",
-      "reward": "",
+      "reward": "250 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "CURSE",
-      "reward": "",
+      "reward": "350 gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "FAIRY2",
-      "reward": "",
+      "reward": "Free gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "FAIRY",
-      "reward": "",
+      "reward": "Free gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SERVERFIX",
-      "reward": "",
+      "reward": "Free gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "HUNTER",
-      "reward": "",
+      "reward": "Free Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "QUESTFIX",
-      "reward": "",
+      "reward": "Free Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "HOLLOW",
-      "reward": "",
+      "reward": "Free Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "GHOUL",
-      "reward": "",
+      "reward": "free gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "MUGENTRAIN",
-      "reward": "",
+      "reward": "free gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "FIRSTRAIDS",
-      "reward": "",
+      "reward": "Free Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "DATAFIX",
-      "reward": "",
+      "reward": "Free Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "MARINEFORD",
-      "reward": "",
+      "reward": "Free Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "TWOMILLION",
-      "reward": "",
+      "reward": "Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "SORRYFORSHUTDOWN",
-      "reward": "",
+      "reward": "Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "CHALLENGEFIX",
-      "reward": "",
+      "reward": "Free Rewards",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "GINYUFIX",
-      "reward": "",
+      "reward": "Free Rewards",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "RELEASE",
-      "reward": "",
+      "reward": "50 Gems",
       "verified": 2,
       "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "News",
-      "reward": "Redeem Codes",
-      "verified": 2,
-      "status": "active",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "iOS",
-      "reward": "Android",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Features",
-      "reward": "Best Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Reviews",
-      "reward": "Gadgets & Tech",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "GameKnot",
-      "reward": "Addicting Games",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Fortnite",
-      "reward": "Roblox",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Minecraft",
-      "reward": "Genshin Impact",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Pokemon",
-      "reward": "Wordle",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Wordle",
-      "reward": "BitLife",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "BitLife",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "APRILFOOLS",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "DUNGEONS",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "UPDATE20RELEASE",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "UPD20INCOMING",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "ASSASSIN",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "UPDSOON",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "MILLIONFAVES",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "2BILLIONAA",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": "아직 확인 중인 코드예요. 작동 여부를 확인하면 업데이트할게요."
     },
     {
       "code": "SHUTDOWNCODE1230",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "MERRYCHRISTMAS2",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "MERRYCHRISTMAS",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
       "code": "HOLIDAYS2024",
       "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "verified": 2,
+      "status": "active",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -761,7 +681,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -769,7 +689,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -777,7 +697,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -785,7 +705,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -793,7 +713,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -801,7 +721,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -809,7 +729,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -817,7 +737,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -825,7 +745,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -833,7 +753,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     },
     {
@@ -841,23 +761,7 @@
       "reward": "",
       "verified": 1,
       "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Accessibility",
-      "reward": "",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
-      "rewardAnalysis": ""
-    },
-    {
-      "code": "Temptalia",
-      "reward": "Video Gaming",
-      "verified": 1,
-      "status": "unverified",
-      "addedDate": "2026-04-04",
+      "addedDate": "2026-04-10",
       "rewardAnalysis": ""
     }
   ],
